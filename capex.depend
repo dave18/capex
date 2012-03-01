@@ -1,0 +1,234 @@
+# depslib dependency file v1.0
+1324664429 source:/media/MAINSYSTEM/source/GravityForce/gforce.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<linux/fb.h>
+	<sys/ioctl.h>
+	<sys/mman.h>
+	<fcntl.h>
+	"assert.h"
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_net.h"
+	"SDL/SDL_mixer.h"
+	"gforce.h"
+	"sintab.h"
+
+1209020086 /media/MAINSYSTEM/source/SDL/SDL_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255363640 /media/MAINSYSTEM/source/SDL/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255911952 /media/MAINSYSTEM/source/SDL/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255927868 /media/MAINSYSTEM/source/SDL/SDL_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1255363640 /media/MAINSYSTEM/source/SDL/SDL_platform.h
+
+1255363640 /media/MAINSYSTEM/source/SDL/SDL_config_dreamcast.h
+	"SDL_platform.h"
+
+1255363640 /media/MAINSYSTEM/source/SDL/SDL_config_macos.h
+	"SDL_platform.h"
+	<MacTypes.h>
+
+1255363640 /media/MAINSYSTEM/source/SDL/SDL_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1255363640 /media/MAINSYSTEM/source/SDL/SDL_config_symbian.h
+	"SDL_platform.h"
+	<stdarg.h>
+	<stddef.h>
+
+1255363640 /media/MAINSYSTEM/source/SDL/SDL_config_win32.h
+	"SDL_platform.h"
+
+1255363640 /media/MAINSYSTEM/source/SDL/SDL_config_os2.h
+	"SDL_platform.h"
+
+1306496498 /media/MAINSYSTEM/source/SDL/SDL_config_minimal.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255363640 /media/MAINSYSTEM/source/SDL/begin_code.h
+
+1255363640 /media/MAINSYSTEM/source/SDL/close_code.h
+
+1209027678 /media/MAINSYSTEM/source/SDL/SDL_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_byteorder.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255363640 /media/MAINSYSTEM/source/SDL/SDL_types.h
+	"SDL_stdinc.h"
+
+1255363640 /media/MAINSYSTEM/source/SDL/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255363640 /media/MAINSYSTEM/source/SDL/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255363640 /media/MAINSYSTEM/source/SDL/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255363640 /media/MAINSYSTEM/source/SDL/SDL_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255363640 /media/MAINSYSTEM/source/SDL/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255363640 /media/MAINSYSTEM/source/SDL/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1255363640 /media/MAINSYSTEM/source/SDL/SDL_byteorder.h
+	"SDL_endian.h"
+
+1324661371 /media/MAINSYSTEM/source/GravityForce/gforce.h
+
+1053739122 /media/MAINSYSTEM/source/GravityForce/sintab.h
+
+1328981040 source:/home/david/capex/capex.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<SDL/SDL.h>
+	<fcntl.h>
+	<sys/mman.h>
+	"./gfx/gfx_BG.h"
+	"./gfx/gfx_CAPEX.h"
+	"./gfx/gfx_FONT.h"
+	"./gfx/gfx_SELECTEUR.h"
+	"capex.h"
+	"cpuclock.h"
+	"capex_ecriture.h"
+	"capex_lecture.h"
+	"capex_tri.h"
+	"capex_pixel.h"
+
+1200834194 /home/david/capex/gfx/gfx_BG.h
+
+1200834184 /home/david/capex/gfx/gfx_CAPEX.h
+
+1200834190 /home/david/capex/gfx/gfx_FONT.h
+
+1200834184 /home/david/capex/gfx/gfx_SELECTEUR.h
+
+1328903571 /home/david/capex/capex.h
+
+1324731466 /home/david/capex/capex_ecriture.h
+
+1328982937 /home/david/capex/capex_lecture.h
+
+1328286140 /home/david/capex/capex_tri.h
+
+1328206180 /home/david/capex/capex_pixel.h
+
+1200834198 /home/david/capex/cpuclock.h
+
+1329697549 source:/media/mmcblk0p1/capex/capex.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<SDL/SDL.h>
+	<fcntl.h>
+	<sys/mman.h>
+	"./gfx/gfx_BG.h"
+	"./gfx/gfx_CAPEX.h"
+	"./gfx/gfx_FONT.h"
+	"./gfx/gfx_SELECTEUR.h"
+	"capex.h"
+	"cpuclock.h"
+	"capex_ecriture.h"
+	"capex_lecture.h"
+	"capex_tri.h"
+	"capex_pixel.h"
+
+1200834194 /media/mmcblk0p1/capex/gfx/gfx_BG.h
+
+1200834184 /media/mmcblk0p1/capex/gfx/gfx_CAPEX.h
+
+1200834190 /media/mmcblk0p1/capex/gfx/gfx_FONT.h
+
+1200834184 /media/mmcblk0p1/capex/gfx/gfx_SELECTEUR.h
+
+1329566249 /media/mmcblk0p1/capex/capex.h
+
+1200834198 /media/mmcblk0p1/capex/cpuclock.h
+
+1324731466 /media/mmcblk0p1/capex/capex_ecriture.h
+
+1329697688 /media/mmcblk0p1/capex/capex_lecture.h
+
+1328286140 /media/mmcblk0p1/capex/capex_tri.h
+
+1328206180 /media/mmcblk0p1/capex/capex_pixel.h
+

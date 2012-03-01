@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="release" />
+	<File name="capex.c" open="1" top="1" tabpos="2">
+		<Cursor position="44183" topLine="1522" />
+	</File>
+	<File name="capex.h" open="1" top="0" tabpos="3">
+		<Cursor position="7228" topLine="235" />
+	</File>
+	<File name="capex_ecriture.h" open="1" top="0" tabpos="4">
+		<Cursor position="2605" topLine="59" />
+	</File>
+	<File name="capex_lecture.h" open="1" top="0" tabpos="1">
+		<Cursor position="3125" topLine="65" />
+	</File>
+</CodeBlocks_layout_file>

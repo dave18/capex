@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PXML xmlns="http://openpandora.org/namespaces/PXML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="PXML_schema.xsd">
+<!-- please see http://pandorawiki.org/PXML_specification for more information before editing, and remember the order does matter -->
+
+   <package id="capex">
+           <author name="david" website="http://www.openpandora.org/"/>
+           <version major="" minor="0" release="0" build="1"/>
+           <titles>
+                   <title lang="en_US">capex</title>
+           </titles>
+           <descriptions>
+                   <description lang="en_US">capex</description>
+           </descriptions>
+   </package>
+
+  <application id="capex-fba-12238" appdata="capex">
+    <exec command="scripts/fba.sh"/>
+    <title lang="en_US">capex</title>
+
+    <author name="david" website="http://www.openpandora.org/"/>
+    <version major="" minor="0" release="0" build="1"/>	      <!--This programs version-->
+    <osversion major="1" minor="0" release="0" build="0"/>		<!--The minimum OS version required-->
+
+    <description lang="en_US">Automatically generated description from /media/mmcblk0p1/capex for PND=capex</description>
+
+    <!--<icon src="path/to/icon.pnd"/>-->
+
+<!--
+    <previewpics>
+      <pic src="previews/fba.png"/>
+    </previewpics>
+-->
+<!--
+    <licenses>
+      <license name="GPLv3" url="http://www.gnu.org/copyleft/gpl.html" sourcecodeurl="http://www.kernel.org/default"/>
+    </licenses>
+-->
+    <!--<info name="fba documentation" type="text/plain" src="./built/readme.txt"/>-->
+
+    <categories>
+      <!-- http://standards.freedesktop.org/menu-spec/latest/apa.html -->
+      <category name="Game">
+	<subcategory name="ArcadeGame"/>
+      </category>
+    </categories>
+
+<!--
+    <associations>
+      <association name="Deinterlaced Bitmap Image" filetype="image/bmp" exec="-f %s"/>
+      <association name="Style sheet system crasher" filetype="text/css" exec="-f %s"/>
+    </associations>
+-->
+    <!--<clockspeed frequency="600"/>-->
+  </application>
+
+  <application id="capex-capex_selector.bmp-12238" appdata="capex">
+    <exec command="scripts/capex_selector.bmp.sh"/>
+    <title lang="en_US">capex</title>
+
+    <author name="david" website="http://www.openpandora.org/"/>
+    <version major="" minor="0" release="0" build="1"/>	      <!--This programs version-->
+    <osversion major="1" minor="0" release="0" build="0"/>		<!--The minimum OS version required-->
+
+    <description lang="en_US">Automatically generated description from /media/mmcblk0p1/capex for PND=capex</description>
+
+    <!--<icon src="path/to/icon.pnd"/>-->
+
+<!--
+    <previewpics>
+      <pic src="previews/capex_selector.bmp.png"/>
+    </previewpics>
+-->
+<!--
+    <licenses>
+      <license name="GPLv3" url="http://www.gnu.org/copyleft/gpl.html" sourcecodeurl="http://www.kernel.org/default"/>
+    </licenses>
+-->
+    <!--<info name="capex_selector.bmp documentation" type="text/plain" src="./built/readme.txt"/>-->
+
+    <categories>
+      <!-- http://standards.freedesktop.org/menu-spec/latest/apa.html -->
+      <category name="Game">
+	<subcategory name="ArcadeGame"/>
+      </category>
+    </categories>
+
+<!--
+    <associations>
+      <association name="Deinterlaced Bitmap Image" filetype="image/bmp" exec="-f %s"/>
+      <association name="Style sheet system crasher" filetype="text/css" exec="-f %s"/>
+    </associations>
+-->
+    <!--<clockspeed frequency="600"/>-->
+  </application>
+
+  <application id="capex-capex_title.png-12238" appdata="capex">
+    <exec command="scripts/capex_title.png.sh"/>
+    <title lang="en_US">capex</title>
+
+    <author name="david" website="http://www.openpandora.org/"/>
+    <version major="" minor="0" release="0" build="1"/>	      <!--This programs version-->
+    <osversion major="1" minor="0" release="0" build="0"/>		<!--The minimum OS version required-->
+
+    <description lang="en_US">Automatically generated description from /media/mmcblk0p1/capex for PND=capex</description>
+
+    <!--<icon src="path/to/icon.pnd"/>-->
+
+<!--
+    <previewpics>
+      <pic src="previews/capex_title.png.png"/>
+    </previewpics>
+-->
+<!--
+    <licenses>
+      <license name="GPLv3" url="http://www.gnu.org/copyleft/gpl.html" sourcecodeurl="http://www.kernel.org/default"/>
+    </licenses>
+-->
+    <!--<info name="capex_title.png documentation" type="text/plain" src="./built/readme.txt"/>-->
+
+    <categories>
+      <!-- http://standards.freedesktop.org/menu-spec/latest/apa.html -->
+      <category name="Game">
+	<subcategory name="ArcadeGame"/>
+      </category>
+    </categories>
+
+<!--
+    <associations>
+      <association name="Deinterlaced Bitmap Image" filetype="image/bmp" exec="-f %s"/>
+      <association name="Style sheet system crasher" filetype="text/css" exec="-f %s"/>
+    </associations>
+-->
+    <!--<clockspeed frequency="600"/>-->
+  </application>
+
+  <application id="capex-capex_bg.bmp-12238" appdata="capex">
+    <exec command="scripts/capex_bg.bmp.sh"/>
+    <title lang="en_US">capex</title>
+
+    <author name="david" website="http://www.openpandora.org/"/>
+    <version major="" minor="0" release="0" build="1"/>	      <!--This programs version-->
+    <osversion major="1" minor="0" release="0" build="0"/>		<!--The minimum OS version required-->
+
+    <description lang="en_US">Automatically generated description from /media/mmcblk0p1/capex for PND=capex</description>
+
+    <!--<icon src="path/to/icon.pnd"/>-->
+
+<!--
+    <previewpics>
+      <pic src="previews/capex_bg.bmp.png"/>
+    </previewpics>
+-->
+<!--
+    <licenses>
+      <license name="GPLv3" url="http://www.gnu.org/copyleft/gpl.html" sourcecodeurl="http://www.kernel.org/default"/>
+    </licenses>
+-->
+    <!--<info name="capex_bg.bmp documentation" type="text/plain" src="./built/readme.txt"/>-->
+
+    <categories>
+      <!-- http://standards.freedesktop.org/menu-spec/latest/apa.html -->
+      <category name="Game">
+	<subcategory name="ArcadeGame"/>
+      </category>
+    </categories>
+
+<!--
+    <associations>
+      <association name="Deinterlaced Bitmap Image" filetype="image/bmp" exec="-f %s"/>
+      <association name="Style sheet system crasher" filetype="text/css" exec="-f %s"/>
+    </associations>
+-->
+    <!--<clockspeed frequency="600"/>-->
+  </application>
+
+  <application id="capex-picorestore-12238" appdata="capex">
+    <exec command="scripts/picorestore.sh"/>
+    <title lang="en_US">capex</title>
+
+    <author name="david" website="http://www.openpandora.org/"/>
+    <version major="" minor="0" release="0" build="1"/>	      <!--This programs version-->
+    <osversion major="1" minor="0" release="0" build="0"/>		<!--The minimum OS version required-->
+
+    <description lang="en_US">Automatically generated description from /media/mmcblk0p1/capex for PND=capex</description>
+
+    <!--<icon src="path/to/icon.pnd"/>-->
+
+<!--
+    <previewpics>
+      <pic src="previews/picorestore.png"/>
+    </previewpics>
+-->
+<!--
+    <licenses>
+      <license name="GPLv3" url="http://www.gnu.org/copyleft/gpl.html" sourcecodeurl="http://www.kernel.org/default"/>
+    </licenses>
+-->
+    <!--<info name="picorestore documentation" type="text/plain" src="./built/readme.txt"/>-->
+
+    <categories>
+      <!-- http://standards.freedesktop.org/menu-spec/latest/apa.html -->
+      <category name="Game">
+	<subcategory name="ArcadeGame"/>
+      </category>
+    </categories>
+
+<!--
+    <associations>
+      <association name="Deinterlaced Bitmap Image" filetype="image/bmp" exec="-f %s"/>
+      <association name="Style sheet system crasher" filetype="text/css" exec="-f %s"/>
+    </associations>
+-->
+    <!--<clockspeed frequency="600"/>-->
+  </application>
+
+  <application id="capex-capex-12238" appdata="capex">
+    <exec command="scripts/capex.sh"/>
+    <title lang="en_US">capex</title>
+
+    <author name="david" website="http://www.openpandora.org/"/>
+    <version major="" minor="0" release="0" build="1"/>	      <!--This programs version-->
+    <osversion major="1" minor="0" release="0" build="0"/>		<!--The minimum OS version required-->
+
+    <description lang="en_US">Automatically generated description from /media/mmcblk0p1/capex for PND=capex</description>
+
+    <!--<icon src="path/to/icon.pnd"/>-->
+
+<!--
+    <previewpics>
+      <pic src="previews/capex.png"/>
+    </previewpics>
+-->
+<!--
+    <licenses>
+      <license name="GPLv3" url="http://www.gnu.org/copyleft/gpl.html" sourcecodeurl="http://www.kernel.org/default"/>
+    </licenses>
+-->
+    <!--<info name="capex documentation" type="text/plain" src="./built/readme.txt"/>-->
+
+    <categories>
+      <!-- http://standards.freedesktop.org/menu-spec/latest/apa.html -->
+      <category name="Game">
+	<subcategory name="ArcadeGame"/>
+      </category>
+    </categories>
+
+<!--
+    <associations>
+      <association name="Deinterlaced Bitmap Image" filetype="image/bmp" exec="-f %s"/>
+      <association name="Style sheet system crasher" filetype="text/css" exec="-f %s"/>
+    </associations>
+-->
+    <!--<clockspeed frequency="600"/>-->
+  </application>
+
+  <application id="capex-libSDL-1.2.so.0.11.3-12238" appdata="capex">
+    <exec command="scripts/libSDL-1.2.so.0.11.3.sh"/>
+    <title lang="en_US">capex</title>
+
+    <author name="david" website="http://www.openpandora.org/"/>
+    <version major="" minor="0" release="0" build="1"/>	      <!--This programs version-->
+    <osversion major="1" minor="0" release="0" build="0"/>		<!--The minimum OS version required-->
+
+    <description lang="en_US">Automatically generated description from /media/mmcblk0p1/capex for PND=capex</description>
+
+    <!--<icon src="path/to/icon.pnd"/>-->
+
+<!--
+    <previewpics>
+      <pic src="previews/libSDL-1.2.so.0.11.3.png"/>
+    </previewpics>
+-->
+<!--
+    <licenses>
+      <license name="GPLv3" url="http://www.gnu.org/copyleft/gpl.html" sourcecodeurl="http://www.kernel.org/default"/>
+    </licenses>
+-->
+    <!--<info name="libSDL-1.2.so.0.11.3 documentation" type="text/plain" src="./built/readme.txt"/>-->
+
+    <categories>
+      <!-- http://standards.freedesktop.org/menu-spec/latest/apa.html -->
+      <category name="Game">
+	<subcategory name="ArcadeGame"/>
+      </category>
+    </categories>
+
+<!--
+    <associations>
+      <association name="Deinterlaced Bitmap Image" filetype="image/bmp" exec="-f %s"/>
+      <association name="Style sheet system crasher" filetype="text/css" exec="-f %s"/>
+    </associations>
+-->
+    <!--<clockspeed frequency="600"/>-->
+  </application>
+
+  <application id="capex-choko.bmp-12238" appdata="capex">
+    <exec command="scripts/choko.bmp.sh"/>
+    <title lang="en_US">capex</title>
+
+    <author name="david" website="http://www.openpandora.org/"/>
+    <version major="" minor="0" release="0" build="1"/>	      <!--This programs version-->
+    <osversion major="1" minor="0" release="0" build="0"/>		<!--The minimum OS version required-->
+
+    <description lang="en_US">Automatically generated description from /media/mmcblk0p1/capex for PND=capex</description>
+
+    <!--<icon src="path/to/icon.pnd"/>-->
+
+<!--
+    <previewpics>
+      <pic src="previews/choko.bmp.png"/>
+    </previewpics>
+-->
+<!--
+    <licenses>
+      <license name="GPLv3" url="http://www.gnu.org/copyleft/gpl.html" sourcecodeurl="http://www.kernel.org/default"/>
+    </licenses>
+-->
+    <!--<info name="choko.bmp documentation" type="text/plain" src="./built/readme.txt"/>-->
+
+    <categories>
+      <!-- http://standards.freedesktop.org/menu-spec/latest/apa.html -->
+      <category name="Game">
+	<subcategory name="ArcadeGame"/>
+      </category>
+    </categories>
+
+<!--
+    <associations>
+      <association name="Deinterlaced Bitmap Image" filetype="image/bmp" exec="-f %s"/>
+      <association name="Style sheet system crasher" filetype="text/css" exec="-f %s"/>
+    </associations>
+-->
+    <!--<clockspeed frequency="600"/>-->
+  </application>
+
+  <application id="capex-qndream.bmp-12238" appdata="capex">
+    <exec command="scripts/qndream.bmp.sh"/>
+    <title lang="en_US">capex</title>
+
+    <author name="david" website="http://www.openpandora.org/"/>
+    <version major="" minor="0" release="0" build="1"/>	      <!--This programs version-->
+    <osversion major="1" minor="0" release="0" build="0"/>		<!--The minimum OS version required-->
+
+    <description lang="en_US">Automatically generated description from /media/mmcblk0p1/capex for PND=capex</description>
+
+    <!--<icon src="path/to/icon.pnd"/>-->
+
+<!--
+    <previewpics>
+      <pic src="previews/qndream.bmp.png"/>
+    </previewpics>
+-->
+<!--
+    <licenses>
+      <license name="GPLv3" url="http://www.gnu.org/copyleft/gpl.html" sourcecodeurl="http://www.kernel.org/default"/>
+    </licenses>
+-->
+    <!--<info name="qndream.bmp documentation" type="text/plain" src="./built/readme.txt"/>-->
+
+    <categories>
+      <!-- http://standards.freedesktop.org/menu-spec/latest/apa.html -->
+      <category name="Game">
+	<subcategory name="ArcadeGame"/>
+      </category>
+    </categories>
+
+<!--
+    <associations>
+      <association name="Deinterlaced Bitmap Image" filetype="image/bmp" exec="-f %s"/>
+      <association name="Style sheet system crasher" filetype="text/css" exec="-f %s"/>
+    </associations>
+-->
+    <!--<clockspeed frequency="600"/>-->
+  </application>
+
+  <application id="capex-armwar.bmp-12238" appdata="capex">
+    <exec command="scripts/armwar.bmp.sh"/>
+    <title lang="en_US">capex</title>
+
+    <author name="david" website="http://www.openpandora.org/"/>
+    <version major="" minor="0" release="0" build="1"/>	      <!--This programs version-->
+    <osversion major="1" minor="0" release="0" build="0"/>		<!--The minimum OS version required-->
+
+    <description lang="en_US">Automatically generated description from /media/mmcblk0p1/capex for PND=capex</description>
+
+    <!--<icon src="path/to/icon.pnd"/>-->
+
+<!--
+    <previewpics>
+      <pic src="previews/armwar.bmp.png"/>
+    </previewpics>
+-->
+<!--
+    <licenses>
+      <license name="GPLv3" url="http://www.gnu.org/copyleft/gpl.html" sourcecodeurl="http://www.kernel.org/default"/>
+    </licenses>
+-->
+    <!--<info name="armwar.bmp documentation" type="text/plain" src="./built/readme.txt"/>-->
+
+    <categories>
+      <!-- http://standards.freedesktop.org/menu-spec/latest/apa.html -->
+      <category name="Game">
+	<subcategory name="ArcadeGame"/>
+      </category>
+    </categories>
+
+<!--
+    <associations>
+      <association name="Deinterlaced Bitmap Image" filetype="image/bmp" exec="-f %s"/>
+      <association name="Style sheet system crasher" filetype="text/css" exec="-f %s"/>
+    </associations>
+-->
+    <!--<clockspeed frequency="600"/>-->
+  </application>
+
+  <application id="capex-spf2t.bmp-12238" appdata="capex">
+    <exec command="scripts/spf2t.bmp.sh"/>
+    <title lang="en_US">capex</title>
+
+    <author name="david" website="http://www.openpandora.org/"/>
+    <version major="" minor="0" release="0" build="1"/>	      <!--This programs version-->
+    <osversion major="1" minor="0" release="0" build="0"/>		<!--The minimum OS version required-->
+
+    <description lang="en_US">Automatically generated description from /media/mmcblk0p1/capex for PND=capex</description>
+
+    <!--<icon src="path/to/icon.pnd"/>-->
+
+<!--
+    <previewpics>
+      <pic src="previews/spf2t.bmp.png"/>
+    </previewpics>
+-->
+<!--
+    <licenses>
+      <license name="GPLv3" url="http://www.gnu.org/copyleft/gpl.html" sourcecodeurl="http://www.kernel.org/default"/>
+    </licenses>
+-->
+    <!--<info name="spf2t.bmp documentation" type="text/plain" src="./built/readme.txt"/>-->
+
+    <categories>
+      <!-- http://standards.freedesktop.org/menu-spec/latest/apa.html -->
+      <category name="Game">
+	<subcategory name="ArcadeGame"/>
+      </category>
+    </categories>
+
+<!--
+    <associations>
+      <association name="Deinterlaced Bitmap Image" filetype="image/bmp" exec="-f %s"/>
+      <association name="Style sheet system crasher" filetype="text/css" exec="-f %s"/>
+    </associations>
+-->
+    <!--<clockspeed frequency="600"/>-->
+  </application>
+
+  <application id="capex-vhunt2.bmp-12238" appdata="capex">
+    <exec command="scripts/vhunt2.bmp.sh"/>
+    <title lang="en_US">capex</title>
+
+    <author name="david" website="http://www.openpandora.org/"/>
+    <version major="" minor="0" release="0" build="1"/>	      <!--This programs version-->
+    <osversion major="1" minor="0" release="0" build="0"/>		<!--The minimum OS version required-->
+
+    <description lang="en_US">Automatically generated description from /media/mmcblk0p1/capex for PND=capex</description>
+
+    <!--<icon src="path/to/icon.pnd"/>-->
+
+<!--
+    <previewpics>
+      <pic src="previews/vhunt2.bmp.png"/>
+    </previewpics>
+-->
+<!--
+    <licenses>
+      <license name="GPLv3" url="http://www.gnu.org/copyleft/gpl.html" sourcecodeurl="http://www.kernel.org/default"/>
+    </licenses>
+-->
+    <!--<info name="vhunt2.bmp documentation" type="text/plain" src="./built/readme.txt"/>-->
+
+    <categories>
+      <!-- http://standards.freedesktop.org/menu-spec/latest/apa.html -->
+      <category name="Game">
+	<subcategory name="ArcadeGame"/>
+      </category>
+    </categories>
+
+<!--
+    <associations>
+      <association name="Deinterlaced Bitmap Image" filetype="image/bmp" exec="-f %s"/>
+      <association name="Style sheet system crasher" filetype="text/css" exec="-f %s"/>
+    </associations>
+-->
+    <!--<clockspeed frequency="600"/>-->
+  </application>
+
+  <application id="capex-mvsc.bmp-12238" appdata="capex">
+    <exec command="scripts/mvsc.bmp.sh"/>
+    <title lang="en_US">capex</title>
+
+    <author name="david" website="http://www.openpandora.org/"/>
+    <version major="" minor="0" release="0" build="1"/>	      <!--This programs version-->
+    <osversion major="1" minor="0" release="0" build="0"/>		<!--The minimum OS version required-->
+
+    <description lang="en_US">Automatically generated description from /media/mmcblk0p1/capex for PND=capex</description>
+
+    <!--<icon src="path/to/icon.pnd"/>-->
+
+<!--
+    <previewpics>
+      <pic src="previews/mvsc.bmp.png"/>
+    </previewpics>
+-->
+<!--
+    <licenses>
+      <license name="GPLv3" url="http://www.gnu.org/copyleft/gpl.html" sourcecodeurl="http://www.kernel.org/default"/>
+    </licenses>
+-->
+    <!--<info name="mvsc.bmp documentation" type="text/plain" src="./built/readme.txt"/>-->
+
+    <categories>
+      <!-- http://standards.freedesktop.org/menu-spec/latest/apa.html -->
+      <category name="Game">
+	<subcategory name="ArcadeGame"/>
+      </category>
+    </categories>
+
+<!--
+    <associations>
+      <association name="Deinterlaced Bitmap Image" filetype="image/bmp" exec="-f %s"/>
+      <association name="Style sheet system crasher" filetype="text/css" exec="-f %s"/>
+    </associations>
+-->
+    <!--<clockspeed frequency="600"/>-->
+  </application>
+
+  <application id="capex-msh.bmp-12238" appdata="capex">
+    <exec command="scripts/msh.bmp.sh"/>
+    <title lang="en_US">capex</title>
+
+    <author name="david" website="http://www.openpandora.org/"/>
+    <version major="" minor="0" release="0" build="1"/>	      <!--This programs version-->
+    <osversion major="1" minor="0" release="0" build="0"/>		<!--The minimum OS version required-->
+
+    <description lang="en_US">Automatically generated description from /media/mmcblk0p1/capex for PND=capex</description>
+
+    <!--<icon src="path/to/icon.pnd"/>-->
+
+<!--
+    <previewpics>
+      <pic src="previews/msh.bmp.png"/>
+    </previewpics>
+-->
+</PXML>

@@ -1,0 +1,11 @@
+# Config V2 file generate by CAPEX
+# scramble
+
+fba2x_clock 600
+fba2x_sound 1
+fba2x_samplerate 22050
+fba2x_rescale 6
+fba2x_tweak 0
+fba2x_hiscore 1
+z80_core 0
+filter 1
