@@ -191,8 +191,8 @@ unsigned char joy_speed[4]={0,1,3,7};
 
 static char *abreviation_cf[6][7]={
 	{"Disable","Enable","","","","",""},
-	{"Scaled","","","Rotate","Rot Scl","Rot Sl2","Rot Sl3"},
-	{"Hide","Show","","","","",""},
+	{"None","2x","Best","Full","","",""},
+	{"Auto","Frc Hrz","Frc Vrt","","","",""},
 	{"Auto","Fc M68K","Fc C68K","","","",""},
 	{"DR Z80","C Z80","","","","",""},
 	{"Default","None","","","","",""}

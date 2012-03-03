@@ -30,7 +30,9 @@ void load_cfg()
 	options.cpuz80 = 0;*/
 	options.sound = 1;
 	options.samplerate = 11025;
-	options.rescale = 0;
+	options.rescale = 3;
+	options.rotate = 0;
+	options.sense = 100;
 /*	options.showfps = 0;
 	options.linescroll = 0;
 	options.frontend = 1;
@@ -77,7 +79,9 @@ void load_cfg()
 				else if (strcmp(arg1,"capex_clock")==0) capex.clock = argd;
 				else if (strcmp(arg1,"capex_tweak")==0) capex.tweak = argd;
 				else if (strcmp(arg1,"z80_core")==0) options.z80core = argd;
+				else if (strcmp(arg1,"rotate")==0) options.rotate = argd;
 				else if (strcmp(arg1,"filter")==0) options.filter = argd;
+				else if (strcmp(arg1,"sensitivity")==0) options.sense = argd;
 				else if (strcmp(arg1,"capex_delay_speed")==0) capex.delayspeed = argd;
 				else if (strcmp(arg1,"capex_repeat_speed")==0) capex.repeatspeed = argd;
 				else if (strcmp(arg1,"capex_list")==0) capex.list = argd;
@@ -149,6 +153,8 @@ void load_cf(void)
 				else if (strcmp(arg1,"fba2x_sound")==0) conf.sound = argd;
 				else if (strcmp(arg1,"fba2x_samplerate")==0) conf.samplerate = argd;
 				else if (strcmp(arg1,"fba2x_rescale")==0) conf.rescale = argd;
+				else if (strcmp(arg1,"fba2x_rescale")==0) conf.rotate = argd;
+				else if (strcmp(arg1,"fba2x_sensitivity")==0) conf.sense = argd;
 /*				else if (strcmp(arg1,"fba2x_showfps")==0) conf.showfps = argd;
 				else if (strcmp(arg1,"fba2x_linescroll")==0) conf.linescroll = argd;
 				else if (strcmp(arg1,"fba2x_showtitle")==0) conf.showtitle = argd;

@@ -111,6 +111,7 @@ struct oldoptions
 	unsigned char sound;
 	unsigned int samplerate;
 	unsigned char rescale;
+	unsigned char rotate;
 	unsigned char showfps;
 	unsigned char linescroll;
 	unsigned char frontend;
@@ -140,6 +141,7 @@ struct options
 	unsigned char sound;
 	unsigned int samplerate;
 	unsigned char rescale;
+	unsigned char rotate;
 	unsigned char showfps;
 	unsigned char linescroll;
 	unsigned char frontend;
@@ -161,6 +163,7 @@ struct options
 	unsigned char spare3;
 	unsigned char spare4;
 	unsigned char spare5;
+	unsigned int sense;
 
 
 }options;
@@ -175,6 +178,7 @@ struct oldconf
 	unsigned char sound;
 	unsigned int samplerate;
 	unsigned char rescale;
+	unsigned char rotate;
 /*	unsigned char showfps;
 	unsigned char linescroll;
 	unsigned char showtitle;
@@ -199,6 +203,7 @@ struct conf
 	unsigned char sound;
 	unsigned int samplerate;
 	unsigned char rescale;
+	unsigned char rotate;
 /*	unsigned char showfps;
 	unsigned char linescroll;
 	unsigned char showtitle;
@@ -217,6 +222,7 @@ struct conf
 	unsigned char spare3;
 	unsigned char spare4;
 	unsigned char spare5;
+	unsigned int sense;
 
 }conf;
 
@@ -826,17 +832,11 @@ void affiche_ligne_options(unsigned char num, unsigned char y)
 			}
 			break;
 		case OPTION_NUM_FBA2X_RESCALE:
-            if (options.rescale == 6) put_string( "Software Rotate Scaled 3" , OPTIONS_START_X , y , BLANC , screen );
+			if (options.rescale == 3) put_string( "Scale: Full" , OPTIONS_START_X , y , BLANC , screen );
 			else
-			if (options.rescale == 5) put_string( "Software Rotate Scaled 2" , OPTIONS_START_X , y , BLANC , screen );
-			else
-            if (options.rescale == 4) put_string( "Software Rotate Scaled" , OPTIONS_START_X , y , BLANC , screen );
-			else
-			if (options.rescale == 3) put_string( "Software Rotate" , OPTIONS_START_X , y , BLANC , screen );
-			else
-			if (options.rescale == 2) put_string( "Window: Hardware Full Resising" , OPTIONS_START_X , y , BLANC , screen );
-			else if (options.rescale == 1) put_string( "Window: Software" , OPTIONS_START_X , y , BLANC , screen );
-			else put_string( "Scale Aspect Intact" , OPTIONS_START_X , y , BLANC , screen );
+			if (options.rescale == 2) put_string( "Scale: Best Fit" , OPTIONS_START_X , y , BLANC , screen );
+			else if (options.rescale == 1) put_string( "Scale: 2x" , OPTIONS_START_X , y , BLANC , screen );
+			else put_string( "Scale: None" , OPTIONS_START_X , y , BLANC , screen );
 			if (conf.exist){
 				put_string( abreviation_cf[1][conf.rescale] , CONF_START_X , y , VERT , screen );
 			}else{
@@ -863,8 +863,14 @@ void affiche_ligne_options(unsigned char num, unsigned char y)
 			}
 			break;*/
 		case OPTION_NUM_FBA2X_FRONTEND:
-			if (options.frontend) put_string( "CAPEX auto-reload: Enable" , OPTIONS_START_X , y , BLANC , screen );
-			else put_string( "CAPEX auto-reload: Disable" , OPTIONS_START_X , y , BLANC , screen );
+			if (options.rotate == 2) put_string( "Rotate: Vertical" , OPTIONS_START_X , y , BLANC , screen );
+			else if (options.rotate == 1) put_string( "Rotate: Horizontal" , OPTIONS_START_X , y , BLANC , screen );
+			else put_string( "Rotate: Auto" , OPTIONS_START_X , y , BLANC , screen );
+			if (conf.exist){
+				put_string( abreviation_cf[2][conf.rotate] , CONF_START_X , y , VERT , screen );
+			}else{
+				put_string( "-" , CONF_START_X , y , ROUGE , screen );
+			}
 			break;/*
 		case OPTION_NUM_FBA2X_SHOWTITLE:
 			if (options.showtitle) put_string( "Show 'FBA2X for GP2X' title" , OPTIONS_START_X , y , BLANC , screen );
@@ -933,8 +939,14 @@ void affiche_ligne_options(unsigned char num, unsigned char y)
 			}
 			break;*/
 		case OPTION_NUM_CAPEX_DEADZONE:
-			sprintf((char*)g_string, "deadzone: %d" , capex.deadzone);
+			sprintf((char*)g_string, "Analogue Sensitivity: %d%%" , options.sense );
 			put_string( g_string , OPTIONS_START_X , y , BLANC , screen );
+			if (conf.exist){
+				sprintf((char*)g_string, "%d%%" , conf.sense );
+				put_string( g_string , CONF_START_X , y , VERT , screen );
+			}else{
+				put_string( "---%%" , CONF_START_X , y , ROUGE , screen );
+			}
 			break;
 		case OPTION_NUM_CAPEX_CLOCK:
 			if (options.z80core == 1) put_string( "Z80 Emu Core: C Z80" , OPTIONS_START_X , y , BLANC , screen );
@@ -1064,8 +1076,8 @@ void ss_prg_options(void)
 					switch(options.num){
 						case OPTION_NUM_CAPEX_DEADZONE:
 							flag_save = ROUGE;
-							--capex.deadzone;
-							if (capex.deadzone < 0) capex.deadzone=0x79;
+							--options.sense;
+							if (options.sense < 10) options.sense=100;
 							break;
 
 						case OPTION_NUM_FBA2X_CPU:
@@ -1134,8 +1146,8 @@ void ss_prg_options(void)
 					switch(options.num){
 						case OPTION_NUM_CAPEX_DEADZONE:
 							flag_save = ROUGE;
-							++capex.deadzone;
-							if (capex.deadzone > 0x79) capex.deadzone=0;
+							++options.sense;
+							if (options.sense > 100) options.sense=10;
 							break;
 
 						case OPTION_NUM_FBA2X_CPU:
@@ -1214,8 +1226,7 @@ void ss_prg_options(void)
 						case OPTION_NUM_FBA2X_RESCALE:
 							flag_save = ROUGE;
 							++options.rescale;
-							if ( options.rescale == 1 ) options.rescale = 3;
-							if ( options.rescale == 7 ) options.rescale = 0;
+							if ( options.rescale > 3 ) options.rescale = 0;
 							break;/*
 						case OPTION_NUM_FBA2X_SHOWFPS:
 							flag_save = ROUGE;
@@ -1229,8 +1240,8 @@ void ss_prg_options(void)
 							break;*/
 						case OPTION_NUM_FBA2X_FRONTEND:
 							flag_save = ROUGE;
-							++options.frontend;
-							options.frontend &= 1;
+							++options.rotate;
+							if ( options.rotate > 2 ) options.rotate = 0;
 							break;/*
 						case OPTION_NUM_FBA2X_SHOWTITLE:
 							flag_save = ROUGE;
@@ -1415,6 +1426,11 @@ void ss_prog_run(void)
 							strcpy(argument[ ar ],g_string);
 							++ar;
 
+							sprintf((char*)g_string, "--sense=%d" , options.sense);
+							argument[ ar ] = (char*) calloc( strlen(g_string) + 1 , sizeof(char));
+							strcpy(argument[ ar ],g_string);
+							++ar;
+
 
 /*
 							if (options.cpu68k){
@@ -1442,22 +1458,29 @@ void ss_prog_run(void)
 								++ar;
 							}
 
-                            if (options.rescale >= 4){
+                            if (options.rescale == 3){
 								//argument[ ar ] = "--hwho-rescale";
-								argument[ ar ] = "--sw-rotate-scale";
-								++ar;
-							}else if (options.rescale == 3){
-								//argument[ ar ] = "--hwho-rescale";
-								argument[ ar ] = "--sw-rotate";
+								argument[ ar ] = "--scaling=3";
 								++ar;
 							}else if (options.rescale == 2){
-								argument[ ar ] = "--hw-rescale";
+								argument[ ar ] = "--scaling=2";
 								++ar;
 							}else if (options.rescale == 1){
-								argument[ ar ] = "--sw-rescale";
+								argument[ ar ] = "--scaling=1";
 								++ar;
 							}else{
-								argument[ ar ] = "--no-rescale";
+								argument[ ar ] = "--scaling=0";
+								++ar;
+							}
+
+							if (options.rotate == 2){
+								argument[ ar ] = "--rotate=2";
+								++ar;
+							}else if (options.rotate == 1){
+								argument[ ar ] = "--rotate=1";
+								++ar;
+							}else{
+								argument[ ar ] = "--rotate=0";
 								++ar;
 							}
 
@@ -1590,6 +1613,11 @@ void ss_prog_run(void)
 								argument[ ar ] = (char*) calloc( strlen(g_string) + 1 , sizeof(char));
 								strcpy(argument[ ar ],g_string);
 								++ar;
+
+								sprintf((char*)g_string, "--sense=%d" , conf.sense);
+								argument[ ar ] = (char*) calloc( strlen(g_string) + 1 , sizeof(char));
+								strcpy(argument[ ar ],g_string);
+								++ar;
 /*
 								if (conf.cpu68k){
 									sprintf((char*)g_string, "--68kclock=%d" , conf.cpu68k);
@@ -1615,24 +1643,32 @@ void ss_prog_run(void)
 									argument[ ar ] = "--no-sound";
 									++ar;
 								}
-								if (conf.rescale >= 4){
+
+                            if (conf.rescale == 3){
 								//argument[ ar ] = "--hwho-rescale";
-								argument[ ar ] = "--sw-rotate-scale";
+								argument[ ar ] = "--scaling=3";
 								++ar;
-								}else if (conf.rescale == 3){
-									//argument[ ar ] = "--hwho-rescale";
-									argument[ ar ] = "--sw-rotate";
-									++ar;
-								}else if (conf.rescale == 2){
-									argument[ ar ] = "--hw-rescale";
-									++ar;
-								}else if (conf.rescale == 1){
-									argument[ ar ] = "--sw-rescale";
-									++ar;
-								}else{
-									argument[ ar ] = "--no-rescale";
-									++ar;
-								}
+							}else if (conf.rescale == 2){
+								argument[ ar ] = "--scaling=2";
+								++ar;
+							}else if (conf.rescale == 1){
+								argument[ ar ] = "--scaling=1";
+								++ar;
+							}else{
+								argument[ ar ] = "--scaling=0";
+								++ar;
+							}
+
+							if (conf.rotate == 2){
+								argument[ ar ] = "--rotate=2";
+								++ar;
+							}else if (conf.rotate == 1){
+								argument[ ar ] = "--rotate=1";
+								++ar;
+							}else{
+								argument[ ar ] = "--rotate=0";
+								++ar;
+							}
 
 								if (conf.tweak == 2){
                                     argument[ ar ] = "--force-c68k";

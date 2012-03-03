@@ -1,5 +1,25 @@
 #!/bin/sh
 
+mkdir -p ./config
+mkdir -p ./config/games
+mkdir -p ./config/ips
+mkdir -p ./config/localisation
+mkdir -p ./config/presets
+mkdir -p ./recordings
+mkdir -p ./roms
+mkdir -p ./savestates
+mkdir -p ./screenshots
+mkdir -p ./support
+mkdir -p ./support/previews
+mkdir -p ./support/titles
+mkdir -p ./support/icons
+mkdir -p ./support/cheats
+mkdir -p ./support/hiscores
+mkdir -p ./support/samples
+mkdir -p ./support/ips
+mkdir -p ./support/neocdz
+mkdir -p ./neocdiso
+
 #sudo -n /usr/pandora/scripts/op_lcdrate.sh 50
 
 cpu="$(cat /proc/pandora/cpu_mhz_max)"
@@ -24,7 +44,7 @@ done
 #export SDL_OMAP_LAYER_SIZE=768x480
 #export SDL_OMAP_LAYER_SIZE=300x480
 #export SDL_OMAP_VSYNC=0
-LD_PRELOAD=./libSDL-1.2.so.0.11.3 ./fba $1 $2 $3 $4 $5 $6 $7 $8 $9
+LD_PRELOAD=./libSDL-1.2.so.0.11.3 ./fba $1 $2 $3 $4 $5 $6 $7 $8 $9 $10 $11 $12
 #./fba $1 $2 $3 $4 $5 $6
 
 sudo /usr/pandora/scripts/op_videofir.sh default_up
