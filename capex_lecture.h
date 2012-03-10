@@ -175,6 +175,7 @@ void load_cf(void)
 	}
 }
 
+
 char lecture_zipname(void)
 {
 	unsigned int caractere;
@@ -186,6 +187,13 @@ char lecture_zipname(void)
 	data.nb_list[0] = 0;
 	data.long_max = 0;
 	data.nb_rom = 0;
+	char prog[256];
+	char buffer[20];
+	SDL_Rect progrect;
+	progrect.x=130;
+	progrect.y=100;
+	progrect.w=150;
+	progrect.h=10;
 
 	printf("lecture fichier zipname.fba\n");
 	if ((fp = fopen("zipname.fba", "r")) != NULL){
@@ -200,8 +208,14 @@ char lecture_zipname(void)
 
 			for ( caractere = 0 ; caractere < temp ; ++caractere){
 				if (strncmp( &ligne[caractere] ,"," , 1)==0){
+				    if (data.zip[data.nb_list[0]])
+				    {
+				        free(data.zip[data.nb_list[0]]);
+				        data.zip[data.nb_list[0]]=NULL;
+				    }
 
 					data.zip[data.nb_list[0]] = (char*) calloc( caractere + 1 , sizeof(char));
+					data.nb_ziplength[data.nb_list[0]] =caractere + 1;
 					strncpy(data.zip[data.nb_list[0]], ligne ,caractere);
 
 					flag_v0 = caractere+1;
@@ -215,15 +229,28 @@ char lecture_zipname(void)
 					break;
 				}
 			}
+			if (data.name[data.nb_list[0]])
+            {
+                free(data.name[data.nb_list[0]]);
+                data.name[data.nb_list[0]]=NULL;
+            }
+            if (data.status[data.nb_list[0]])
+            {
+                free(data.status[data.nb_list[0]]);
+                data.status[data.nb_list[0]]=NULL;
+            }
 
 			if (flag_v1){
 					data.name[data.nb_list[0]] = (char*) calloc( (flag_v1-flag_v0) + 1 , sizeof(char));
+					data.nb_namelength[data.nb_list[0]] =(flag_v1-flag_v0) + 1;
 					strncpy(data.name[data.nb_list[0]], &ligne[flag_v0] , (flag_v1-flag_v0) );
 
 					data.status[data.nb_list[0]] = (char*) calloc( (temp  - flag_v1)  , sizeof(char));
+					data.nb_statuslength[data.nb_list[0]] = (temp  - flag_v1);
 					strncpy(data.status[data.nb_list[0]], &ligne[flag_v1+1] , (temp  - flag_v1 - 1) );
 			}else{
 					data.name[data.nb_list[0]] = (char*) calloc( (temp-flag_v0) , sizeof(char));
+					data.nb_namelength[data.nb_list[0]] =(temp-flag_v0);
 					strncpy(data.name[data.nb_list[0]], &ligne[flag_v0] , (temp-flag_v0)-1 );
 			}
 
@@ -243,12 +270,19 @@ char lecture_zipname(void)
 				data.etat[data.nb_list[0]] +=9 ;
 				++data.nb_cache;
 			}*/
+			nitoa((int)data.nb_list[0]+1,buffer,10);
+            strcpy(prog,"READING GAME LIST: ");
+            strcat(prog,buffer);
+            SDL_FillRect(screen,&progrect,0);
+			put_string( prog , 130 , 100 ,BLANC, screen );
+			SDL_Flip(screen);
 
 			printf("-");
 
 			//increment nombre de set detect�
 			++data.nb_list[0];
-		}fclose(fp);
+		}
+		fclose(fp);
 		printf("]\n");
 	}else return 1;
 	printf("fin lecture fichier zipname.fba %d\n",data.nb_list[0]);
@@ -356,10 +390,17 @@ char lecture_rominfo(void)
 			if ( strcmp( arg1 , "FILENAME(" ) == 0 ){
 				found=0;
 				for ( ii=0 ; ii<data.nb_list[0] ; ++ii){
+				    if (data.parent[ii])
+				    {
+				        free(data.parent[ii]);
+				        data.parent[ii]=NULL;
+				    }
+
 
 					if ( data.parent[ii] == NULL )
 					if ( strncmp( data.zip[ii] , arg2 , (strlen(arg2)) ) == 0 && (strlen(arg2)) == strlen(data.zip[ii]) ){
 						data.parent[ii] = (char*) calloc( strlen(arg3) , sizeof(char));
+						data.nb_parentlength[ii] =strlen(arg3);
 						strncpy( data.parent[ii] , arg3 , (strlen(arg3)) );
 //						printf("(%s->%s)", data.zip[ii], data.parent[ii]);
 						found=1;
@@ -380,7 +421,9 @@ char lecture_rominfo(void)
 	for ( ii=0 ; ii<data.nb_list[0] ; ++ii)
 		if ( data.parent[ii] == NULL ){
 			data.parent[ii] = (char*) calloc( 7 +1 , sizeof(char));
-			strncpy( data.parent[ii] , "unknown" , 7 );
+			data.nb_parentlength[ii] =7+1;
+			//strncpy( data.parent[ii] , "unknown" , 7 );
+			strcpy( data.parent[ii] , "fba"  );
 		}
 
 	return 0;

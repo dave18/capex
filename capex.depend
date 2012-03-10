@@ -193,7 +193,7 @@
 
 1200834198 /home/david/capex/cpuclock.h
 
-1329697549 source:/media/mmcblk0p1/capex/capex.c
+1331382898 source:/media/mmcblk0p1/capex/capex.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -201,6 +201,8 @@
 	<SDL/SDL.h>
 	<fcntl.h>
 	<sys/mman.h>
+	<linux/fb.h>
+	<sys/ioctl.h>
 	"./gfx/gfx_BG.h"
 	"./gfx/gfx_CAPEX.h"
 	"./gfx/gfx_FONT.h"
@@ -220,13 +222,13 @@
 
 1200834184 /media/mmcblk0p1/capex/gfx/gfx_SELECTEUR.h
 
-1329566249 /media/mmcblk0p1/capex/capex.h
+1330734992 /media/mmcblk0p1/capex/capex.h
 
 1200834198 /media/mmcblk0p1/capex/cpuclock.h
 
-1324731466 /media/mmcblk0p1/capex/capex_ecriture.h
+1331235118 /media/mmcblk0p1/capex/capex_ecriture.h
 
-1329697688 /media/mmcblk0p1/capex/capex_lecture.h
+1331383928 /media/mmcblk0p1/capex/capex_lecture.h
 
 1328286140 /media/mmcblk0p1/capex/capex_tri.h
 

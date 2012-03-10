@@ -31,6 +31,9 @@
 
 #include <fcntl.h>
 #include <sys/mman.h>
+#include <linux/fb.h>
+#include <sys/ioctl.h>
+
 
 
 #include "./gfx/gfx_BG.h"
@@ -44,6 +47,12 @@
 #endif
 
 extern char **environ;
+
+#define FBIO_WAITFORVSYNC _IOW('F', 0x20, __u32)
+unsigned long fbdev;
+int vb;
+
+int ErrorQuit;
 
 SDL_Event event;
 
@@ -88,9 +97,13 @@ struct data
 	unsigned int nb_rom;
 	unsigned int nb_cache;
 	unsigned int nb_list[NB_FILTRE];
+	int nb_namelength[NB_MAX_GAMES];
 	char *name[NB_MAX_GAMES];
+	int nb_ziplength[NB_MAX_GAMES];
 	char *zip[NB_MAX_GAMES];
+	int nb_statuslength[NB_MAX_GAMES];
 	char *status[NB_MAX_GAMES];
+	int nb_parentlength[NB_MAX_GAMES];
 	char *parent[NB_MAX_GAMES];
 	unsigned char etat[NB_MAX_GAMES];
 	unsigned int longueur[NB_MAX_GAMES];
@@ -99,35 +112,6 @@ struct data
 
 unsigned int listing_tri[NB_FILTRE][NB_MAX_GAMES];
 
-struct oldoptions
-{
-	unsigned char y;
-	unsigned char num;
-	unsigned int offset_num;
-
-	unsigned int cpu;
-/*	signed int cpu68k;
-	signed int cpuz80;*/
-	unsigned char sound;
-	unsigned int samplerate;
-	unsigned char rescale;
-	unsigned char rotate;
-	unsigned char showfps;
-	unsigned char linescroll;
-	unsigned char frontend;
-/*	unsigned char showtitle;
-	signed char screenposition;
-	unsigned char fullcache;
-
-	unsigned char extinput;
-	unsigned char xorrom;*/
-	unsigned char tweak;
-	unsigned char hiscore;
-
-	unsigned char nb;
-	unsigned char listing;
-
-}oldoptions;
 
 struct options
 {
@@ -168,30 +152,6 @@ struct options
 
 }options;
 
-struct oldconf
-{
-	unsigned char exist;
-	char *cf;
-	unsigned int cpu;
-/*	signed int cpu68k;
-	signed int cpuz80;*/
-	unsigned char sound;
-	unsigned int samplerate;
-	unsigned char rescale;
-	unsigned char rotate;
-/*	unsigned char showfps;
-	unsigned char linescroll;
-	unsigned char showtitle;
-	signed char screenposition;
-	unsigned char fullcache;
-
-	unsigned char extinput;
-	unsigned char xorrom;*/
-	unsigned char tweak;
-	unsigned char hiscore;
-
-
-}oldconf;
 
 struct conf
 {
@@ -373,6 +333,73 @@ void CaanooCpuSpeedSet(unsigned int MHZ)
 }
 #endif
 
+static void xtoa (
+        unsigned long val,
+        char *buf,
+        unsigned radix,
+        int is_neg
+        )
+{
+        char *p;                /* pointer to traverse string */
+        char *firstdig;         /* pointer to first digit */
+        char temp;              /* temp char */
+        unsigned digval;        /* value of digit */
+
+        p = buf;
+
+        if (is_neg) {
+            /* negative, so output '-' and negate */
+            *p++ = '-';
+            val = (unsigned long)(-(long)val);
+        }
+
+        firstdig = p;           /* save pointer to first digit */
+
+        do {
+            digval = (unsigned) (val % radix);
+            val /= radix;       /* get next digit */
+
+            /* convert to ascii and store */
+            if (digval > 9)
+                *p++ = (char) (digval - 10 + 'a');  /* a letter */
+            else
+                *p++ = (char) (digval + '0');       /* a digit */
+        } while (val > 0);
+		*p=0;
+
+        /* We now have the digit of the number in the buffer, but in reverse
+           order.  Thus we reverse them now. */
+
+        //*p-- = '\0';            /* terminate string; p points to last digit */
+		*p--;
+
+        do {
+            temp = *p;
+            *p = *firstdig;
+            *firstdig = temp;   /* swap *p and *firstdig */
+            --p;
+            ++firstdig;         /* advance to next two digits */
+        } while (firstdig < p); /* repeat until halfway */
+}
+
+/* Actual functions just call conversion helper with neg flag set correctly,
+   and return pointer to buffer. */
+
+void nitoa (
+        int val,
+        char *buf,
+        int radix
+        )
+{
+        if (radix == 10 && val < 0)
+            xtoa((unsigned long)val, buf, radix, 1);
+        else
+            xtoa((unsigned long)(unsigned int)val, buf, radix, 0);
+        return buf;
+}
+
+
+
 void redraw_screen(void)
 {
 	if (flag_TV){
@@ -380,7 +407,10 @@ void redraw_screen(void)
 		SDL_UpdateRect( screen2 , offset_x, offset_y, 320, 240 );
 		while ( ((SDL_GetTicks() - fps_count) <<10 ) < 17066 ); //17066 ~ 60Hz | 20480 ~ 50Hz
 		fps_count = SDL_GetTicks();
-	}else SDL_Flip(screen);
+	}else {
+	    SDL_Flip(screen);
+	    ioctl(fbdev,FBIO_WAITFORVSYNC,&vb);
+	}
 }
 
 void free_memory(void)
@@ -1556,7 +1586,7 @@ void ss_prog_run(void)
 							argument[ ar ] = (char *)0;
 							path = "fba.sh";
 
-
+                            close(fbdev);
 							free_memory();
 							SDL_Quit();
 							int i;
@@ -1742,6 +1772,7 @@ void ss_prog_run(void)
 								argument[ ar ] = (char *)0;
 								path = "fba.sh";
 
+                                close(fbdev);
 								free_memory();
 								SDL_Quit();
 
@@ -1812,16 +1843,121 @@ int findfirst(int l,int s)
     return s;
 }
 
+void scan_roms()
+{
+    FILE * dumpdata;
+    put_string( "READING GAME LIST" , 130 , 100 ,BLANC, help );
+	//drawSprite(help,screen,0,0,0,0,help->w,help->h);
+
+	redraw_screen();
+
+	if (lecture_zipname()) ErrorQuit = 1;
+	else{
+		tri_alphabeticAZ(0,data.nb_list[0]);
+		if ( lecture_rominfo() ) ErrorQuit = 2;
+		else{
+			lecture_rom_jouable();
+			ErrorQuit = 0;
+		}
+	}
+
+	printf("Finished parsing roms\n");
+
+
+	data.nb_list[1] = 0;
+	data.nb_list[2] = 0;
+	data.nb_list[3] = 0;
+	for ( ii=0 ; ii<data.nb_list[0] ; ++ii){
+		if (data.etat[listing_tri[0][ii]] == ROUGE ) {
+			listing_tri[1][data.nb_list[1]] = listing_tri[0][ii];
+			++data.nb_list[1];
+		}else{
+			listing_tri[2][data.nb_list[2]] = listing_tri[0][ii];
+			++data.nb_list[2];
+
+			if (data.etat[listing_tri[0][ii]] == VERT || data.etat[listing_tri[0][ii]] == BLEU ) {
+				listing_tri[3][data.nb_list[3]] = listing_tri[0][ii];
+				++data.nb_list[3];
+			}
+		}
+	}
+
+    printf("Finished something roms\n");
+
+    dumpdata=fopen("gamelist.cpx","wb");
+    if (dumpdata)
+    {
+        int z;
+        char buffer[20];
+        	SDL_Rect progrect;
+	progrect.x=130;
+	progrect.y=100;
+	progrect.w=150;
+	progrect.h=10;
+		char prog[256];
+
+        fwrite(&data.nb_cache,1,sizeof(data.nb_cache),dumpdata);
+        fwrite(&data.nb_rom,1,sizeof(data.nb_rom),dumpdata);
+        for (i=0;i<NB_FILTRE;i++)
+        {
+            fwrite(&data.nb_list[i],1,sizeof(data.nb_list[i]),dumpdata);
+        }
+        for (i=0;i<NB_MAX_GAMES;i++)
+        {
+            z=data.nb_namelength[i];
+            fwrite(&z,1,sizeof(z),dumpdata);
+            fwrite(data.name[i],1,z,dumpdata);
+            z=data.nb_ziplength[i];
+            fwrite(&z,1,sizeof(z),dumpdata);
+            fwrite(data.zip[i],1,z,dumpdata);
+            z=data.nb_statuslength[i];
+            fwrite(&z,1,sizeof(z),dumpdata);
+            fwrite(data.status[i],1,z,dumpdata);
+            z=data.nb_parentlength[i];
+            fwrite(&z,1,sizeof(z),dumpdata);
+            fwrite(data.parent[i],1,z,dumpdata);
+            fwrite(&data.etat[i],1,sizeof(data.etat[i]),dumpdata);
+            fwrite(&data.longueur[i],1,sizeof(data.longueur[i]),dumpdata);
+
+            nitoa((int)i+1,buffer,10);
+            strcpy(prog,"WRITING GAME LIST: ");
+            strcat(prog,buffer);
+            SDL_FillRect(screen,&progrect,0);
+			put_string( prog , 130 , 100 ,BLANC, screen );
+			SDL_Flip(screen);
+
+        }
+        fwrite(&data.long_max,1,sizeof(data.long_max),dumpdata);
+        fwrite(&listing_tri[0][0],1,sizeof(listing_tri),dumpdata);
+    }
+    fclose(dumpdata);
+    	selector.y = START_Y-1;
+	selector.crt_x=0;
+	selector.num = 0;
+	selector.offset_num = 0;
+
+}
+
 int main(int argc, char *argv[])
 {
 	printf("CAPEX frontend for FBA2X\n");
 	printf("v0.1 by JYCET\n");
 
-	int Quit,ErrorQuit ;
+	int Quit ;
 	//int Write = 0;
 	unsigned int zipnum;
 	unsigned int y;
 	unsigned int compteur = 0;
+
+
+    for (i=0;environ[i];i++)
+    {
+        if (strstr(environ[i],"SDL_OMAP_VSYNC="))
+        {
+            strcpy(environ[i],"SDL_OMAP_VSYNC=0");
+        }
+    }
+
 
 	SDL_Init(SDL_INIT_JOYSTICK | SDL_INIT_VIDEO | SDL_INIT_TIMER);
 
@@ -1854,46 +1990,79 @@ int main(int argc, char *argv[])
 	SDL_ShowCursor (0); //desactive souris
 	SDL_JoystickOpen(0);
 
+    fbdev=open("/dev/fb0", O_RDONLY);
+
+
+	//precalcul font6 x coordonn�e
+	for (i=0;i<32;++i) font6x[i]=0;
+	for (i=32;i<255;++i) font6x[i]=(i-32)*6;
+
     load_cfg();
 	init_title();
 
+	FILE * dumpdata;
 
-	put_string( "READING GAME LIST" , 130 , 100 ,BLANC, help );
-	//drawSprite(help,screen,0,0,0,0,help->w,help->h);
+	dumpdata=fopen("gamelist.cpx","rb");
+	if (dumpdata)
+	{
+	    int z;
+	    fread(&data.nb_cache,1,sizeof(data.nb_cache),dumpdata);
+        fread(&data.nb_rom,1,sizeof(data.nb_rom),dumpdata);
+        for (i=0;i<NB_FILTRE;i++)
+        {
+            fread(&data.nb_list[i],1,sizeof(data.nb_list[i]),dumpdata);
+        }
+	    for (i=0;i<NB_MAX_GAMES;i++)
+        {
+            fread(&z,1,sizeof(z),dumpdata);
+            data.name[i]=(char*)malloc(z);
+            fread(data.name[i],1,z,dumpdata);
+            fread(&z,1,sizeof(z),dumpdata);
+            data.zip[i]=(char*)malloc(z);
+            fread(data.zip[i],1,z,dumpdata);
+            fread(&z,1,sizeof(z),dumpdata);
+            data.status[i]=(char*)malloc(z);
+            fread(data.status[i],1,z,dumpdata);
+            fread(&z,1,sizeof(z),dumpdata);
+            data.parent[i]=calloc(z,sizeof(char));
+            fread(data.parent[i],1,z,dumpdata);
+            fread(&data.etat[i],1,sizeof(data.etat[i]),dumpdata);
+            fread(&data.longueur[i],1,sizeof(data.longueur[i]),dumpdata);
+        }
+            fread(&data.long_max,1,sizeof(data.long_max),dumpdata);
+            fread(&listing_tri[0][0],1,sizeof(listing_tri),dumpdata);
+            fclose(dumpdata);
 
-	redraw_screen();
-
-	if (lecture_zipname()) ErrorQuit = 1;
-	else{
-		tri_alphabeticAZ(0,data.nb_list[0]);
-		if ( lecture_rominfo() ) ErrorQuit = 2;
-		else{
-			lecture_rom_jouable();
-			ErrorQuit = 0;
-		}
+            	FILE * outlistno;
+    outlistno=fopen("./lastsel.cap","r");
+    if (outlistno)
+    {
+        fread(&selector.num,1,sizeof(int),outlistno);
+        fread(&selector.offset_num,1,sizeof(int),outlistno);
+        fread(&selector.y,1,sizeof(char),outlistno);
+        printf("%u   %u   %c\n",selector.num,selector.offset_num,selector.y);
+        fclose(outlistno);
+        if (selector.num>data.nb_list[capex.list])
+        {
+            selector.y = START_Y-1;
+            selector.crt_x=0;
+            selector.num = 0;
+            selector.offset_num = 0;
+        }
+        if (selector.num>data.nb_list[capex.list]-13)
+        {
+            selector.num=data.nb_list[capex.list]-13;
+            selector.offset_num=selector.num;
+            selector.y = START_Y-1;
+        }
+    }
 	}
+    else
+    {
 
-	printf("Finished parsing roms\n");
+        scan_roms();
+    }
 
-	data.nb_list[1] = 0;
-	data.nb_list[2] = 0;
-	data.nb_list[3] = 0;
-	for ( ii=0 ; ii<data.nb_list[0] ; ++ii){
-		if (data.etat[listing_tri[0][ii]] == ROUGE ) {
-			listing_tri[1][data.nb_list[1]] = listing_tri[0][ii];
-			++data.nb_list[1];
-		}else{
-			listing_tri[2][data.nb_list[2]] = listing_tri[0][ii];
-			++data.nb_list[2];
-
-			if (data.etat[listing_tri[0][ii]] == VERT || data.etat[listing_tri[0][ii]] == BLEU ) {
-				listing_tri[3][data.nb_list[3]] = listing_tri[0][ii];
-				++data.nb_list[3];
-			}
-		}
-	}
-
-    printf("Finished something roms\n");
 
 /*
 	FILE * logFile;
@@ -1919,39 +2088,12 @@ int main(int argc, char *argv[])
 #endif
 	//set_gamma(100);
 
-	//precalcul font6 x coordonn�e
-	for (i=0;i<32;++i) font6x[i]=0;
-	for (i=32;i<255;++i) font6x[i]=(i-32)*6;
 
-	selector.y = START_Y-1;
-	selector.crt_x=0;
-	selector.num = 0;
-	selector.offset_num = 0;
 
-	FILE * outlistno;
-    outlistno=fopen("./lastsel.cap","r");
-    if (outlistno)
-    {
-        fread(&selector.num,1,sizeof(int),outlistno);
-        fread(&selector.offset_num,1,sizeof(int),outlistno);
-        fread(&selector.y,1,sizeof(char),outlistno);
-        printf("%u   %u   %c\n",selector.num,selector.offset_num,selector.y);
-        fclose(outlistno);
-            if (selector.num>data.nb_list[capex.list])
-    {
-        selector.y = START_Y-1;
-        selector.crt_x=0;
-        selector.num = 0;
-        selector.offset_num = 0;
-    }
-    if (selector.num>data.nb_list[capex.list]-13)
-    {
-        selector.num=data.nb_list[capex.list]-13;
-        selector.offset_num=selector.num;
-        selector.y = START_Y-1;
-    }
 
-    }
+
+
+
 	flag_preview = 0;
 	load_preview(selector.num);
 	load_cf();
@@ -1994,6 +2136,9 @@ int main(int argc, char *argv[])
 			        selector.num=findfirst(event.key.keysym.sym,selector.num);
 			        selector.offset_num=selector.num;
 			        selector.y = START_Y-1;
+			    }
+			    if (event.key.keysym.sym==SDLK_PAGEUP){
+			        scan_roms();
 			    }
 				if (event.key.keysym.sym==SDLK_DOWN){
 					if ( selector.num == (data.nb_list[capex.list]-1) && compteur==0 ){

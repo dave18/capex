@@ -68,10 +68,7 @@ void write_cfg()
 	sprintf((char*)g_string, "filter %d\n",options.filter);
 	fputs(g_string,fp);
 
-	sprintf((char*)g_string, "rotate %d\n",options.rotate);
-	fputs(g_string,fp);
-
-	sprintf((char*)g_string, "rescale %d\n",options.rescale);
+	sprintf((char*)g_string, "fba2x_rescale %d\n",options.rescale);
 	fputs(g_string,fp);
 
 	sprintf((char*)g_string, "sensitivity %d\n",options.sense);
