@@ -382,6 +382,14 @@ char lecture_rominfo(void)
 
 	int found=0;
 
+	for ( ii=0 ; ii<data.nb_list[0] ; ++ii){
+				    if (data.parent[ii])
+				    {
+				        free(data.parent[ii]);
+				        data.parent[ii]=NULL;
+				    }
+	}
+
 	printf("lecture fichier rominfo.fba\n");
 	if ((fp = fopen("rominfo.fba", "r")) != NULL){
 		printf("[");
@@ -390,11 +398,7 @@ char lecture_rominfo(void)
 			if ( strcmp( arg1 , "FILENAME(" ) == 0 ){
 				found=0;
 				for ( ii=0 ; ii<data.nb_list[0] ; ++ii){
-				    if (data.parent[ii])
-				    {
-				        free(data.parent[ii]);
-				        data.parent[ii]=NULL;
-				    }
+
 
 
 					if ( data.parent[ii] == NULL )
@@ -422,8 +426,8 @@ char lecture_rominfo(void)
 		if ( data.parent[ii] == NULL ){
 			data.parent[ii] = (char*) calloc( 7 +1 , sizeof(char));
 			data.nb_parentlength[ii] =7+1;
-			//strncpy( data.parent[ii] , "unknown" , 7 );
-			strcpy( data.parent[ii] , "fba"  );
+			strncpy( data.parent[ii] , "unknown" , 7 );
+			//strcpy( data.parent[ii] , "fba"  );
 		}
 
 	return 0;

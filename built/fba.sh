@@ -44,7 +44,7 @@ done
 #export SDL_OMAP_LAYER_SIZE=768x480
 #export SDL_OMAP_LAYER_SIZE=300x480
 #export SDL_OMAP_VSYNC=0
-LD_PRELOAD=./libSDL-1.2.so.0.11.3 ./fba $1 $2 $3 $4 $5 $6 $7 $8 $9 $10 $11 $12
+LD_PRELOAD=./libSDL-1.2.so.0 ./fba $1 $2 $3 $4 $5 $6 $7 $8 $9 $10 $11 $12
 #./fba $1 $2 $3 $4 $5 $6
 
 sudo /usr/pandora/scripts/op_videofir.sh default_up
