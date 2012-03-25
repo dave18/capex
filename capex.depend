@@ -193,7 +193,7 @@
 
 1200834198 /home/david/capex/cpuclock.h
 
-1331382898 source:/media/mmcblk0p1/capex/capex.c
+1332271628 source:/media/mmcblk0p1/capex/capex.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -228,7 +228,7 @@
 
 1331235118 /media/mmcblk0p1/capex/capex_ecriture.h
 
-1331579373 /media/mmcblk0p1/capex/capex_lecture.h
+1332684624 /media/mmcblk0p1/capex/capex_lecture.h
 
 1328286140 /media/mmcblk0p1/capex/capex_tri.h
 

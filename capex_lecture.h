@@ -153,7 +153,7 @@ void load_cf(void)
 				else if (strcmp(arg1,"fba2x_sound")==0) conf.sound = argd;
 				else if (strcmp(arg1,"fba2x_samplerate")==0) conf.samplerate = argd;
 				else if (strcmp(arg1,"fba2x_rescale")==0) conf.rescale = argd;
-				else if (strcmp(arg1,"fba2x_rescale")==0) conf.rotate = argd;
+				else if (strcmp(arg1,"fba2x_rotate")==0) conf.rotate = argd;
 				else if (strcmp(arg1,"fba2x_sensitivity")==0) conf.sense = argd;
 /*				else if (strcmp(arg1,"fba2x_showfps")==0) conf.showfps = argd;
 				else if (strcmp(arg1,"fba2x_linescroll")==0) conf.linescroll = argd;

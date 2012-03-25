@@ -6,7 +6,7 @@
   <package id="fba.dave18.001">
 
     <author name="Ported by David Douglas" website="http://www.openpandora.org"/>
-    <version major="1" minor="0" release="7" build="3"/><!--This programs version-->
+    <version major="1" minor="0" release="7" build="5"/><!--This programs version-->
     <titles>
       <title lang="en_US">FBA with CAPEX FE</title>
     </titles>
@@ -19,7 +19,7 @@
   <application id="fba-dave18">
     <exec command="capex.sh"/>
     <author name="Ported by David Douglas"/>
-    <version major="1" minor="0" release="7" build="3"/><!--This programs version-->
+    <version major="1" minor="0" release="7" build="5"/><!--This programs version-->
     <osversion major="1" minor="0" release="0" build="0"/><!--The minimum OS version required-->
     <title lang="en_US">FBA with CAPEX FE</title>
     <description lang="en_US">Port of FBA with CAPEX Front End</description>

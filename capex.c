@@ -568,7 +568,7 @@ char ss_prg_credit(void)
 		SDL_PollEvent(&event);
 		if (event.type==SDL_KEYDOWN){
 			if (compteur==0 || (compteur>capex.delayspeed && ((compteur&joy_speed[capex.repeatspeed])==0))){
-				if ( event.key.keysym.sym==SDLK_LALT ){
+				if (( event.key.keysym.sym==SDLK_LALT ) || ( event.key.keysym.sym==SDLK_0 )){
 					return 1 ;
 				}else return 0;
 			}
@@ -1959,7 +1959,7 @@ int main(int argc, char *argv[])
     }
 
 
-	SDL_Init(SDL_INIT_JOYSTICK | SDL_INIT_VIDEO | SDL_INIT_TIMER);
+	SDL_Init(SDL_INIT_VIDEO | SDL_INIT_TIMER);
 
 #ifdef GP2X
 	if(!gp2x_dev) gp2x_dev = open("/dev/mem", O_RDWR);
@@ -1988,7 +1988,7 @@ int main(int argc, char *argv[])
 #endif
 
 	SDL_ShowCursor (0); //desactive souris
-	SDL_JoystickOpen(0);
+	//SDL_JoystickOpen(0);
 
     fbdev=open("/dev/fb0", O_RDONLY);
 
@@ -2209,6 +2209,8 @@ int main(int argc, char *argv[])
 				}else if (event.key.keysym.sym==SDLK_RIGHT && selector.crt_x<data.long_max-53 ){
 					++selector.crt_x;
 				}else if (event.key.keysym.sym==SDLK_LALT){
+					if ( ss_prg_credit() ) Quit = 1;
+                }else if (event.key.keysym.sym==SDLK_0){
 					if ( ss_prg_credit() ) Quit = 1;
 				}else if (event.key.keysym.sym==SDLK_HOME ){
 					// executer l'emu
