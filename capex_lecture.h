@@ -130,6 +130,10 @@ void load_cf(void)
 		conf.sound = options.sound;
 		conf.samplerate = options.samplerate;
 		conf.rescale = options.rescale;
+		conf.rotate = options.rotate;
+		conf.sense = options.sense;
+		conf.filter = options.filter;
+		conf.z80core = options.z80core;
 /*		conf.showfps = options.showfps;
 		conf.linescroll = options.linescroll;
 		conf.showtitle = options.showtitle;

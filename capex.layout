@@ -2,15 +2,15 @@
 <CodeBlocks_layout_file>
 	<ActiveTarget name="release" />
 	<File name="capex.c" open="1" top="1" tabpos="2">
-		<Cursor position="62370" topLine="2108" />
+		<Cursor position="24104" topLine="884" />
 	</File>
 	<File name="capex.h" open="1" top="0" tabpos="3">
-		<Cursor position="3175" topLine="83" />
+		<Cursor position="6554" topLine="184" />
 	</File>
 	<File name="capex_ecriture.h" open="1" top="0" tabpos="4">
-		<Cursor position="6250" topLine="160" />
+		<Cursor position="3680" topLine="98" />
 	</File>
 	<File name="capex_lecture.h" open="1" top="0" tabpos="1">
-		<Cursor position="12498" topLine="378" />
+		<Cursor position="6955" topLine="181" />
 	</File>
 </CodeBlocks_layout_file>

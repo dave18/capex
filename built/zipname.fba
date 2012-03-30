@@ -1,14 +1,5 @@
-8ballact,Eight Ball Action (DK conversion),1984 Seatongrove Ltd (Magic Eletronics USA licence)
-ckong,Crazy Kong Part II (set 1),1981 Falcon
-dkongjr,Donkey Kong Junior (US),1982 Nintendo of America
-dockman,Dock Man,1982 Taito Corporation
 dsoccr94,Dream Soccer '94,1994 Irem (Data East Corporation license)
-hunchbak,Hunchback (set 1),1983 Century Electronics
-huncholy,Hunchback Olympic,1984 Seatongrove Ltd
-maniacsq,Maniac Square (unprotected),1996 Gaelco
 mwalk,Michael Jackson's Moonwalker (set 3  World  FD1094/8751 317-0159),1990 Sega
-phoenix,Phoenix (Amstar),1980 Amstar
-thepit,The Pit,1992 Taito
 88games,'88 Games,1988 Konami
 99lstwar,'99: The Last War,1985 Proma
 99lstwara,'99: The Last War (alternate),1985 Proma
@@ -23,8 +14,9 @@ md_16ton,16 Ton (Jpn  SegaNet),1991 Sega
 md_16zhan,16 Zhang Ma Jiang (Chi),199? <unlicensed>
 sgx_1941,1941 - Counter Attack,1991 Hudson
 1941u,1941 - Counter Attack (900227 USA),1990 Capcom
+1941,1941 - Counter Attack (900227 World),1990 Capcom
 1941j,1941 - Counter Attack (Japan),1990 Capcom
-1941,1941 - Counter Attack (World),1990 Capcom
+1941r1,1941 - Counter Attack (World),1990 Capcom
 1942b,1942 (First Version),1984 Capcom
 1942a,1942 (Revision A),1984 Capcom
 1942abl,1942 (Revision A  bootleg),1984 Capcom
@@ -40,6 +32,7 @@ pce_1943kai,1943 Kai,1991 Naxat
 1944j,1944 - the loop master (000620 Japan),2000 Capcom / 8ing / Raizing
 1944d,1944 - the loop master (000620 USA Phoenix Edition),2000 bootleg
 1944,1944 - the loop master (000620 USA),2000 Capcom / 8ing / Raizing
+bgareggabl,1945 Part 2 (Battle Garaga hack),1996 hack
 1945kiii,1945k III,2000 Oriental
 19xxa,19XX - the war against destiny (951207 Asia),1995 Capcom
 19xxjr1,19XX - the war against destiny (951207 Japan),1995 Capcom
@@ -51,7 +44,7 @@ pce_1943kai,1943 Kai,1991 Naxat
 2020bb,2020 Super Baseball (set 1),1991 SNK / Pallas
 2020bba,2020 Super Baseball (set 2),1991 SNK / Pallas
 2020bbh,2020 Super Baseball (set 3),1991 SNK / Pallas
-md_sb2020j,2020 Toshi Super Baseball (Jpn),1994 Electronic Arts Victor
+md_2020bbj,2020 Toshi Super Baseball (Jpn),1994 Electronic Arts Victor
 pce_21emon,21 Emon - Mezase Hotel ou!!,1994 NEC Home Electronics
 3countb,3 Count Bout / Fire Suplex (NGM-043)(NGH-043),1993 SNK
 md_3in1fl,3 in 1 Flashback - World Champ. Soccer - Tecmo World Cup 92 (Pirate),199? <unknown>
@@ -69,7 +62,7 @@ md_688atsub,688 Attack Sub (Euro  USA),1991 Sega
 md_bugslife,A Bug's Life,199? <unlicensed>
 md_bugslifea,A Bug's Life (Alt?),199? <unlicensed>
 md_dinotale,A Dinosaur's Tale (USA),1993 Hi-Tech Expression
-md_aresshik,A Ressha de Ikou MD - Take the 'A' Train (Jpn),1992 Sega
+md_aresshmd,A Ressha de Ikou MD - Take the 'A' Train (Jpn),1992 Sega
 abcop,A.B. Cop (FD1094 317-0169b),1990 Sega
 ad2083,A.D. 2083,1983 Midcoin
 md_aaharima,Aa Harimanada (Jpn),1993 Sega
@@ -79,12 +72,15 @@ abscam,Abscam,1981 GL (US Billiards License)
 aceattac,Ace Attacker (FD1094 317-0059),1988 Sega
 aceattaca,Ace Attacker (Japan  System 16A  FD1094 317-0060),1986 Sega
 acrobatm,Acrobat Mission,1991 UPL (Taito license)
+actfancrj,Act-Fancer Cybernetick Hyper Weapon (Japan revision 1),1989 Data East Corporation
+actfancr1,Act-Fancer Cybernetick Hyper Weapon (World revision 1),1989 Data East Corporation
+actfancr,Act-Fancer Cybernetick Hyper Weapon (World revision 2),1989 Data East Corporation
 md_action52,Action 52 (USA),1993 Active Enterprises
 md_action52a,Action 52 (USA  Alt),1993 Active Enterprises
 afighter,Action Fighter  FD1089A 317-0018,1986 Sega
 md_ar,Action Replay (Euro),199? <unknown>
 md_addfamv,Addams Family Values (Euro),1994 Ocean
-md_advdai,Advanced Daisenryaku - Deutsch Dengeki Sakusen (Jpn  Rev. A),1991 Sega
+md_advdaisn,Advanced Daisenryaku - Deutsch Dengeki Sakusen (Jpn  Rev. A),1991 Sega
 pce_advislnd,Adventure Island,1991 Hudson
 hatena,Adventure Quiz 2 Hatena Hatena no Dai-Bouken (Japan 900228),1990 Capcom
 md_adveboy,Adventurous Boy - Mao Xian Xiao Zi (Chi),199? <unlicensed>
@@ -136,7 +132,7 @@ ajax,Ajax,1987 Konami
 ajaxj,Ajax (Japan),1987 Konami
 hcastljo,Akuma-Jou Dracula (Japan ver. N),1988 Konami
 hcastlej,Akuma-Jou Dracula (Japan ver. P),1988 Konami
-md_akumajou,Akumajou Dracula - Vampire Killer (Jpn),1994 Konami
+md_akumajo,Akumajou Dracula - Vampire Killer (Jpn),1994 Konami
 md_aladdin2,Aladdin II,199? <unlicensed>
 alcon,Alcon (US),1986 Taito America Corp.
 sgx_aldynes,Aldynes,1991 Hudson
@@ -153,14 +149,14 @@ aliencha,Alien Challenge (World),1994 IGS
 pce_acrush,Alien Crush,1988 Naxat
 tg_acrush,Alien Crush,1989 NEC
 aliensec,Alien Sector,1985 Namco
-md_aliens,Alien Soldier (Euro),1995 Sega
-md_aliensj,Alien Soldier (Jpn),1995 Sega
+md_aliensol,Alien Soldier (Euro),1995 Sega
+md_aliensolj,Alien Soldier (Jpn),1995 Sega
 astormj,Alien Storm (set 1  Japan  2 Players  FD1094 317-0146),1990 Sega
 astormu,Alien Storm (set 2  US  3 Players  FD1094 317-0147),1990 Sega
 astorm3,Alien Storm (set 3  World  3 Players  FD1094 317-0148),1990 Sega
 astorm,Alien Storm (set 4  World  2 Players  FD1094 317-0154),1990 Sega
 astormja,Alien Storm (set 5  Japan Rev B  2 Players  FD1094 317-0146),1990 Sega
-md_alienstm,Alien Storm (World),1991 Sega
+md_astorm,Alien Storm (World),1991 Sega
 aliensynjo,Alien Syndrome (set 1  Japan  old  System 16A  FD1089A 317-0033),1987 Sega
 aliensyn2,Alien Syndrome (set 2  System 16A  FD1089A 317-0033),1987 Sega
 aliensyn3,Alien Syndrome (set 3  System 16B  FD1089A 317-0033),1987 Sega
@@ -190,8 +186,9 @@ alpham2p,Alpha Mission II / ASO II - Last Guardian (prototype),1991 SNK
 md_altbeast,Altered Beast (Euro  USA),1989 Sega
 altbeast2,Altered Beast (set 2  MC-8123B 317-0066),1988 Sega
 altbeast4,Altered Beast (set 4  MC-8123B 317-0066),1988 Sega
-altbeast5,Altered Beast (set 5  8751 317-0076),1988 Sega
-altbeast,Altered Beast (set 7  8751 317-0078),1988 Sega
+altbeast5,Altered Beast (set 5  FD1094 317-0069),1988 Sega
+altbeast6,Altered Beast (set 6  8751 317-0076),1988 Sega
+altbeast,Altered Beast (set 8  8751 317-0078),1988 Sega
 ambush,Ambush,1983 Tecfri
 ambushj,Ambush (Japan),1983 Nippon Amuse Co-Ltd
 ambushv,Ambush (Volt Elec co-ltd),1983 Volt Elec co-ltd
@@ -209,15 +206,15 @@ md_agassiu,Andre Agassi Tennis (USA),1992 TecMagik
 md_agassiup,Andre Agassi Tennis (USA  Prototype),1992 TecMagik
 androdun,Andro Dunos (NGM-049)(NGH-049),1992 Visco
 angelkds,Angel Kids (Japan),1988 Sega / Nasco?
-md_animan,Animaniacs (Euro),1994 Konami
-md_animanu,Animaniacs (USA),1994 Konami
+md_animania,Animaniacs (Euro),1994 Konami
+md_animaniau,Animaniacs (USA),1994 Konami
 pce_ankoku,Ankoku Densetsu,1990 Victor Interactive Software
 md_anotherw,Another World (Euro),1993 Virgin Games
 anteater,Anteater,1982 Stern (Tago license)
 pce_aoiblink,Aoi Blink,1990 Hudson
-md_aokioo,Aoki Ookami to Shiroki Meshika - Genchou Hishi (Jpn),1993 Koei
+md_genchohi,Aoki Ookami to Shiroki Meshika - Genchou Hishi (Jpn),1993 Koei
 aponow,Apocaljpse Now,1982 bootleg
-pce_appgateb,Appare Gateball,1988 Hudson
+pce_appgateb,Appare! Gateball,1988 Hudson
 md_aqrenk,Aq Renkan Awa (Chi),1995 C&E
 aquajackj,Aquajack (Japan),1990 Taito Corporation
 aquajacku,Aquajack (US),1990 Taito Corporation
@@ -246,6 +243,7 @@ arktayt2,Arkanoid (Tayto bootleg  harder),1986 bootleg
 arkanoidu,Arkanoid (US),1986 Taito America Corporation (Romstar license)
 arkanoiduo,Arkanoid (US  older),1986 Taito America Corporation (Romstar license)
 arkanoid,Arkanoid (World),1986 Taito Corporation Japan
+arknoid2b,Arkanoid - Revenge of DOH (Japan bootleg),1987 bootleg
 arknoid2j,Arkanoid - Revenge of DOH (Japan),1987 Taito Corporation
 arknoid2u,Arkanoid - Revenge of DOH (US),1987 Taito America Corporation (Romstar license)
 arknoid2,Arkanoid - Revenge of DOH (World),1987 Taito Corporation Japan
@@ -286,8 +284,8 @@ ashuraj,Ashura Blaster (Japan),1990 Taito Corporation
 ashurau,Ashura Blaster (US),1990 Taito America Corporation
 ashura,Ashura Blaster (World),1990 Taito Corporation Japan
 md_leynos,Assault Suit Leynos (Jpn),1990 NCS
-md_asterix,Asterix and the Great Rescue (Euro),1993 Sega
-md_asterixu,Asterix and the Great Rescue (USA),1994 Sega
+md_astergre,Asterix and the Great Rescue (Euro),1993 Sega
+md_astergreu,Asterix and the Great Rescue (USA),1994 Sega
 md_asterpg,Asterix and the Power of the Gods (Euro),1995 Sega
 md_asterpgp,Asterix and the Power of the Gods (Euro  Prototype),1995 Sega
 asukaj,Asuka & Asuka (Japan),1988 Taito Corporation
@@ -302,7 +300,7 @@ atomicp,Atomic Point (Korea),1990 Philco
 atompunk,Atomic Punk (US),1991 Irem America (licensed from Hudson Soft)
 md_atomroboj,Atomic Robo-Kid (Jpn),1990 Treco
 md_atomrobo,Atomic Robo-Kid (USA),1990 Treco
-pce_robokids,Atomic Robo-kid Special,1990 UPL
+pce_atomrobo,Atomic Robo-kid Special,1990 UPL
 md_atomrun,Atomic Runner (Euro),1992 Data East
 md_atomrunu,Atomic Runner (USA),1992 Data East
 md_atptour,ATP Tour (Euro),1995 Sega
@@ -318,7 +316,7 @@ aurailj,Aurail (set 1  Japan  FD1089A 317-0167),1990 Sega / Westone
 aurail1,Aurail (set 2  World  FD1089B 317-0168),1990 Sega / Westone
 aurail,Aurail (set 3  US  unprotected),1990 Sega / Westone
 md_austrarl,Australian Rugby League (Euro),1994 Electronic Arts
-pce_avpoker,AV Poker,19?? Unknown
+pce_avpoker,AV Poker,1992 Games Express
 md_avatar,Avatar (Rus),199? <unknown>
 avengers,Avengers (US set 1),1987 Capcom
 avengers2,Avengers (US set 2),1987 Capcom
@@ -351,8 +349,8 @@ md_bahamuts,Bahamut Senki (Jpn),1991 Sega
 bakatono,Bakatonosama Mahjong Manyuuki (MOM-002)(MOH-002),1991 Monolith Corp.
 bakubrkr,Bakuretsu Breaker,1992 Kaneko
 md_balljack,Ball Jacks (Euro  Jpn),1993 Namco
-pce_ballistx,Ballistix,1991 Coconuts Japan
 tg_ballistx,Ballistix,1992 NEC
+pce_ballistx,Ballistix,1991 Coconuts Japan
 ballbros,Balloon Brothers,1992 East Technology
 md_ballz3d,Ballz 3D (Euro  USA),1994 Accolade
 bangbead,Bang Bead,2000 Visco
@@ -369,21 +367,21 @@ md_barkley,Barkley Shut Up and Jam! (Euro  USA),1993 Accolade
 md_barkley2,Barkley Shut Up and Jam! 2 (USA),1995 Accolade
 md_barkley2p,Barkley Shut Up and Jam! 2 (USA  Prototype),1995 Accolade
 md_barney,Barney's Hide & Seek Game (USA),1993 Sega
-pce_barunba,Barunba,1990 Namco
+pce_barunba,Barunba,1990 Namcot
 md_barver,Barver Battle Saga - Tai Kong Zhan Shi (Chi),199? <unlicensed>
 bstars2,Baseball Stars 2,1992 SNK
 bstarsh,Baseball Stars Professional (NGH-002),1990 SNK
 bstars,Baseball Stars Professional (NGM-002),1990 SNK
-md_bassma,Bass Masters Classic (USA),1995 Black Pearl
-md_bassmp,Bass Masters Classic - Pro Edition (USA),1996 THQ
+md_bassmc,BASS Masters Classic (USA),1995 Black Pearl
+md_bassmpro,BASS Masters Classic - Pro Edition (USA),1996 THQ
 pce_batman,Batman,1990 Sunsoft
 md_batman,Batman (Euro),1990 Sega
 md_batmanj,Batman (Jpn),1990 Sunsoft
 md_batmanu,Batman (USA),1990 Sunsoft
 md_batmanrj,Batman - Revenge of the Joker (USA),1992 Sunsoft
-md_batmanfr,Batman Forever (World),1995 Acclaim Entertainment
+md_batmanf,Batman Forever (World),1995 Acclaim Entertainment
 batman2,Batman Part 2,1981 bootleg
-md_batmanrt,Batman Returns (World),1992 Sega
+md_batmanrn,Batman Returns (World),1992 Sega
 batsugun,Batsugun (set 1),1993 Toaplan
 batsuguna,Batsugun (set 2),1993 Dual Toaplan
 batsugunsp,Batsugun (Special Ver.),1993 Dual Toaplan
@@ -418,7 +416,7 @@ bsharku,Battle Shark (US),1989 Taito America Corporation
 bshark,Battle Shark (World),1989 Taito Corporation Japan
 md_battlesq,Battle Squadron (Euro  USA),1990 Electronic Arts
 md_battlems,Battlemaster (USA),1991 Arena Entertainment
-md_battletc,BattleTech (USA),1994 Extreme Entertainment Group
+md_btech,BattleTech (USA),1994 Extreme Entertainment Group
 md_btoadsdd,Battletoads & Double Dragon - The Ultimate Team (USA),1993 Tradewest
 md_btoads,Battletoads (World),1991 Tradewest
 bayroute1,Bay Route (set 1  US  unprotected),1989 Sunsoft / Sega
@@ -432,6 +430,9 @@ beastf,Beastie Feastie,1984 Epos Corporation
 md_beavis,Beavis and Butt-Head (Euro),1994 Viacom New Media
 md_beavisu,Beavis and Butt-Head (USA),1994 Viacom New Media
 md_beavisup,Beavis and Butt-Head (USA  Prototype),1994 Viacom New Media
+ddp2100,Bee Storm - DoDonPachi II (V100),2001 IGS
+ddp2101,Bee Storm - DoDonPachi II (V101),2001 IGS
+ddp2,Bee Storm - DoDonPachi II (V102),2001 IGS
 blswhstl,Bells & Whistles (ver. L),1991 Konami
 bestbest,Best Of Best,1994 SunA
 md_bestofp,Best of the Best - Championship Karate (Euro  Prototype),1993 Electro Brain
@@ -439,7 +440,7 @@ md_bestof,Best of the Best - Championship Karate (USA),1993 Electro Brain
 bestri,Bestri (Korea),1998 F2 System
 md_beyoasis,Beyond Oasis (USA),1995 Sega
 md_beyondzt,Beyond Zero Tolerance (USA  Prototype),1995 Accolade
-punisherbz,Biaofeng Zhanjing (Chinese bootleg of The Punisher),2002 bootleg
+punisherbz,Biaofeng Zhanjing (Chinese bootleg),2002 bootleg
 md_bibleadv,Bible Adventures (USA),1995 Wisdom Tree
 bigbang,Big Bang (9th Nov. 1993),1993 NMK
 bigbucks,Big Bucks,1986 Dynasoft Inc.
@@ -458,7 +459,7 @@ bionicc,Bionic Commando (Euro),1987 Capcom
 bionicc1,Bionic Commando (US set 1),1987 Capcom
 bionicc2,Bionic Commando (US set 2),1987 Capcom
 birdiy,Birdiy,1982 Mama Top
-md_sailorm,Bishoujo Senshi Sailor Moon (Jpn),1994 Ma-Ba
+md_sailormn,Bishoujo Senshi Sailor Moon (Jpn),1994 Ma-Ba
 blkdrgon,Black Dragon,1987 Capcom
 blkdrgonb,Black Dragon (bootleg),1987 bootleg
 blkheart,Black Heart,1991 UPL
@@ -472,8 +473,8 @@ bmaster,Blade Master (World),1991 Irem
 md_bladeven,Blades of Vengeance (Euro  USA),1993 Electronic Arts
 blandia,Blandia,1992 Allumer
 blandiap,Blandia (prototype),1992 Allumer
-md_blast,Blaster Master 2 (USA),1993 Sunsoft
-md_blastp,Blaster Master 2 (USA  Prototype),1993 Sunsoft
+md_bmaster2,Blaster Master 2 (USA),1993 Sunsoft
+md_bmaster2p,Blaster Master 2 (USA  Prototype),1993 Sunsoft
 blazeon,Blaze On (Japan),1991 Atlus
 tg_blazlazr,Blazing Lazers,1989 NEC
 blazstar,Blazing Star,1998 Yumekobo
@@ -490,7 +491,7 @@ blockoutj,Block Out (Japan),1989 Technos + California Dreams
 blockout,Block Out (set 1),1989 Technos + California Dreams
 blockout2,Block Out (set 2),1989 Technos + California Dreams
 md_blockb,Blockbuster World Video Game Championship II (USA),1995 Acclaim Entertainment
-md_blocko,Blockout (World),1991 Electronic Arts
+md_blockout,Blockout (World),1991 Electronic Arts
 pce_blodia,Blodia,1990 Hudson
 blmbycar,Blomby Car,1994 ABM & Gecas
 blmbycaru,Blomby Car (not encrypted),1994 ABM & Gecas
@@ -507,8 +508,8 @@ blueprntj,Blue Print (Jaleco),1982 [Zilec Electronics] Jaleco
 blueprnt,Blue Print (Midway),1982 [Zilec Electronics] Bally Midway
 bjourney,Blue's Journey / Raguy (ALM-001)(ALH-001),1990 Alpha Denshi Co.
 bwcasino,Boardwalk Casino,1983 EPOS Corporation
-boblbobl,Bobble Bobble,1986 bootleg
-pce_bodycon2,Body Conquest II,19?? Unknown
+boblbobl,Bobble Bobble (set 1),1986 bootleg
+pce_bodycon2,Body Conquest II,1993 Games Express
 md_bodyco,Body Count (Euro),1994 Sega
 md_bodycop,Body Count (Euro  Prototype),1994 Sega
 md_bodycop5,Body Count (Prototype  19940127),1994 Sega
@@ -523,13 +524,13 @@ bombkick,Bomb Kick,1998 Yun Sung
 bombrman,Bomber Man (Japan),1991 Irem (licensed from Hudson Soft)
 bbmanwj,Bomber Man World (Japan),1992 Irem
 bbmanw,Bomber Man World / New Dyna Blaster - Global Quest,1992 Irem
-tg_bombman,Bomberman,1991 NEC
 pce_bombman,Bomberman,1990 Hudson
-pce_bombmn93,Bomberman '93,1992 Hudson
+tg_bombman,Bomberman,1991 NEC
 tg_bombmn93,Bomberman '93,1990 Hudson Soft
+pce_bombmn93,Bomberman '93,1992 Hudson
 pce_bombmn93s,Bomberman '93 (Special Version),1992 Hudson
 pce_bombmn94,Bomberman '94,1993 Hudson
-pce_bombmnub,Bomberman - Users Battle,19?? Unknown
+pce_bombmnub,Bomberman - Users Battle,19?? Hudson
 bjtwin,Bombjack Twin (set 1),1993 NMK
 bjtwina,Bombjack Twin (set 2),1993 NMK
 md_bnzabros1,Bonanza Bros. (Euro  Jpn),1991 Sega
@@ -560,7 +561,7 @@ pce_lostsunh,Bouken Danshaku Don - The Lost Sunheart,1992 IMax
 bouldashj,Boulder Dash / Boulder Dash Part 2 (Japan),1990 Data East Corporation (licensed from First Star)
 bouldash,Boulder Dash / Boulder Dash Part 2 (World),1990 Data East Corporation (licensed from First Star)
 bballs,Bouncing Balls,1991 Comad
-md_boxlgnd,Boxing Legends of the Ring (USA),1993 Electro Brain
+md_boxinglg,Boxing Legends of the Ring (USA),1993 Electro Brain
 tg_boxyboy,Boxyboy,1990 NEC
 md_bsteam3,Boy Soccer Team III (Jpn  Pirate),199? <pirate>
 brain,Brain,1986 Coreland / Sega
@@ -570,7 +571,7 @@ tg_bravoman,Bravoman,1990 NEC
 pce_breakin,Break In,1989 Naxat
 breakers,Breakers,1996 Visco
 breakrev,Breakers Revenge,1998 Visco
-md_bretthul,Brett Hull Hockey '95 (USA),1994 Accolade
+md_bretth,Brett Hull Hockey '95 (USA),1994 Accolade
 breywood,Breywood (Japan revision 2),1986 Data East Corporation
 md_brianlar1,Brian Lara Cricket (Euro  199503),1995 Codemasters
 md_brianlar,Brian Lara Cricket (Euro  199506),1995 Codemasters
@@ -626,8 +627,8 @@ cadashj,Cadash (Japan),1989 Taito Corporation
 cadashu,Cadash (US),1989 Taito America Corporation
 md_cadash,Cadash (USA  Asia  Kor),1992 Taito
 cadash,Cadash (World),1989 Taito Corporation Japan
-pce_cadash,Cadash,1991 Taito
 tg_cadash,Cadash,1991 Working Designs
+pce_cadash,Cadash,1991 Taito
 dino,Cadillacs & Dinosaurs (930201 etc),1993 Capcom
 dinou,Cadillacs & Dinosaurs (930201 USA),1993 Capcom
 dinoh,Cadillacs and Dinosaurs (930223 Asia TW bootleg),1993 bootleg
@@ -637,7 +638,7 @@ dinoj,Cadillacs Kyouryuu-Shinseiki (Cadillacs 930201 Japan),1993 Capcom
 md_caesar,Caesar no Yabou (Jpn),1991 Micronet
 md_caesar2,Caesar no Yabou II (Jpn),1992 Micronet
 md_caesars,Caesars Palace (USA),1993 Virgin Interactive
-md_calrip,Cal Ripken Jr. Baseball (USA),1992 Mindscape
+md_calripkn,Cal Ripken Jr. Baseball (USA),1992 Mindscape
 md_cal50,Cal.50 - Caliber Fifty (USA),1991 Mentrix Software
 calibr50,Caliber 50,1989 Athena / Seta
 md_calgames,California Games (Euro  USA),1991 Sega
@@ -648,7 +649,7 @@ cameltry,Cameltry (US  YM2610),1989 Taito America Corporation
 cameltryau,Cameltry (World  YM2203 + M6295),1989 Taito America Corporation
 cannonbp,Cannon Ball (Pacman Hardware),198? Novomatic
 candance,Cannon Dancer (Japan),1996 Mitchell (Atlus license)
-md_cannon,Cannon Fodder (Euro),1994 Virgin Interactive
+md_cfodder,Cannon Fodder (Euro),1994 Virgin Interactive
 cscluba,Capcom Sports Club (970722 Asia),1997 Capcom
 csclub1d,Capcom Sports Club (970722 Euro Phoenix Edition),1997 bootleg
 csclub1,Capcom Sports Club (970722 Euro),1997 Capcom
@@ -684,6 +685,7 @@ catacomb,Catacomb,1982 MTM Games
 ctrpllrp,Caterpillar Pacman Hack,1982 hack
 catt,Catt (Japan),1993 Wintechno
 cavelon,Cavelon,1983 Jetsoft
+cninjaa,Caveman Ninja (alternate),1991 Data East Corporation
 cninjabl,Caveman Ninja (bootleg),1991 bootleg
 cninjau,Caveman Ninja (US ver 4),1991 Data East Corporation
 cninja1,Caveman Ninja (World ver 1),1991 Data East Corporation
@@ -696,8 +698,8 @@ md_kidchamj,Chameleon Kid (Jpn),1992 Sega
 pce_champwrs,Champion Wrestler,1990 Taito
 tg_forevbox,Champions Forever Boxing,1991 NEC
 md_champwcs,Champions World Class Soccer (World),1993 Flying Edge
-md_champbow,Championship Bowling (USA),1993 Mentrix Software
-md_champl,Championship Pool (USA),1993 Mindscape
+md_champbwl,Championship Bowling (USA),1993 Mentrix Software
+md_champool,Championship Pool (USA),1993 Mindscape
 md_cproam,Championship Pro-Am (USA),1992 Tradewest
 md_cjfuweng,Chao Ji Da Fu Weng (Chi),199? Gametec?
 pgmdemo,Chaos (PGM Demo),2005 Raster
@@ -708,7 +710,7 @@ chasehqj,Chase H.Q. (Japan),1988 Taito Corporation
 chasehqu,Chase H.Q. (US),1988 Taito America Corporation
 chasehq,Chase H.Q. (World),1988 Taito Corporation Japan
 md_chasehq2,Chase H.Q. II (USA),1992 Taito
-md_chavez,Chavez II (USA),1993 American Softworks
+md_chavez2,Chavez II (USA),1993 American Softworks
 checkman,Check Man,1982 Zilex-Zenitone
 checkmanj,Check Man (Japan),1982 Jaleco
 md_cheese,Cheese Cat-Astrophe Starring Speedy Gonzales (Euro),1995 Sega
@@ -723,8 +725,8 @@ tg_chewman,Chew Man Fu,1990 NEC
 chewing,Chewing Gum,1980 unknown
 md_chichi,Chi Chi's Pro Challenge Golf (USA),1993 Virgin Interactive
 7toitsu,Chi-Toitsu,1988 Yuga
-pce_chibi,Chibi Maruko Chan - Quiz de Piihyara,1992 Namco
-md_chibimar,Chibi Maruko-chan - Wakuwaku Shopping (Jpn),1992 Namcot
+pce_chibim,Chibi Maruko Chan - Quiz de Piihyara,1992 Namcot
+md_chibim,Chibi Maruko-chan - Wakuwaku Shopping (Jpn),1992 Namcot
 marukodq,Chibi Marukochan Deluxe Quiz,1995 Takara
 chikij,Chiki Chiki Boys (900619 Japan),1990 Capcom
 md_chiki,Chiki Chiki Boys (Euro  USA),1992 Sega
@@ -745,7 +747,7 @@ legiono,Chouji Meikyuu Legion (ver 1.05),1987 Nichibutsu
 legion,Chouji Meikyuu Legion (ver 2.03),1987 Nichibutsu
 ironclad,Choutetsu Brikin'ger - Iron clad (Prototype),1996 Saurus
 ironclado,Choutetsu Brikin'ger - Iron clad (Prototype  older),1996 Saurus
-pce_bravoman,Chouzetsu Rinjin - Bravoman,1990 Namco
+pce_bravoman,Chouzetsu Rinjin - Bravoman,1990 Namcot
 md_chuckrck,Chuck Rock (Euro),1992 Virgin Games
 md_chuckrcku,Chuck Rock (USA),1992 Virgin Games
 md_chukrck2j,Chuck Rock II (Jpn),1994 Virgin Games
@@ -760,11 +762,11 @@ drgw2j,Chuugokuryuu II (V100J  Japan),1997 IGS
 pce_circusld,Circus Lido,1991 Yuni Post
 pce_cityhunt,City Hunter,1990 Sunsoft
 md_classicc,Classic Collection (Euro),1994 Sega
-md_clay,Clay Fighter (Euro),1994 Interplay
-md_clayu,Clay Fighter (USA),1994 Interplay
-md_cliff,Cliffhanger (Euro),1993 Sony Imagesoft
-md_cliffp,Cliffhanger (Prototype),1993 Sony Imagesoft
-md_cliffu,Cliffhanger (USA),1993 Sony Imagesoft
+md_clayfght,Clay Fighter (Euro),1994 Interplay
+md_clayfghtu,Clay Fighter (USA),1994 Interplay
+md_cliffh,Cliffhanger (Euro),1993 Sony Imagesoft
+md_cliffhp,Cliffhanger (Prototype),1993 Sony Imagesoft
+md_cliffhu,Cliffhanger (USA),1993 Sony Imagesoft
 md_clue,Clue (USA),1992 Parker Brothers
 cltchitrj,Clutch Hitter (set 1  Japan  FD1094 317-0175),1991 Sega
 cltchitr,Clutch Hitter (set 2  US  FD1094 317-0176),1991 Sega
@@ -823,7 +825,7 @@ md_comixup01,Comix Zone (Prototype  19950712),1995 Sega
 md_comixsc,Comix Zone (Sega Channel  Prototype  19950612),1995 Sega
 md_comixu,Comix Zone (USA),1995 Sega
 md_comixup,Comix Zone (USA  Prototype),1995 Sega
-md_comnconq,Command & Conquer (Prototype),199? <unknown>
+md_commconq,Command & Conquer (Prototype),199? <unknown>
 commandob,Commando (bootleg),1985 bootleg
 commandou,Commando (US),1985 Capcom (Data East USA license)
 commando,Commando (World),1985 Capcom
@@ -842,10 +844,10 @@ md_contraj,Contra - The Hard Corps (Jpn),1994 Konami
 cookbib,Cookie & Bibi,1995 SemiCom
 cookbib2,Cookie & Bibi 2,1996 SemiCom
 cookbib3,Cookie & Bibi 3,1997 SemiCom
-md_coolsp,Cool Spot (Euro),1994 Virgin Games
-md_coolspj,Cool Spot (Jpn  Kor),1994 Virgin Games
-md_coolspu,Cool Spot (USA),1994 Virgin Games
-md_coolspup,Cool Spot (USA  Prototype),1994 Virgin Games
+md_coolspot,Cool Spot (Euro),1994 Virgin Games
+md_coolspotj,Cool Spot (Jpn  Kor),1994 Virgin Games
+md_coolspotu,Cool Spot (USA),1994 Virgin Games
+md_coolspotup,Cool Spot (USA  Prototype),1994 Virgin Games
 md_corporat,Corporation (Euro),1992 Virgin Games
 pce_coryoon,Coryoon - Child of Dragon,1991 Naxat
 pce_coryoon1,Coryoon - Child of Dragon (Alt),1991 Naxat
@@ -880,14 +882,14 @@ vendettaj,Crime Fighters 2 (Japan 2 Players ver. P),1991 Konami
 crockman,Crock-Man (bootleg  Rene-Pierre),1980 bootleg (Rene-Pierre)
 croquis,Croquis (Germany),1996 Deniam
 crossbld,Cross Blades! (Japan),1991 Irem
-md_crossf,Cross Fire (USA),1991 Kyugo Boueki
+md_xfire,Cross Fire (USA),1991 Kyugo Boueki
 crospang,Cross Pang,1998 F2 System
 pce_xwiber,Cross Wiber - Cyber Combat Police,1990 Face
 crsword,Crossed Swords (ALM-002)(ALH-002),1991 Alpha Denshi Co.
-cthd2k3a,Crouching Tiger Hidden Dragon 2003 (The King of Fighters 2001 bootleg set 2),2003 bootleg
-cthd2003,Crouching Tiger Hidden Dragon 2003 (The King of Fighters 2001 bootleg),2003 Phenixsoft
-ct2k3sp,Crouching Tiger Hidden Dragon 2003 Super Plus (The King of Fighters 2001 bootleg),2003 bootleg
-ct2k3sa,Crouching Tiger Hidden Dragon 2003 Super Plus alternate (The King of Fighters 2001 bootleg),2003 bootleg
+cthd2003,Crouching Tiger Hidden Dragon 2003 (set 1),2003 Phenixsoft
+cthd2k3a,Crouching Tiger Hidden Dragon 2003 (set 2),2003 bootleg
+ct2k3sp,Crouching Tiger Hidden Dragon 2003 Super Plus,2003 bootleg
+ct2k3sa,Crouching Tiger Hidden Dragon 2003 Super Plus alternate,2003 bootleg
 cbusterj,Crude Buster (Japan),1990 Data East Corporation
 md_crudeb,Crude Buster (Jpn),1992 Data East
 cbusterw,Crude Buster (World FU version),1990 Data East Corporation
@@ -925,10 +927,10 @@ cuebrick,Cue Brick (World ver. D),1989 Konami
 md_curse,Curse (Jpn),1989 Micronet
 md_cutiesuz,Cutie Suzuki no Ringside Angel (Jpn),1990 Asmik Ace
 md_cutthr,CutThroat Island (Euro  USA),1995 Acclaim Entertainment
-tg_cybrcore,Cyber Core,1990 NEC
 pce_cybrcore,Cyber Core,1990 IGS
+tg_cybrcore,Cyber Core,1990 NEC
 pce_cyberdod,Cyber Dodge,1992 Tonkin House
-pce_cybrkngt,Cyber Knight,1990 Tonkin House
+pce_cyknight,Cyber Knight,1990 Tonkin House
 md_eswatj,Cyber Police ESWAT (Jpn  Rev. 0),1990 Sega
 md_cybercop,Cyber-Cop (USA),1992 Virgin Games
 cyberlip,Cyber-Lip (NGM-010),1990 SNK
@@ -952,14 +954,14 @@ md_dahnamk,Dahna (Kor),199? <unknown>
 md_dahnam,Dahna Megami Tanjou (Jpn),1991 IGS
 daimakair,Dai Makai-Mura (Japan Resale Ver.),1988 Capcom
 daimakai,Dai Makai-Mura (Japan),1988 Capcom
+sgx_daimakai,Dai Makaimura,1990 NEC Avenue
 md_daimakai,Dai Makaimura (Jpn),1989 Sega
 pce_daisenpu,Dai Senpu,1990 NEC Avenue
 pce_donaturl,Daichi Kun Crisis - Do Natural,1989 Salio
-md_daikouka,Daikoukai Jidai (Jpn),1992 Koei
-md_daikouk2,Daikoukai Jidai II (Jpn),1994 Koei
+md_daikokai,Daikoukai Jidai (Jpn),1992 Koei
+md_daikok2,Daikoukai Jidai II (Jpn),1994 Koei
 dkgensanm72,Daiku no Gensan (Japan  M72),1990 Irem
 dkgensan,Daiku no Gensan (Japan  M82),1990 Irem
-sgx_daimakai,Daimakai Mura,1990 NEC Avenue
 daioh,Daioh,1993 Athena
 daisenpu,Daisenpu (Japan),1989 Taito Corporation
 dambustruk,Dambusters (UK),1981 South West Research
@@ -995,12 +997,12 @@ dstlku,Darkstalkers - the night warriors (940818 USA),1994 Capcom
 tg_darkwing,Darkwing Duck,1992 TTI
 dwi,DarkWing Duck (Intro demo),2009 Demo
 md_darwin,Darwin 4081 (Jpn  Kor),1990 Sega
-md_dash,Dashin' Desperadoes (USA),1993 Data East
-md_dashp1,Dashin' Desperadoes (USA  Prototype),1993 Data East
-md_dashp2,Dashin' Desperadoes (USA  Prototype  Alt),1993 Data East
+md_dashdes,Dashin' Desperadoes (USA),1993 Data East
+md_dashdesp1,Dashin' Desperadoes (USA  Prototype),1993 Data East
+md_dashdesp2,Dashin' Desperadoes (USA  Prototype  Alt),1993 Data East
 dquizgo,Date Quiz Go Go (Korea),1998 SemiCom
 powj,Datsugoku - Prisoners of War (Japan),1988 SNK
-md_davidc,David Crane's Amazing Tennis (USA),1992 Absolute Entertainment
+md_amaznten,David Crane's Amazing Tennis (USA),1992 Absolute Entertainment
 md_drscj,David Robinson Basketball (Jpn),1992 Sega
 md_drsc,David Robinson's Supreme Court (Euro  USA),1992 Sega
 md_daviscp2a,Davis Cup II (USA  Prototype),199? <unknown>
@@ -1008,8 +1010,8 @@ tg_daviscup,Davis Cup Tennis,1991 NEC
 md_daviscupa,Davis Cup World Tour (Euro  USA  199306),1993 Tengen
 md_daviscup,Davis Cup World Tour (Euro  USA  199307),1993 Tengen
 md_daviscp2,Davis Cup World Tour Tennis 2 (Prototype 1),199? <unknown>
-md_daze,Daze Before Christmas (Oceania),1994 Sunsoft
-md_dazep,Daze Before Christmas (Oceania  Prototype),1994 Sunsoft
+md_dazexmas,Daze Before Christmas (Oceania),1994 Sunsoft
+md_dazexmasp,Daze Before Christmas (Oceania  Prototype),1994 Sunsoft
 deadconxj,Dead Connection (Japan),1992 Taito Corporation
 deadconx,Dead Connection (World),1992 Taito Corporation Japan
 tg_deadmoon,Dead Moon,1992 TTI
@@ -1022,7 +1024,8 @@ md_decapatt,DecapAttack (Euro  USA  Kor),1991 Sega
 tg_deepblue,Deep Blue,1989 NEC
 pce_deepblue,Deep Blue - Kaitei Shinwa,1989 Pack-In-Video
 md_deerhunt,Deer Hunter (Rus),199? Tomsoft
-deerhuntc,Deer Hunting USA V2,2000 Sammy USA Corporation
+deerhuntd,Deer Hunting USA V2,2000 Sammy USA Corporation
+deerhuntc,Deer Hunting USA V3.0,2000 Sammy USA Corporation
 deerhuntb,Deer Hunting USA V4.0,2000 Sammy USA Corporation
 deerhunta,Deer Hunting USA V4.2,2000 Sammy USA Corporation
 deerhunt,Deer Hunting USA V4.3,2000 Sammy USA Corporation
@@ -1031,6 +1034,8 @@ redufob,Defend the Terra Attack on the Red UFO (bootleg),1981 bootleg
 defense,Defense (System 16B  FD1089A 317-0028),1987 Sega
 md_demoman,Demolition Man (Euro  USA),1995 Acclaim Entertainment
 md_demomanp,Demolition Man (USA  Prototype),1995 Acclaim Entertainment
+dmnfrnta,Demon Front (V102  China),2002 IGS
+dmnfrnt,Demon Front (V105),2002 IGS
 demonwld,Demon's World / Horror Story (set 1),1990 Toaplan
 demonwld2,Demon's World / Horror Story (set 3),1989 Toaplan
 demonwld3,Demon's World / Horror Story (set 4),1989 Toaplan
@@ -1104,6 +1109,7 @@ md_divine,Divine Sealing (Jpn),1991 CYX
 md_djboy,DJ Boy (Euro),1991 Sega
 md_djboyj,DJ Boy (Jpn),1990 Sega
 md_djboyu,DJ Boy (USA),1990 Kaneko
+ddonpachjh,DoDonPachi (Arrange Mode version 1.1  hack by Trap15),1997 hack / Trap15
 ddonpach,DoDonPachi (International  master ver. 97/02/05),1997 Atlus / Cave
 ddonpachj,DoDonPachi (Japan  master ver. 97/02/05),1997 Atlus / Cave
 ddpdojb,DoDonPachi Dai-Ou-Jou (V100 (first version)  Japan),2002 Cave / AMI
@@ -1128,7 +1134,7 @@ donpachihk,DonPachi (Hong Kong  ver. 1.10  95/05/17),1995 Atlus / Cave
 donpachij,DonPachi (Japan  ver. 1.01  95/05/11),1995 Atlus / Cave
 donpachikr,DonPachi (Korea  ver. 1.12  95/05/2x),1995 Atlus / Cave
 donpachi,DonPachi (USA  ver. 1.12  95/05/2x),1995 Atlus / Cave
-md_doomtr,Doom Troopers - The Mutant Chronicles (USA),1995 Playmates
+md_doomtrop,Doom Troopers - The Mutant Chronicles (USA),1995 Playmates
 pce_dorams,Doraemon - Meikyuu Dai Sakusen,1989 Hudson
 pce_dorandn,Doraemon - Nobita no Dorabian Night,1991 Hudson
 md_doraemon,Doraemon - Yume Dorobou to 7-nin no Gozans (Jpn),1993 Sega
@@ -1159,8 +1165,8 @@ ddragon2u,Double Dragon II - The Revenge (US),1988 Technos
 ddragon2,Double Dragon II - The Revenge (World),1988 Technos
 md_ddragon5,Double Dragon V - The Shadow Falls (USA),1994 Tradewest
 md_ddribble,Double Dribble - The Playoff Edition (USA),1994 Konami
-tg_ddungw,Double Dungeons - W,1990 NEC
 pce_ddungw,Double Dungeons - W,1989 NCS
+tg_ddungw,Double Dungeons - W,1990 NEC
 dblpoint,Double Point,1995 Min Corp.
 dblpointd,Double Point (Dong Bang Electron  bootleg?),1995 Dong Bang Electron
 pce_download,Download,1990 NEC Avenue
@@ -1184,17 +1190,17 @@ dbreedm72,Dragon Breed (M72 PCB version),1989 Irem
 dbreed,Dragon Breed (M81 PCB version),1989 Irem
 drgnbstr,Dragon Buster,1984 Namco
 pce_dragnegg,Dragon Egg!,1991 Masiya
-pce_dsaber,Dragon Saber - After Story of Dragon Spirit,1991 Namco
-pce_dsaber1,Dragon Saber - After Story of Dragon Spirit (Alt),1991 Namco
-md_dslayer,Dragon Slayer - Eiyuu Densetsu (Jpn),1994 Sega
-md_dslayer2,Dragon Slayer - Eiyuu Densetsu II (Jpn),1995 Sega
-pce_dspirit,Dragon Spirit,1988 Namco
+pce_dsaber,Dragon Saber - After Story of Dragon Spirit,1991 Namcot
+pce_dsaber1,Dragon Saber - After Story of Dragon Spirit (Alt),1991 Namcot
+md_dslayed,Dragon Slayer - Eiyuu Densetsu (Jpn),1994 Sega
+md_dslayed2,Dragon Slayer - Eiyuu Densetsu II (Jpn),1995 Sega
+pce_dspirit,Dragon Spirit,1988 Namcot
 tg_dspirit,Dragon Spirit,1989 NEC
 drgnunit,Dragon Unit / Castle of Dragon,1989 Seta
 dw2v100x,Dragon World II (V100X  World),1997 IGS
 drgw2,Dragon World II (V110X  World),1997 IGS
 tg_dragcrse,Dragon's Curse,1990 NEC
-md_shangai3,Dragon's Eye Plus - Shanghai III (Jpn),1991 Home Data
+md_shangh3,Dragon's Eye Plus - Shanghai III (Jpn),1991 Home Data
 md_dfury,Dragon's Fury (Euro  USA),1992 Tengen
 md_dlair,Dragon's Lair (USA  Prototype),199? Taito
 md_dragnrev,Dragon's Revenge (Euro  USA),1993 Tengen
@@ -1218,8 +1224,8 @@ dumpmtmt,Dump Matsumoto (Japan  8751 317-unknown),1986 Sega
 md_duneu,Dune - The Battle for Arrakis (USA),1993 Virgin Interactive
 md_dune2,Dune II - Battle for Arrakis (Euro),1993 Virgin Interactive
 md_dune2g,Dune II - Kampf um den Wustenplaneten (Ger),1993 Virgin Interactive
-pce_dungexpl,Dungeon Explorer,1989 Hudson
 tg_dungexpl,Dungeon Explorer,1989 NEC
+pce_dungexpl,Dungeon Explorer,1989 Hudson
 ddsomjr1,Dungeons & Dragons - shadow over mystara (960206 Japan),1996 Capcom
 ddsomr3,Dungeons & Dragons - shadow over mystara (960208 Euro),1996 Capcom
 ddsomr2,Dungeons & Dragons - shadow over mystara (960209 Euro),1996 Capcom
@@ -1327,8 +1333,8 @@ espgal,Espgaluda (V100  Japan),2003 CAVE / AMI
 md_espnbb,ESPN Baseball Tonight (USA),1995 Sony Imagesoft
 md_espnhn,ESPN National Hockey Night (USA),1994 Sony Imagesoft
 md_espnhnp,ESPN National Hockey Night (USA  Prototype),1994 Sony Imagesoft
-md_espnsp,ESPN Speed World (USA),1994 Sony Imagesoft
-md_espnspp,ESPN Speed World (USA  Prototype),1994 Sony Imagesoft
+md_espnsped,ESPN Speedworld (USA),1994 Sony Imagesoft
+md_espnspedp,ESPN Speedworld (USA  Prototype),1994 Sony Imagesoft
 md_espnnfl,ESPN Sunday Night NFL (USA),1994 Sony Imagesoft
 md_espnnflp,ESPN Sunday Night NFL (USA  Prototype),1994 Sony Imagesoft
 md_eswat,ESWAT - City Under Siege (Euro  USA  Rev. A),1990 Sega
@@ -1339,7 +1345,7 @@ md_eternalcjp,Eternal Champions (Jpn  Prototype  19931117),1994 Sega
 md_eternalcu,Eternal Champions (USA),1994 Sega
 euroch92,Euro Champ '92 (World),1992 Taito Corporation Japan
 wc90b1,Euro League (Italian hack of Tecmo World Cup '90),1989 bootleg
-md_europa,Europa Sensen (Jpn),1993 Koei
+md_eurosens,Europa Sensen (Jpn),1993 Koei
 md_euroclub,European Club Soccer (Euro),1992 Virgin Games
 md_evander,Evander Holyfield's 'Real Deal' Boxing (World),1992 Sega
 md_exmutant,Ex-Mutants (Euro  USA),1992 Sega
@@ -1350,9 +1356,9 @@ exedexes,Exed Exes,1985 Capcom
 exerizerb,Exerizer (Japan) (bootleg),1987 Jaleco
 md_exile,Exile (USA),1991 Renovation
 md_exilej,Exile - Toki no Hazama e (Jpn),1991 Riot
-md_exosq,Exo Squad (Euro),1995 Virgin Interactive
-md_exosqu,Exo Squad (USA),1995 Playmates
-md_exosqup,Exo Squad (USA  Prototype),1995 Playmates
+md_exosquad,Exo Squad (Euro),1995 Virgin Interactive
+md_exosquadu,Exo Squad (USA),1995 Playmates
+md_exosquadup,Exo Squad (USA  Prototype),1995 Playmates
 exodus,Exodus (bootleg?),19?? Subelectro
 md_exodus,Exodus - Journey to the Promised Land (USA),1993 Wisdom Tree
 explorer,Explorer,1981 bootleg
@@ -1361,7 +1367,8 @@ extrmatnj,Extermination (Japan),1987 Taito Corporation
 extrmatnu,Extermination (US),1987 [Taito] World Games
 extrmatn,Extermination (World),1987 Taito Corporation Japan
 extdwnhl,Extreme Downhill (v1.5),1995 Sammy Industries Japan
-eyeszacb,Eyes (bootleg),1982 bootleg
+eyesb,Eyes (bootleg set 1),1982 bootleg
+eyeszacb,Eyes (bootleg set 2  decrypted),1982 bootleg
 eyes,Eyes (Digitrex Techstar),1982 Digitrex Techstar (Rock-ola license)
 eyes2,Eyes (Techstar),1982 Techstar (Rock-ola license)
 pce_f1dream,F-1 Dream,1989 NEC
@@ -1372,9 +1379,9 @@ f1gp2,F-1 Grand Prix Part II,1992 Video System Co.
 pce_f1pilot,F-1 Pilot - You're King of Kings,1989 Pack-In-Video
 md_f117,F-117 Night Storm (Euro  USA),1993 Electronic Arts
 md_f117j,F-117 Stealth - Operation Night Storm (Jpn),1994 Electronic Arts Victor
-md_f15str,F-15 Strike Eagle II (Euro),1993 Microprose
-md_f15stru,F-15 Strike Eagle II (USA),1993 Microprose
-md_f15strup,F-15 Strike Eagle II (USA  Prototype),1993 Microprose
+md_f15se2,F-15 Strike Eagle II (Euro),1993 Microprose
+md_f15se2u,F-15 Strike Eagle II (USA),1993 Microprose
+md_f15se2up,F-15 Strike Eagle II (USA  Prototype),1993 Microprose
 md_f22a,F-22 Interceptor (Euro  USA  199109),1991 Electronic Arts
 md_f22,F-22 Interceptor (Euro  USA  199206),1991 Electronic Arts
 md_f22p,F-22 Interceptor (Euro  USA  Prototype),1991 Electronic Arts
@@ -1397,11 +1404,12 @@ md_fantasia1,Fantasia (World),1991 Sega
 md_fantasia,Fantasia (World  Rev. A),1991 Sega
 fantsia2,Fantasia II (Explicit),1997 Comad
 fantsia2a,Fantasia II (Less Explicit),1997 Comad
-md_fantdiz,Fantastic Dizzy (Euro  USA),1991 Codemasters
-md_fantdiz1,Fantastic Dizzy (Euro  USA  Alt),1991 Codemasters
+fantastc,Fantastic,198? Taito do Brasil
+md_fantdizz,Fantastic Dizzy (Euro  USA),1991 Codemasters
+md_fantdizz1,Fantastic Dizzy (Euro  USA  Alt),1991 Codemasters
 fantsy95,Fantasy '95,1995 Hi-max Technology Inc.
-pce_fantzone,Fantasy Zone,1988 NEC
 tg_fantzone,Fantasy Zone,1989 NEC
+pce_fantzone,Fantasy Zone,1988 NEC
 fantzonep,Fantasy Zone (317-5000),1986 Sega
 fantzone,Fantasy Zone (Rev A  unprotected),1986 Sega
 fantzone1,Fantasy Zone (unprotected),1986 Sega
@@ -1422,14 +1430,14 @@ fatfurspa,Fatal Fury Special / Garou Densetsu Special (set 2)(NGM-058)(NGH-058),
 md_fatallab,Fatal Labyrinth (Euro  USA),1991 Sega
 md_fatalrew,Fatal Rewind (Euro  USA),1991 Electronic Arts
 md_fatman,Fatman (Jpn),1990 Sanritsu Denki
-md_fengku,Feng Kuang Tao Hua Yuan (Chi),199? <unlicensed>
-md_fengsh,Feng Shen Ying Jie Chuan (Chi),1996 Chuanpu Technologies
-md_fengsha,Feng Shen Ying Jie Zhuan (Chi  Alt?),1996 Chuanpu Technologies
+md_fengkuan,Feng Kuang Tao Hua Yuan (Chi),199? <unlicensed>
+md_fengshen,Feng Shen Ying Jie Chuan (Chi),1996 Chuanpu Technologies
+md_fengshena,Feng Shen Ying Jie Zhuan (Chi  Alt?),1996 Chuanpu Technologies
 md_ferias,Ferias Frustradas do Pica-Pau (Bra),1995 Tec Toy
 md_ferrari,Ferrari Grand Prix Challenge (Euro  Rev. A),1992 Flying Edge
 md_ferrarip,Ferrari Grand Prix Challenge (Prototype),1992 Flying Edge
 md_ferrariu,Ferrari Grand Prix Challenge (USA),1992 Flying Edge
-md_feverp,Fever Pitch Soccer (Euro),1995 U.S. Gold
+md_feverpit,Fever Pitch Soccer (Euro),1995 U.S. Gold
 feversos,Fever SOS (International  ver. 98/09/25),1998 Cave / Nihon System inc.
 md_fidodido,Fido Dido (USA  Prototype),1994 Kaneko
 md_fifa2k3,FIFA 2003 (Rus),199? <unknown>
@@ -1452,7 +1460,7 @@ ffantasya,Fighting Fantasy (Japan),1989 Data East Corpotation
 md_fightmj,Fighting Masters (Jpn  Kor),1991 Treco
 md_fightm,Fighting Masters (USA),1992 Treco
 pce_fightrun,Fighting Run,1991 Nihon Bussan
-pce_finlblst,Final Blaster,1990 Namco
+pce_finlblst,Final Blaster,1990 Namcot
 finalbj,Final Blow (Japan),1988 Taito Corporation
 md_finalb,Final Blow (Jpn),1990 Taito
 finalbu,Final Blow (US),1988 Taito America Corporation
@@ -1464,22 +1472,23 @@ ffightub,Final Fight (900613 USA),1989 Capcom
 ffightj,Final Fight (Japan),1989 Capcom
 ffightu,Final Fight (USA  set 1),1989 Capcom
 ffightu1,Final Fight (USA  set 2),1989 Capcom
-ffight,Final Fight (World),1989 Capcom
+ffight,Final Fight (World  set 1),1989 Capcom
+ffighta,Final Fight (World  set 2),1989 Capcom
 tg_finallap,Final Lap Twin,1990 NEC
-pce_finallap,Final Lap Twin,1989 Namco
+pce_finallap,Final Lap Twin,1989 Namcot
 pce_finalmt,Final Match Tennis,1991 Human
 pce_finalsol,Final Soldier,1991 Hudson
 pce_finalsols,Final Soldier (Special Version),19?? Hudson
 fstarfrcj,Final Star Force (Japan),1992 Tecmo
 fstarfrc,Final Star Force (US),1992 Tecmo
 finalttr,Final Tetris,1993 Jeil Computer System
-md_finalzon,Final Zone (USA) ~ FZ Senki Axis (Jpn),1990 Wolf Team
+md_fzone,Final Zone (USA) ~ FZ Senki Axis (Jpn),1990 Wolf Team
 md_nemo,Finding Nemo (Rus),199? Glorysun
 firehawk,Fire Hawk,2001 ESD
 md_firemust,Fire Mustang (Jpn),1991 Taito
-pce_fpwrest,Fire Pro Wrestling - Combination Tag,1989 Human
-pce_fpwrest2,Fire Pro Wrestling 2 - 2nd Bout,1991 Human
-pce_fpwrest3,Fire Pro Wrestling 3 - Legend Bout,1992 Human
+pce_fireprow,Fire Pro Wrestling - Combination Tag,1989 Human
+pce_fireprw2,Fire Pro Wrestling 2 - 2nd Bout,1991 Human
+pce_fireprw3,Fire Pro Wrestling 3 - Legend Bout,1992 Human
 md_fireshrk,Fire Shark (Euro),1991 Sega
 fireshrkd,Fire Shark (Korea  set 1  easier),1990 Toaplan (Dooyong license)
 fireshrkdh,Fire Shark (Korea  set 2  harder),1990 Toaplan (Dooyong license)
@@ -1517,13 +1526,13 @@ flickyo,Flicky (64k Version  System 1  315-5051  set 1),1984 Sega
 flickys1,Flicky (64k Version  System 1  315-5051  set 2),1984 Sega
 md_flicky,Flicky (Euro  USA),1991 Sega
 md_flink,Flink (Euro),1994 Sony Imagesoft
-md_flintj,Flintstone (Jpn),1993 Taito
 md_flux,Flux (Euro),199? <unknown>
 footchmp,Football Champ (World),1990 Taito Corporation Japan
 fbfrenzy,Football Frenzy (NGM-034)(NGH-034),1992 SNK
 md_foreman,Foreman for Real (World),1995 Acclaim Entertainment
-forgottnua,Forgotten Worlds (US  B-Board 88618B-?),1988 Capcom
-forgottnu,Forgotten Worlds (US  B-Board 88621B-2),1988 Capcom
+forgottnua,Forgotten Worlds (US  B-Board 88618B-2  rev A),1988 Capcom
+forgottnu1,Forgotten Worlds (US  B-Board 88618B-2  Rev C),1988 Capcom
+forgottnu,Forgotten Worlds (US  B-Board 88621B-2  rev C),1988 Capcom
 forgottn,Forgotten Worlds (World),1988 Capcom
 md_forgottn1,Forgotten Worlds (World),1989 Sega
 md_forgottn,Forgotten Worlds (World  v1.1),1989 Sega
@@ -1531,7 +1540,7 @@ pce_fsoccr90,Formation Soccer - Human Cup '90,1990 Human
 pce_fsoccer,Formation Soccer - On J. League,1994 Human
 md_formula1,Formula One (USA),1993 Tengen
 md_fastfur5,Forsazh 5 Bystraya ~ Fast and the Furious 5 Quick (Rus),199? <unknown>
-md_frankt,Frank Thomas Big Hurt Baseball (Euro  USA),1995 Acclaim Entertainment
+md_bighurt,Frank Thomas Big Hurt Baseball (Euro  USA),1995 Acclaim Entertainment
 freeze,Freeze,1984 Cinematronics
 frogf,Frog (Falcon bootleg),1981 bootleg
 frogg,Frog (Galaxian hardware),1981 bootleg
@@ -1567,11 +1576,11 @@ glocr360,G-LOC R360,1990 Sega
 md_gadget,Gadget Twins (USA),1992 GameTek
 pce_gaiflame,Gai Flame,1990 NCS
 gaia,Gaia Crusaders,1999 Noise Factory
-pce_gaiamon,Gaia no Monshou,1988 NCS
+pce_gaiamons,Gaia no Monshou,1988 NCS
 md_gaiares,Gaiares (Jpn  USA),1990 Renovation
-md_gaingrnd,Gain Ground (World),1991 Sega
-md_gaingrnd1,Gain Ground (World  Alt),1991 Sega
-pce_galaga88,Galaga '88,1988 Namco
+md_gground,Gain Ground (World),1991 Sega
+md_gground1,Gain Ground (World  Alt),1991 Sega
+pce_galaga88,Galaga '88,1988 Namcot
 tg_galaga90,Galaga '90,1989 NEC
 galagamf,Galaga (Midway set 1 with fast shoot hack),1981 Namco (Midway License)
 galagamw,Galaga (Midway set 1),1981 Namco (Midway License)
@@ -1589,6 +1598,7 @@ galap4,Galaxian Part 4 (hack),1979 G.G.I
 galapx,Galaxian Part X (moonaln hack),1979 hack
 tst_galx,Galaxian Test ROM,1979 Test ROM
 galturbo,Galaxian Turbo (superg hack),1979 hack
+galemp,Galaxy Empire (bootleg?),1980 bootleg (Taito do Brasil)
 galaxyfg,Galaxy Fight - Universal Warriors,1995 Sunsoft
 gforce2,Galaxy Force 2,1988 Sega
 gforce2j,Galaxy Force 2 (Japan),1988 Sega
@@ -1600,7 +1610,8 @@ gallop,Gallop - Armed police Unit (Japan),1991 Irem
 galmedes,Galmedes (Japan),1992 Visco
 galhustl,Gals Hustler,1997 ACE International
 galpanic,Gals Panic (Unprotected),1990 Kaneko
-md_gamblerj,Gambler Jiko Chuushinha - Katayama Masayuki no Mahjong Doujou (Jpn),1990 Game Arts
+galspnbl,Gals Pinball,1996 Comad
+md_gamblerj,Gambler Jikochuushinha - Katayama Masayuki no Mahjong Doujou (Jpn),1990 Game Arts
 md_ggenie1,Game Genie (Euro  USA),199? <unknown>
 md_ggenie,Game Genie (Euro  USA  Rev. A),199? <unknown>
 md_gamenko,Game no Kandume Otokuyou (Jpn),199? <unknown>
@@ -1638,7 +1649,7 @@ gauntletgr6,Gauntlet (German  rev 6),1985 Atari Games
 gauntletgr8,Gauntlet (German  rev 8),1985 Atari Games
 gauntletj12,Gauntlet (Japanese  rev 12),1985 Atari Games
 gauntletj,Gauntlet (Japanese  rev 13),1985 Atari Games
-md_gauntlj,Gauntlet (Jpn),1993 Tengen
+md_gauntlt4j,Gauntlet (Jpn),1993 Tengen
 gauntletr1,Gauntlet (rev 1),1985 Atari Games
 gauntlet,Gauntlet (rev 14),1985 Atari Games
 gauntletr2,Gauntlet (rev 2),1985 Atari Games
@@ -1652,8 +1663,8 @@ gaunt22pg,Gauntlet II (2 Players  German),1986 Atari Games
 gaunt22p1,Gauntlet II (2 Players  rev 1),1986 Atari Games
 gaunt22p,Gauntlet II (2 Players  rev 2),1986 Atari Games
 gaunt2g,Gauntlet II (German),1986 Atari Games
-md_gauntl4a,Gauntlet IV (Euro  USA  199308),1993 Tengen
-md_gauntl4,Gauntlet IV (Euro  USA  199309),1993 Tengen
+md_gauntlt4a,Gauntlet IV (Euro  USA  199308),1993 Tengen
+md_gauntlt4,Gauntlet IV (Euro  USA  199309),1993 Tengen
 pce_gekisboy,Gekisha Boy,1992 Irem
 md_gemfire,Gemfire (USA),1992 Koei
 gemini,Gemini Wing,1987 Tecmo
@@ -1661,11 +1672,11 @@ md_gems,GEMS v2.8,199? <unknown>
 md_genchaos,General Chaos (Euro  USA),1994 Electronic Arts
 md_genchaosj,General Chaos Daikonsen (Jpn),1994 Electronic Arts Victor
 md_genelost,Generations Lost (Euro  USA),1994 Time Warner Interactive
-md_genghis,Genghis Khan II - Clan of the Gray Wolf (USA),1993 Koei
+md_genghis2,Genghis Khan II - Clan of the Gray Wolf (USA),1993 Koei
 genix,Genix Family,1994 NIX
 pce_genjitsu,Genji Tsuushin Agedama,1991 NEC Home Electronics
-pce_genpeito,Genpei Toumaden,1990 Namco
-pce_gentomak,Genpei Toumaden ni no Maki,1992 Namco
+pce_genpei,Genpei Toumaden,1990 Namcot
+pce_genpemak,Genpei Toumaden ni no Maki,1992 Namcot
 gensitou,Genshi-Tou 1930's (Japan),1989 SNK
 md_georgeko,George Foreman's KO Boxing (Euro),1992 Flying Edge
 md_georgekou,George Foreman's KO Boxing (USA),1992 Flying Edge
@@ -1686,8 +1697,8 @@ gngt,Ghosts'n Goblins (US),1985 Capcom (Taito America License)
 gngc,Ghosts'n Goblins (World Revision C),1985 Capcom
 gng,Ghosts'n Goblins (World? set 1),1985 Capcom
 gnga,Ghosts'n Goblins (World? set 2),1985 Capcom
-md_ghouls1,Ghouls 'n Ghosts (Euro  USA),1989 Sega
-md_ghouls,Ghouls 'n Ghosts (Euro  USA  Kor  Rev. A),1989 Sega
+md_ghouls1,Ghouls'n Ghosts (Euro  USA),1989 Sega
+md_ghouls,Ghouls'n Ghosts (Euro  USA  Kor  Rev. A),1989 Sega
 ghoulsu,Ghouls'n Ghosts (US),1988 Capcom
 ghouls,Ghouls'n Ghosts (World),1988 Capcom
 ghoxj,Ghox (joystick),1991 Toaplan
@@ -1713,7 +1724,7 @@ md_gods,Gods (Euro),1993 Accolade
 md_godsj,Gods (Jpn),1993 PCM Complete
 md_godsu,Gods (USA),1992 Mindscape
 md_godsup,Gods (USA  Prototype),1992 Mindscape
-pce_chukatai,Gokuraku! Chuuka Taisen,1992 Taito
+pce_chukatai,Gokuraku! Chuka Taisen,1992 Taito
 md_golden10,Golden 10 in 1,199? <unlicensed>
 goldnaxe1,Golden Axe (set 1  World  FD1094 317-0110),1989 Sega
 goldnaxe2,Golden Axe (set 2  US  8751 317-0112),1989 Sega
@@ -1792,8 +1803,8 @@ gunforcej,Gunforce - Battle Fire Engulfed Terror Island (Japan),1991 Irem
 gunforceu,Gunforce - Battle Fire Engulfed Terror Island (US),1991 Irem America
 gunforce,Gunforce - Battle Fire Engulfed Terror Island (World),1991 Irem
 gunforc2,Gunforce 2 (US),1994 Irem
-pce_gunhed,Gunhed,1989 Hudson
-pce_gunhedht,Gunhed - Hudson Gunhed Taikai,1989 Hudson
+pce_gunhed,GunHed,1989 Hudson
+pce_gunhedht,GunHed - Hudson GunHed Taikai,1989 Hudson
 gunnail,GunNail (28th May. 1992),1993 NMK / Tecmo
 md_gunship,Gunship (Euro),1993 U.S. Gold
 md_gunstar,Gunstar Heroes (Euro),1993 Sega
@@ -1814,7 +1825,7 @@ gyruss,Gyruss (Konami),1983 Konami
 hachamf,Hacha Mecha Fighter (19th Sep. 1991),1991 NMK
 hharryu,Hammerin' Harry (US),1990 Irem America
 hharry,Hammerin' Harry (World),1990 Irem
-pce_hanataka,Hana Taaka Daka!,1991 Taito
+pce_hanataka,Hana Taaka Daka!?,1991 Taito
 hangon1,Hang-On,1985 Sega
 hangon,Hang-On (rev A),1985 Sega
 hangly,Hangly-Man (set 1),1981 hack
@@ -1856,8 +1867,8 @@ hellfire2,Hellfire (2P Ver.  first edition),1989 Toaplan (Taito License)
 md_hellfire,Hellfire (Euro),1991 Sega
 md_hellfirej,Hellfire (Jpn),1990 NCS
 md_hellfireu,Hellfire (USA),1991 Seismic
-md_hercul,Hercules,199? <unlicensed>
-md_herc2,Hercules 2,199? <unlicensed>
+md_hercules,Hercules,199? <unlicensed>
+md_herculs2,Hercules 2,199? <unlicensed>
 md_herzog,Herzog Zwei (Euro  USA),1990 Sega
 md_herzogj,Herzog Zwei (Jpn),1989 Technosoft
 heuksun,Heuk Sun Baek Sa (Korea),199? Oksan / F2 System
@@ -1878,14 +1889,15 @@ md_homea,Home Alone (Euro  USA),1992 Sega
 md_homeap,Home Alone (USA  Prototype),1992 Sega
 md_homea2,Home Alone 2 - Lost in New York (USA),1993 Sega
 honeydol,Honey Dolls,1995 Barko Corp
-pce_dodgedan,Honoo no Toukyuuji Dodge Danpei,1992 Hudson
-md_dodgedan,Honoo no Toukyuuji Dodge Danpei (Jpn),1992 Sega
+pce_ddanpei,Honoo no Toukyuuji - Dodge Danpei,1992 Hudson
+md_ddanpei,Honoo no Toukyuuji - Dodge Danpei (Jpn),1992 Sega
 hookj,Hook (Japan),1992 Irem
 hooku,Hook (US),1992 Irem America
 md_hook,Hook (USA),1992 Sony Imagesoft
 hook,Hook (World),1992 Irem
 horizon,Horizon,1985 Irem
 hotbubl,Hot Bubble,1998 Pandora
+hotpinbl,Hot Pinball,1995 Comad & New Japan System
 hotshock,Hot Shocker,1982 E.G. Felaco (Domino license)
 hotshockb,Hot Shocker (bootleg),1982 bootleg
 hotdogst,Hotdog Storm - The First Supersonics (International),1996 Marble / ACE International
@@ -1895,10 +1907,10 @@ hunchbkg,Hunchback (Galaxian hardware),1981 Century Electronics
 hunchbks,Hunchback (Scramble hardware),1983 Century Electronics
 hncholms,Hunchback Olympic (Scramble hardware),1984 Century Electronics
 md_hurrican,Hurricanes (Euro),1994 U.S. Gold
-md_hyokko,Hyokkori Hyoutanjima - Daitouryou o Mezase! (Jpn),1992 Sega
-md_hyperd,Hyper Dunk (Euro),1994 Konami
-md_hyperdj,Hyper Dunk - The Playoff Edition (Jpn),1994 Konami
-md_hyperdjp,Hyper Dunk - The Playoff Edition (Jpn  Prototype),1994 Konami
+md_hyokkohj,Hyokkori Hyoutan Jima - Daitouryou o Mezase! (Jpn),1992 Sega
+md_hyperdnk,Hyper Dunk (Euro),1994 Konami
+md_hyperdnkj,Hyper Dunk - The Playoff Edition (Jpn),1994 Konami
+md_hyperdnkjp,Hyper Dunk - The Playoff Edition (Jpn  Prototype),1994 Konami
 md_hypermgnk,Hyper Marbles (Jpn  Game no Kandume MegaCD Rip),1991 Sega
 md_hyperm,Hyper Marbles (Jpn  SegaNet),1991 Sega
 hyperpac,Hyper Pacman,1995 SemiCom
@@ -1912,7 +1924,7 @@ imsorry,I'm Sorry (315-5110  US),1985 Coreland / Sega
 md_iceage,Ice Age (Rus),199? <unknown>
 md_iceage3,Ice Age 3 (Rus),199? <unknown>
 md_iceage4,Ice Age 4 (Rus),199? <unknown>
-pce_idolhana,Idol Hanafuda Fan Club,19?? Unknown
+pce_idolhana,Idol Hanafuda Fan Club,1991 Game Express
 fr2ch,Idol Mahjong - final romance 2 (CD to MVS Conversion),1995 hack
 igmo,IGMO,1984 Epos Corporation
 ikari3,Ikari III - The Rescue (8-Way Joystick),1989 SNK
@@ -1960,9 +1972,9 @@ md_jlps,J. League Pro Striker (Jpn  v1.3),1993 Sega
 md_jlps2,J. League Pro Striker 2 (Jpn),1994 Sega
 md_jlpsp,J. League Pro Striker Perfect (Jpn),1993 Sega
 tg_jjnjeff,J.J. & Jeff,1990 NEC
-pce_jn18hole,Jack Nicklaus' Greatest 18 Holes of Major Championship Golf,1989 Victor Interactive Software
-md_jacknick,Jack Nicklaus' Power Challenge Golf (Euro  USA),1993 Accolade
-tg_turboglf,Jack Nicklaus' Turbo Golf,1990 Accolade
+pce_nicklaus,Jack Nicklaus' Greatest 18 Holes of Major Championship Golf,1989 Victor Interactive Software
+md_nicklaus,Jack Nicklaus' Power Challenge Golf (Euro  USA),1993 Accolade
+tg_nicklaus,Jack Nicklaus' Turbo Golf,1990 Accolade
 jack,Jack the Giantkiller (set 1),1982 Cinematronics
 jack2,Jack the Giantkiller (set 2),1982 Cinematronics
 jack3,Jack the Giantkiller (set 3),1982 Cinematronics
@@ -1975,8 +1987,8 @@ md_jb007,James Bond 007 - The Duel (Euro  Rev. A),1992 Domark
 md_jb007u,James Bond 007 - The Duel (USA),1992 Domark
 md_jpond,James Pond - Underwater Agent (Euro  USA),1993 Electronic Arts
 md_jpond3,James Pond 3 - Operation Starfish (Euro  USA),1993 Electronic Arts
-md_jpond2,James Pond II - Codename Robocod (Euro  USA),1991 Electronic Arts
-md_jpond2j,James Pond II - Codename Robocod (Jpn  Kor),1993 Electronic Arts
+md_robocod,James Pond II - Codename RoboCod (Euro  USA),1991 Electronic Arts
+md_robocodj,James Pond II - Codename RoboCod (Jpn  Kor),1993 Electronic Arts
 md_jammit,Jammit (USA),1994 Virgin Interactive
 md_janout,Janou Touryuumon (Jpn),1993 Sega
 md_jantei,Jantei Monogatari (Jpn),1991 Reno
@@ -1991,7 +2003,7 @@ md_jewelms,Jewel Master (Euro  USA  Rev. A),1991 Sega
 md_jewelmsj,Jewel Master (Jpn),1991 Sega
 pce_jigomegu,Jigoku Meguri,1990 Taito
 jigkmgri,Jigoku Meguri (Japan),1988 Taito Corporation
-md_jimpow,Jim Power - The Arcade Game (USA  Prototype),199? Loriciel
+md_jimpower,Jim Power - The Arcade Game (USA  Prototype),199? Loriciel
 md_jimmywws,Jimmy White's Whirlwind Snooker (Euro),1991 Virgin Games
 pce_jinmu,Jinmu Denshou,1989 Big Club
 pce_jinmu1,Jinmu Denshou (Alt),1989 Big Club
@@ -2010,15 +2022,21 @@ md_madd93ce,John Madden Football '93 - Championship Edition (USA),1992 Electroni
 md_madden,John Madden Football (Euro  USA),1990 Electronic Arts
 md_maddenj,John Madden Football - Pro Football (Jpn),1992 Electronic Arts Victor
 joinem,Joinem,1986 Global Corporation
-jojobane,JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyouna Bouken: Miraie no Isan (Euro 990913  NO CD),1999 Capcom
-jojoba,JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyouna Bouken: Miraie no Isan (Japan 990913),1999 Capcom
-jojoban,JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyouna Bouken: Miraie no Isan (Japan 990913  NO CD),1999 Capcom
-jojoan,JoJo's Venture / JoJo no Kimyouna Bouken (Asia 981202  NO CD),1998 Capcom
-jojon,JoJo's Venture / JoJo no Kimyouna Bouken (Asia 990108  NO CD),1998 Capcom
-jojoaj,JoJo's Venture / JoJo no Kimyouna Bouken (Japan 981202),1998 Capcom
-jojoj,JoJo's Venture / JoJo no Kimyouna Bouken (Japan 990108),1998 Capcom
-jojoa,JoJo's Venture / JoJo no Kimyouna Bouken (USA 981202),1998 Capcom
-jojo,JoJo's Venture / JoJo no Kimyouna Bouken (USA 990108),1998 Capcom
+jojobaner1,JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyouna Bouken: Miraie no Isan (Euro 990913  NO CD),1999 Capcom
+jojobane,JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyouna Bouken: Miraie no Isan (Euro 990927  NO CD),1999 Capcom
+jojobar1,JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyouna Bouken: Miraie no Isan (Japan 990913),1999 Capcom
+jojobanr1,JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyouna Bouken: Miraie no Isan (Japan 990913  NO CD),1999 Capcom
+jojoba,JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyouna Bouken: Miraie no Isan (Japan 990927),1999 Capcom
+jojoban,JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyouna Bouken: Miraie no Isan (Japan 990927  NO CD),1999 Capcom
+jojonr2,JoJo's Venture / JoJo no Kimyouna Bouken (Asia 981202  NO CD),1998 Capcom
+jojonr1,JoJo's Venture / JoJo no Kimyouna Bouken (Asia 990108  NO CD),1998 Capcom
+jojon,JoJo's Venture / JoJo no Kimyouna Bouken (Asia 990128  NO CD),1998 Capcom
+jojojr2,JoJo's Venture / JoJo no Kimyouna Bouken (Japan 981202),1998 Capcom
+jojojr1,JoJo's Venture / JoJo no Kimyouna Bouken (Japan 990108),1998 Capcom
+jojoj,JoJo's Venture / JoJo no Kimyouna Bouken (Japan 990128),1998 Capcom
+jojor2,JoJo's Venture / JoJo no Kimyouna Bouken (USA 981202),1998 Capcom
+jojor1,JoJo's Venture / JoJo no Kimyouna Bouken (USA 990108),1998 Capcom
+jojo,JoJo's Venture / JoJo no Kimyouna Bouken (USA 990128),1998 Capcom
 ltorb1,Jonas Indiana and the Lost Temple of RA (20050717),2005 blastar@gmx.net
 md_jordanb1,Jordan Vs Bird (Euro  USA),1992 Electronic Arts
 md_jordanb,Jordan Vs Bird (Euro  USA  v1.1),1992 Electronic Arts
@@ -2047,23 +2065,23 @@ md_jpark,Jurassic Park (Euro),1993 Sega
 md_jparkj,Jurassic Park (Jpn),1993 Sega
 md_jparku,Jurassic Park (USA),1993 Sega
 md_jparkup,Jurassic Park (USA  Prototype),1993 Sega
-md_jpram,Jurassic Park - Rampage Edition (Euro  USA),1994 Sega
-md_jpramp9,Jurassic Park - Rampage Edition (Prototype  19940620),1994 Sega
-md_jpramp8,Jurassic Park - Rampage Edition (Prototype  19940622),1994 Sega
-md_jpramp7,Jurassic Park - Rampage Edition (Prototype  19940630),1994 Sega
-md_jpramp6,Jurassic Park - Rampage Edition (Prototype  19940708),1994 Sega
-md_jpramp5,Jurassic Park - Rampage Edition (Prototype  19940713),1994 Sega
-md_jpramp4,Jurassic Park - Rampage Edition (Prototype  19940714),1994 Sega
-md_jpramp3,Jurassic Park - Rampage Edition (Prototype  19940715),1994 Sega
-md_jpramp2,Jurassic Park - Rampage Edition (Prototype  19940717),1994 Sega
-md_jpramp1,Jurassic Park - Rampage Edition (Prototype  19940718),1994 Sega
-md_jleagtf,Justice League Task Force (World),1995 Acclaim Entertainment
-pce_juouki,Juuouki,1989 NEC
-pce_juouki1,Juuouki (Alt),1989 NEC
+md_jparkre,Jurassic Park - Rampage Edition (Euro  USA),1994 Sega
+md_jparkrep9,Jurassic Park - Rampage Edition (Prototype  19940620),1994 Sega
+md_jparkrep8,Jurassic Park - Rampage Edition (Prototype  19940622),1994 Sega
+md_jparkrep7,Jurassic Park - Rampage Edition (Prototype  19940630),1994 Sega
+md_jparkrep6,Jurassic Park - Rampage Edition (Prototype  19940708),1994 Sega
+md_jparkrep5,Jurassic Park - Rampage Edition (Prototype  19940713),1994 Sega
+md_jparkrep4,Jurassic Park - Rampage Edition (Prototype  19940714),1994 Sega
+md_jparkrep3,Jurassic Park - Rampage Edition (Prototype  19940715),1994 Sega
+md_jparkrep2,Jurassic Park - Rampage Edition (Prototype  19940717),1994 Sega
+md_jparkrep1,Jurassic Park - Rampage Edition (Prototype  19940718),1994 Sega
+md_jleague,Justice League Task Force (World),1995 Acclaim Entertainment
+pce_juuouki,Juuouki,1989 NEC
+pce_juuouki1,Juuouki (Alt),1989 NEC
 md_juuouki1,Juuouki (Jpn),1988 Sega
 md_juuouki,Juuouki (Jpn  v1.1),1988 Sega
 altbeastj3,Juuouki (set 3  Japan  FD1094 317-0068),1988 Sega
-altbeastj,Juuouki (set 6  Japan  8751 317-0077),1988 Sega
+altbeastj,Juuouki (set 7  Japan  8751 317-0077),1988 Sega
 jyangoku,Jyangokushi  -Haoh no Saihai- (990527 Japan),1999 Mitchell
 janshin,Jyanshin Densetsu - Quest of Jongmaster,1994 Aicom
 md_kof2k,K. O. F. 2000,199? <unlicensed>
@@ -2108,8 +2126,8 @@ md_patlabor,Kidou Keisatsu Patlabor - 98-shiki Kidou Seyo! (Jpn),1992 Ma-Ba
 pce_kikikai,Kiki KaiKai,1990 Taito
 kingballj,King & Balloon (Japan),1980 Namco
 kingball,King & Balloon (US),1980 Namco
-pce_kingcasn,King of Casino,1990 Victor Interactive Software
 tg_kingcasn,King of Casino,1990 NEC
+pce_kingcasn,King of Casino,1990 Victor Interactive Software
 kog,King of Gladiator (The King of Fighters '97 bootleg),1997 bootleg
 md_kotm,King of the Monsters (Euro),1993 Sega
 md_kotmj,King of the Monsters (Jpn),1993 Sega
@@ -2126,8 +2144,8 @@ kingdmgp,Kingdom Grandprix (World),1994 Raizing / 8ing
 md_kishiden,Kishi Densetsu (Jpn),1993 Kodansha
 md_kissshot,Kiss Shot (Jpn  SegaNet),1991 Sega
 kizuna,Kizuna Encounter - Super Tag Battle / Fu'un Super Tag Battle,1996 SNK
-pce_klax,Klax,1990 Tengen
 tg_klax,Klax,1990 Tengen
+pce_klax,Klax,1990 Tengen
 md_klax,Klax (Euro  USA),1990 Tengen
 md_klaxj,Klax (Jpn),1990 Namcot
 pce_knightrs,Knight Rider Special,1989 Pack-In-Video
@@ -2163,13 +2181,14 @@ md_knucklp,Knuckles in Sonic 2 (Prototype 0524  19940527  10.46),199? <unknown>
 eto,Kokontouzai Eto Monogatari (Japan),1994 Visco
 md_kolobok,Kolobok ~ Pyramid (Rus),199? <unknown>
 konami88,Konami '88,1988 Konami
+kong,Kong (Brazil),198? Taito do Brasil
 pce_proyak89,Kore Ga Pro Yakyuu '89,1989 Intec
 pce_proyak90,Kore Ga Pro Yakyuu '90,1990 Intec
 korokoro,Koro Koro Quest (Japan),1999 Takumi
 korosuke,Korosuke Roller,1981 Kural Electric
 myangel,Kosodate Quiz My Angel (Japan),1996 Namco
 myangel2,Kosodate Quiz My Angel 2 (Japan),1996 Namco
-md_koutetsu,Koutetsu Teikoku (Jpn),1992 Hot-B
+md_koteteik,Koutetsu Teikoku (Jpn),1992 Hot-B
 strahl,Koutetsu Yousai Strahl (Japan set 1),1992 UPL
 strahla,Koutetsu Yousai Strahl (Japan set 2),1992 UPL
 kozure,Kozure Ookami (Japan),1987 Nichibutsu
@@ -2186,17 +2205,17 @@ md_kuuga,Kuuga - Operation Code 'Vapor Trail' (Jpn),1991 Riot
 md_kuzyaeo,Kuzya - Ekologiya V Opasnosti (Rus),199? <unknown>
 md_kuzyamd,Kuzya - V Mire Dinozavrov (Rus),199? <unknown>
 md_kyukaidk,Kyuukai Douchuuki (Jpn),1991 Namcot
-pce_kyukyomj,Kyuukyoku Mahjong - Idol Graphics,19?? Unknown
-pce_kyukyom2,Kyuukyoku Mahjong II,19?? Unknown
-pce_kyutiger,Kyuukyoku Tiger,1989 Taito
-md_kyuukyok,Kyuukyoku Tiger (Jpn),1991 Treco
+pce_kyukyomj,Kyuukyoku Mahjong - Idol Graphics,1992 Game Express
+pce_kyukyom2,Kyuukyoku Mahjong II,1993 Game Express
+pce_ktiger,Kyuukyoku Tiger,1989 Taito
+md_ktiger,Kyuukyoku Tiger (Jpn),1991 Treco
 md_larussa,La Russa Baseball 95 (USA  Oceania),1994 Electronic Arts
 ladybug,Lady Bug,1981 Universal
 ladybugg,Lady Bug (bootleg on Galaxian hardware),1983 bootleg
 ladybugb,Lady Bug (bootleg set 1),1981 bootleg
 ladybgb2,Lady Bug (bootleg set 2),1981 bootleg
-pce_ladyswrd,Lady Sword,19?? Unknown
-pce_ladyswrd1,Lady Sword (Alt),19?? Unknown
+pce_ladyswrd,Lady Sword,19?? Game Express
+pce_ladyswrd1,Lady Sword (Alt),19?? Game Express
 md_lakers,Lakers versus Celtics and the NBA Playoffs (USA),1991 Electronic Arts
 md_landstlku,Landstalker (USA),1992 Sega
 md_landstlkup,Landstalker (USA  Prototype),1992 Sega
@@ -2229,8 +2248,8 @@ ledstorm,Led Storm (US),1988 Capcom
 ledstorm2,Led Storm Rally 2011 (US),1988 Capcom
 legend,Legend,1986 Sega / Coreland
 pce_loht,Legend of Hero Tonma,1991 Irem
-tg_loht,Legend of Hero Tonma,1991 TTI
 loht,Legend of Hero Tonma,1989 Irem
+tg_loht,Legend of Hero Tonma,1991 TTI
 lohtb,Legend of Hero Tonma (bootleg  set 1),1989 bootleg
 lohtb2,Legend of Hero Tonma (bootleg  set 2),1989 bootleg
 lohtj,Legend of Hero Tonma (Japan),1989 Irem
@@ -2279,7 +2298,7 @@ lizwiz,Lizard Wizard,1985 Techstar (Sunn license)
 md_lobo,Lobo (USA  Prototype),1996 Ocean
 ldrun,Lode Runner (set 1),1984 Irem (licensed from Broderbund)
 ldruna,Lode Runner (set 2),1984 Irem (licensed from Broderbund)
-pce_loderun,Lode Runner - Lost Labyrinth,1990 Pack-In-Video
+pce_ldrun,Lode Runner - Lost Labyrinth,1990 Pack-In-Video
 loderndfa,Lode Runner - The Dig Fight (ver. A),2000 Psikyo
 loderndf,Lode Runner - The Dig Fight (ver. B),2000 Psikyo
 ldrun2,Lode Runner II - The Bungeling Strikes Back,1984 Irem (licensed from Broderbund)
@@ -2320,7 +2339,7 @@ md_madden95,Madden NFL 95 (Euro  USA),1994 Electronic Arts
 md_madden96,Madden NFL 96 (Euro  USA),1995 Electronic Arts
 md_madden97,Madden NFL 97 (Euro  USA),1997 Electronic Arts
 md_madden98,Madden NFL 98 (USA),1997 Electronic Arts
-md_madoum,Madou Monogatari I (Jpn),1996 Compile
+md_madoumon,Madou Monogatari I (Jpn),1996 Compile
 sgx_granzort,Madou Ou Granzort,1990 Hudson
 md_mafia,Mafia (Rus),199? <unknown>
 mbrush,Magic Brush,1981 bootleg
@@ -2343,7 +2362,7 @@ magdrop2,Magical Drop II,1996 Data East Corporation
 magdrop3,Magical Drop III,1997 Data East Corporation
 magdropp,Magical Drop Plus 1 (Japan  Version 2.1  1995.09.12),1995 Data East
 md_magichat,Magical Hat no Buttobi Turbo! Daibouken (Jpn),1990 Sega
-md_magtaru,Magical Taruruuto-kun (Jpn),1992 Sega
+md_mtaruru,Magical Taruruuto-kun (Jpn),1992 Sega
 maglordh,Magician Lord (NGH-005),1990 Alpha Denshi Co.
 maglord,Magician Lord (NGM-005),1990 Alpha Denshi Co.
 md_magist16,Magistr 16 (Rus),199? <unknown>
@@ -2366,7 +2385,7 @@ mahoudai,Mahou Daisakusen (Japan),1993 Raizing
 mstadium,Main Stadium (Japan ver. 4),1989 Konami
 pce_mikkoku,Maison Ikkoku,1989 Micro Cabin
 majest12,Majestic Twelve - The Space Invaders Part IV (Japan),1990 Taito Corporation
-pce_majinew,Majin Eiyuu Den Wataru,1988 Hudson
+pce_wataru,Majin Eiyuu Den Wataru,1988 Hudson
 mjleague,Major League,1985 Sega
 majtitlej,Major Title (Japan),1990 Irem
 majtitle,Major Title (World),1990 Irem
@@ -2383,14 +2402,14 @@ maketrxb,Make Trax (set 2),1981 [Kural] (Williams license)
 pce_makyoden,Makyou Densetsu,1988 Victor Interactive Software
 md_mamono,Mamono Hunter Youko - Dai 7 no Keishou (Jpn),1991 NCS
 mangchi,Mang-Chi,2000 Afega
-pce_maniac,Maniac Puroresu - Asu Heno Tatakai,1990 Hudson
+pce_maniacpw,Maniac Pro Wres - Asu Heno Tatakai,1990 Hudson
 maniacsp,Maniac Square (prototype),1996 Gaelco
 manybloc,Many Block,1991 Bee-Oh
 md_maouren,Maou Renjishi (Jpn),1991 Taito
 md_marble,Marble Madness (Euro  USA),1993 Electronic Arts
 marineb,Marine Boy,1982 Orca
 mariner,Mariner,1981 Armenip
-md_marioand,Mario Andretti Racing (Euro  USA),1994 Electronic Arts
+md_andretti,Mario Andretti Racing (Euro  USA),1994 Electronic Arts
 md_mariolh,Mario Lemieux Hockey (Euro  USA),1991 Sega
 markham,Markham,1983 Sun Electronics
 md_marko,Marko's Magic Football (Euro),1994 Domark
@@ -2405,8 +2424,8 @@ md_marsupu,Marsupilami (USA),1995 Sega
 martmastc102,Martial Masters (V102  101  101  China),2001 IGS
 martmastc,Martial Masters (V104  102  101  China),2001 IGS
 martmast,Martial Masters (V104  102  102  USA),2001 IGS
-md_mvlndj,Marvel Land (Jpn),1991 Namcot
-md_mvlnd,Marvel Land (USA),1991 Namcot
+md_marvlandj,Marvel Land (Jpn),1991 Namcot
+md_marvland,Marvel Land (USA),1991 Namcot
 msha,Marvel Super Heroes (951024 Asia),1995 Capcom
 msh,Marvel Super Heroes (951024 Euro),1995 Capcom
 mshjr1,Marvel Super Heroes (951024 Japan),1995 Capcom
@@ -2543,27 +2562,27 @@ md_mmania,Mickey Mania - The Timeless Adventures of Mickey Mouse (Euro),1994 Son
 md_mmaniaj,Mickey Mania - The Timeless Adventures of Mickey Mouse (Jpn),1995 Sega
 md_mmaniau,Mickey Mania - The Timeless Adventures of Mickey Mouse (USA),1994 Sony Imagesoft
 md_mmaniaup,Mickey Mania - The Timeless Adventures of Mickey Mouse (USA  Prototype),1994 Sony Imagesoft
-md_mickeyuc,Mickey's Ultimate Challenge (USA),1994 High Tech Expressions
-md_micromcn,Micro Machines (Can),1993 Codemasters
-md_microm,Micro Machines (Euro  USA),1993 Codemasters
-md_micromb,Micro Machines (Euro  USA  Alt 2),1993 Codemasters
-md_microma,Micro Machines (Euro  USA  Alt),1993 Codemasters
-md_microm2,Micro Machines 2 - Turbo Tournament (Euro  J-Cart),1994 Codemasters
-md_microm2a,Micro Machines 2 - Turbo Tournament (Euro  J-Cart  Alt),1994 Codemasters
+md_mickeyuc,Mickey's Ultimate Challenge (USA),1994 Hi Tech Expressions
+md_micromacc,Micro Machines (Can),1993 Codemasters
+md_micromac,Micro Machines (Euro  USA),1993 Codemasters
+md_micromacb,Micro Machines (Euro  USA  Alt 2),1993 Codemasters
+md_micromaca,Micro Machines (Euro  USA  Alt),1993 Codemasters
+md_micromc2,Micro Machines 2 - Turbo Tournament (Euro  J-Cart),1994 Codemasters
+md_micromc2a,Micro Machines 2 - Turbo Tournament (Euro  J-Cart  Alt),1994 Codemasters
 md_micromm,Micro Machines Military (Euro  J-Cart),1996 Codemasters
-md_micro96a,Micro Machines Turbo Tournament 96 (Euro  J-Cart),1995 Codemasters
-md_micro96,Micro Machines Turbo Tournament 96 (Euro  v1.1  J-Cart),1995 Codemasters
+md_microm96a,Micro Machines Turbo Tournament 96 (Euro  J-Cart),1995 Codemasters
+md_microm96,Micro Machines Turbo Tournament 96 (Euro  v1.1  J-Cart),1995 Codemasters
 midresj,Midnight Resistance (Japan),1989 Data East Corporation
 md_midresj,Midnight Resistance (Jpn),1991 Data East
 midresu,Midnight Resistance (US),1989 Data East USA
 md_midres,Midnight Resistance (USA),1991 Sega
 midres,Midnight Resistance (World),1989 Data East Corporation
-md_midway,Midway Presents Arcade's Greatest Hits (Euro),1996 Midway
+md_midwaygh,Midway Presents Arcade's Greatest Hits (Euro),1996 Midway
 md_mig29,Mig-29 Fighter Pilot (Euro),1993 Domark
 md_mig29j,Mig-29 Fighter Pilot (Jpn),1993 Tengen
 md_mig29u,Mig-29 Fighter Pilot (USA),1993 Domark
 md_mightmag,Might and Magic - Gates to Another World (Euro  USA),1991 Electronic Arts
-md_mmagic3p,Might and Magic III - Isles of Terra (USA  Prototype),199? <unknown>
+md_mightmg3,Might and Magic III - Isles of Terra (USA  Prototype),1993 FCI?
 mimonkey,Mighty Monkey,198? Universal Video Games
 mimonscr,Mighty Monkey (bootleg on Scramble hardware),198? bootleg
 mimonsco,Mighty Monkey (bootleg on Super Cobra hardware),198? bootleg
@@ -2586,8 +2605,8 @@ mpangr1,Mighty! Pang (000925 Euro),2000 Mitchell
 mpang,Mighty! Pang (001010 Euro),2000 Mitchell
 mpangu,Mighty! Pang (001010 USA),2000 Mitchell
 mpangj,Mighty! Pang (001011 Japan),2000 Mitchell
-md_mikedi,Mike Ditka Power Football (Euro  USA),1991 Ballistic
-md_mikedi1,Mike Ditka Power Football (Euro  USA  Alt),1991 Ballistic
+md_ditkapf,Mike Ditka Power Football (Euro  USA),1991 Ballistic
+md_ditkapf1,Mike Ditka Power Football (Euro  USA  Alt),1991 Ballistic
 tg_miltrymd,Military Madness,1989 NEC
 gtmr2a,Mille Miglia 2: Great 1000 Miles Rally (95/04/04),1995 Kaneko
 gtmr2,Mille Miglia 2: Great 1000 Miles Rally (95/05/24),1995 Kaneko
@@ -2604,16 +2623,17 @@ missw96,Miss World '96 (Nude),1996 Comad
 mrviking,Mister Viking (315-5041),1984 Sega
 mrvikingj,Mister Viking (315-5041  Japan),1984 Sega
 quiz18k,Miyasu Nonki no Quiz 18-Kin,1992 EIM
-pce_mizubaku,Mizubaku Dai Bouken,1992 Namco
+pce_mizubaku,Mizubaku Dai Bouken,1992 Namcot
 mizubaku,Mizubaku Daibouken (Japan),1990 Taito Corporation
 md_mk5mor,MK 5 - Mortal Combat - SubZero,199? <unlicensed>
 md_mk5mor1,MK 5 - Mortal Combat - SubZero (Pirate),199? <unlicensed>
-md_mlbpab,MLBPA Baseball (USA),1992 Electronic Arts
+md_mlbpa,MLBPA Baseball (USA),1992 Electronic Arts
 msgundam,Mobile Suit Gundam,1993 Banpresto
 msgundam1,Mobile Suit Gundam (Japan),1993 Banpresto
 gundamex,Mobile Suit Gundam EX Revue,1994 Banpresto
 mogura,Mogura Desse,1991 Konami
 mole,Mole Attack,1982 Yachiyo Electronics, Ltd.
+momoko,Momoko 120%,1986 Jaleco
 pce_momogdn,Momotarou Densetsu Gaiden Dai 1 Shuu,1992 Hudson
 pce_momo2,Momotarou Densetsu II,1990 Hudson
 pce_momotrbo,Momotarou Densetsu Turbo,1990 Hudson
@@ -2621,7 +2641,7 @@ pce_momoktsg,Momotarou Katsugeki,1990 Hudson
 miexchng,Money Puzzle Exchanger / Money Idol Exchanger,1997 Face
 md_monopoly,Monopoly (USA),1992 Parker Brothers
 md_monopolyp,Monopoly (USA  Prototype),1992 Parker Brothers
-pce_monstpur,Monster Puroresu,1991 ASK
+pce_mnstprow,Monster Pro Wres,1991 ASK
 md_mworld4,Monster World IV (Jpn),1994 Sega
 mstworld,Monsters World,1994 TCH
 md_monstinc,Monsters  Inc. (Rus),199? <unknown>
@@ -2647,14 +2667,14 @@ moonwar,Moonwar,1981 Stern
 moonwara,Moonwar (older),1981 Stern
 moremore,More More,1999 SemiCom / Exit
 moremorp,More More Plus,1999 SemiCom / Exit
-pce_morishog,Morita Shougi PC,1991 NEC Avenue
+pce_moritash,Morita Shougi PC,1991 NEC Avenue
 md_mka,Mortal Kombat (World),1993 Arena
 md_mk,Mortal Kombat (World  v1.1),1993 Arena
 md_mk3,Mortal Kombat 3 (Euro),1995 Acclaim Entertainment
 md_mk3u,Mortal Kombat 3 (USA),1995 Williams
 md_mk2,Mortal Kombat II (World),1994 Acclaim Entertainment
-tg_motoroad,Moto Roader,1989 NEC
 pce_motoroad,Moto Roader,1989 NCS
+tg_motoroad,Moto Roader,1989 NEC
 pce_motorod2,Moto Roader II,1991 Masiya
 pce_motorod2a,Moto Roader II (Alt),1991 Masiya
 mrdo,Mr. Do!,1982 Universal
@@ -2686,9 +2706,9 @@ mschamp,Ms. Pacman Champion Edition / Zola-Puc Gal,1995 hack
 rocktrv2,MTV Rock-N-Roll Trivia (Part 2),1986 Triumph Software Inc.
 mugsmash,Mug Smashers,1990? Electronic Devices Italy / 3D Games England
 md_valisj,Mugen Senshi Valis (Jpn),1991 Riot
-md_muhamm,Muhammad Ali Heavyweight Boxing (Euro),1992 Virgin Games
-md_muhammu,Muhammad Ali Heavyweight Boxing (USA),1992 Virgin Games
-md_muhammup,Muhammad Ali Heavyweight Boxing (USA  Prototype),1992 Virgin Games
+md_muhammad,Muhammad Ali Heavyweight Boxing (Euro),1992 Virgin Games
+md_muhammadu,Muhammad Ali Heavyweight Boxing (USA),1992 Virgin Games
+md_muhammadup,Muhammad Ali Heavyweight Boxing (USA  Prototype),1992 Virgin Games
 semibase,MuHanSeungBu (SemiCom Baseball) (Korea),1997 SemiCom
 nmg5,Multi 5 / New Multi Game 5,1998 Yun Sung
 nmg5e,Multi 5 / New Multi Game 5 (earlier),1997 Yun Sung
@@ -2705,8 +2725,8 @@ alibabab,Mustafa and 40 Thieves (bootleg),1982 bootleg
 mutantf3,Mutant Fighter (World ver EM-3),1992 Data East Corporation
 mutantf4,Mutant Fighter (World ver EM-4),1992 Data East Corporation
 mutantf,Mutant Fighter (World ver EM-5),1992 Data East Corporation
-md_mutantlf,Mutant League Football (Euro  USA),1993 Electronic Arts
-md_mutantlfj,Mutant League Football (Jpn),1993 Electronic Arts Victor
+md_mlfootb,Mutant League Football (Euro  USA),1993 Electronic Arts
+md_mlfootbj,Mutant League Football (Jpn),1993 Electronic Arts Victor
 md_mlhockey,Mutant League Hockey (Euro  USA),1994 Electronic Arts
 mutnat,Mutation Nation (NGM-014)(NGH-014),1992 SNK
 mvpj,MVP (set 1  Japan  FD1094 317-0142),1989 Sega
@@ -2720,9 +2740,9 @@ md_mystdef,Mystic Defender (Euro  USA  Rev. A),1989 Sega
 mysticrib,Mystic Riders (bootleg?),1992 Irem
 mysticri,Mystic Riders (World),1992 Irem
 md_mysticf,Mystical Fighter (USA),1992 Dreamworks
-pce_marchen,Märchen Maze,1990 Namco
+pce_marchen,Märchen Maze,1990 Namcot
 md_nakaf1gp,Nakajima Satoru Kanshuu F1 Grand Prix (Jpn),1991 Varie
-md_nakaf1he,Nakajima Satoru Kanshuu F1 Hero MD (Jpn),1992 Varie
+md_f1heromd,Nakajima Satoru Kanshuu F1 Hero MD (Jpn),1992 Varie
 md_nakaf1sl,Nakajima Satoru Kanshuu F1 Super License (Jpn),1992 Varie
 nam1975,NAM-1975 (NGM-001)(NGH-001),1990 SNK
 naname,Naname de Magic!,1994 Atlus
@@ -2736,7 +2756,7 @@ nmouse,Naughty Mouse (set 1),1981 Amenip (Palcom Queen River)
 nmouseb,Naughty Mouse (set 2),1981 Amenip Nova Games Ltd.
 pce_naxopen,Naxat Open,1989 Naxat
 pce_naxstad,Naxat Stadium,1990 Naxat
-pce_nazomasc,Nazo no Mascarade,1990 Masiya
+pce_nazomasq,Nazo no Masquerade,1990 Masiya
 md_nba2k,NBA 2000 (Rus),199? <unknown>
 md_nba2k5,NBA 2005 (Rus),199? Glorysun
 md_nbaact95,NBA Action '95 (Euro  USA),1995 Sega
@@ -2796,9 +2816,9 @@ pce_nectaris,Nectaris,1990 Hudson
 md_nfsu,Need for Speed Undercover (Rus),199? <unknown>
 kuniokunb,Nekketsu Kouha Kunio-kun (Japan bootleg),1986 bootleg
 kuniokun,Nekketsu Kouha Kunio-kun (Japan),1986 Technos
-pce_dodgeban,Nekketsu Koukou Dodgeball Bu - PC Bangai Hen,1990 Naxat
-md_nekketsu,Nekketsu Koukou Dodgeball Bu - Soccer Hen MD (Jpn),1992 Palsoft
-pce_dodgesoc,Nekketsu Koukou Dodgeball Bu - Soccer PC Hen,1992 Naxat
+pce_nekdodge,Nekketsu Koukou Dodgeball Bu - PC Bangai Hen,1990 Naxat
+md_neksoccr,Nekketsu Koukou Dodgeball Bu - Soccer Hen MD (Jpn),1992 Palsoft
+pce_neksoccr,Nekketsu Koukou Dodgeball Bu - Soccer PC Hen,1992 Naxat
 nemoj,Nemo (90 11 20 Japan),1990 Capcom
 nemo,Nemo (90 11 30 etc),1990 Capcom
 neo2500,Neo 2500 Demo,2004 blastar@gmx.net
@@ -2809,18 +2829,19 @@ neocdz,Neo Geo CDZ system,1996 SNK
 neogeo,Neo Geo MVS system,1990 SNK
 neomrdo,Neo Mr. Do!,1996 Visco
 neonopon,Neo No Panepon (beta),???? blastar@gmx.net
+neoponga,Neo Pong (ver 1.0),2002 Neo Dev Corporation
 neopong,Neo Pong (ver 1.1),2002 Neo Dev Corporation
 syscheck,Neo System Check (ver 1.0b),???? blastar@gmx.net
 turfmast,Neo Turf Masters / Big Tournament Golf,1996 Nazca
 neocup98,Neo-Geo Cup '98 - The Road to the Victory,1998 SNK
-tg_neutopia,Neutopia,1990 NEC
 pce_neutopia,Neutopia,1989 Hudson
+tg_neutopia,Neutopia,1990 NEC
 pce_neutopi2,Neutopia II,1991 Hudson
 tg_neutopi2,Neutopia II,1992 NEC
-md_n3dgdevi,New 3D Golf Simulation Devil's Course (Jpn),1994 Sega
-md_n3dgaugu,New 3D Golf Simulation Harukanaru Augusta (Jpn),1993 T & E Soft
-md_n3dgpebb,New 3D Golf Simulation Pebble Beach no Hatou (Jpn),1993 Sega
-md_n3dgwaia,New 3D Golf Simulation Waialae no Kiseki (Jpn),1994 Sega
+md_n3dgdevi,New 3D Golf Simulation - Devil's Course (Jpn),1994 Sega
+md_n3dgaugu,New 3D Golf Simulation - Harukanaru Augusta (Jpn),1993 T & E Soft
+md_n3dgpebb,New 3D Golf Simulation - Pebble Beach no Hatou (Jpn),1993 Sega
+md_n3dgwaia,New 3D Golf Simulation - Waialae no Kiseki (Jpn),1994 Sega
 tg_advislnd,New Adventure Island,1992 TTI
 newapunk,New Atomic Punk - Global Quest (US),1992 Irem America
 newfant,New Fantasia,1995 Comad / New Japan System
@@ -2828,7 +2849,7 @@ md_newhoriz,New Horizons (USA),1994 Koei
 newpuckx,New Puck-X,1980 hack
 nrallyx,New Rally X,1981 Namco
 newsin7,New Sinbad 7,1983 ATW USA, Inc.
-md_mansell,Newman Haas Indy Car Featuring Nigel Mansell ~ Nigel Mansell Indy Car (World),1994 Acclaim Entertainment
+md_newmanh,Newman Haas IndyCar Featuring Nigel Mansell ~ Nigel Mansell Indy Car (World),1994 Acclaim Entertainment
 newpuc2,Newpuc2,1980 hack
 newpuc2b,Newpuc2b,1980 hack
 news,News (set 1),1993 Poby / Virus
@@ -2863,7 +2884,7 @@ md_nflqb96,NFL Quarterback Club 96 (Euro  USA),1996 Acclaim Entertainment
 md_nflsport,NFL Sports Talk Football '93 Starring Joe Montana (Euro  USA),1992 Sega
 ngem2k,NGEM2K (beta 2006-01-18),2006 homebrew
 pce_nhktaidr,NHK Taiga Drama - Taiheiki,1992 NHK Enterprise
-md_nhktaiga,NHK Taiga Drama - Taiheiki (Jpn),1991 Sega
+md_nhktaidr,NHK Taiga Drama - Taiheiki (Jpn),1991 Sega
 md_nhl94,NHL '94 (Euro  USA),1993 Electronic Arts
 md_nhl95,NHL 95 (Euro  USA),1995 Electronic Arts
 md_nhl96,NHL 96 (Euro  USA),1995 Electronic Arts
@@ -2886,12 +2907,12 @@ md_nhlasp02,NHL All-Star Hockey '95 (Prototype  19941201),1994 Sega
 md_nhlasp03,NHL All-Star Hockey '95 (Prototype  19941201-B),1994 Sega
 md_nhlasp01,NHL All-Star Hockey '95 (Prototype  19941202),1994 Sega
 md_nhlas,NHL All-Star Hockey '95 (USA),1995 Sega
-md_nhlhoc,NHL Hockey (USA),1991 Electronic Arts
+md_nhl,NHL Hockey (USA),1991 Electronic Arts
 md_nhlpa2k3,NHLPA 2003 (Rus),199? <unknown>
-md_nhlpah1,NHLPA Hockey 93 (Euro  USA),1992 Electronic Arts
-md_nhlpah,NHLPA Hockey 93 (Euro  USA  v1.1),1992 Electronic Arts
-md_nigelm,Nigel Mansell's World Championship Racing (Euro),1993 Konami
-md_nigelmu,Nigel Mansell's World Championship Racing (USA),1993 GameTek
+md_nhlpa93a,NHLPA Hockey 93 (Euro  USA),1992 Electronic Arts
+md_nhlpa93,NHLPA Hockey 93 (Euro  USA  v1.1),1992 Electronic Arts
+md_mansell,Nigel Mansell's World Championship Racing (Euro),1993 Konami
+md_mansellu,Nigel Mansell's World Championship Racing (USA),1993 GameTek
 tg_nightcr,Night Creatures,1992 NEC
 nightstrj,Night Striker (Japan),1989 Taito Corporation
 nightstru,Night Striker (US),1989 Taito America Corporation
@@ -2920,31 +2941,31 @@ nprinces,Ninja Princess (315-5051  64k Ver. bootleg?),1985 bootleg?
 nprincesb,Ninja Princess (315-5051?  128k Ver. bootleg?),1985 bootleg?
 nprinceso,Ninja Princess (315-5098  128k Ver.),1985 Sega
 nprincesu,Ninja Princess (64k Ver. not encrypted),1985 Sega
-pce_ninjaryu,Ninja Ryukenden,1992 Hudson
+pce_nryukend,Ninja Ryukenden,1992 Hudson
 ryukendn,Ninja Ryukenden (Japan  set 1),1989 Tecmo
 ryukendna,Ninja Ryukenden (Japan  set 2),1989 Tecmo
-tg_nspirit,Ninja Spirit,1990 NEC
 nspirit,Ninja Spirit,1988 Irem
+tg_nspirit,Ninja Spirit,1990 NEC
 nitrobal,Nitro Ball (US),1992 Data East Corporation
 md_noescape,No Escape (USA),1994 Psygnosis
 nob,Noboranka (Japan),1986 Data East Corporation
 nobb,Noboranka (Japan  bootleg),1986 bootleg
-md_nobubus,Nobunaga no Yabou - Bushou Fuuunroku (Jpn),1991 Koei
+md_nobubufu,Nobunaga no Yabou - Bushou Fuuunroku (Jpn),1991 Koei
 md_nobuhao,Nobunaga no Yabou - Haouden (Jpn),1994 Koei
-md_nobuzen,Nobunaga no Yabou - Zenkoku Ban (Jpn),1993 Koei
+md_nobuzenk,Nobunaga no Yabou - Zenkokuban (Jpn),1993 Koei
 md_nobuamb,Nobunaga's Ambition (USA),1993 Koei
 md_normys,Normy's Beach Babe-O-Rama (Euro  USA),1994 Electronic Arts
 nost,Nostradamus,1993 Face
 nostj,Nostradamus (Japan),1993 Face
 nostk,Nostradamus (Korea),1993 Face
 nouryoku,Nouryoku Koujou Iinkai,1995 Tecmo
-pce_oboccha,Obocchama Kun,1991 Namco
+pce_oboccha,Obocchama-kun,1991 Namcot
 ohmygod,Oh My God!,1993 Atlus
 oisipuzl,Oishii Puzzle Ha Irimasenka,1993 Sunsoft + Atlus
-md_olympg,Olympic Gold (Euro),1992 U.S. Gold
-md_olympgj,Olympic Gold (Jpn  Kor),1992 Sega
-md_olympgu,Olympic Gold (USA),1992 U.S. Gold
-md_olympgu1,Olympic Gold (USA  Alt),1992 U.S. Gold
+md_olympgld,Olympic Gold (Euro),1992 U.S. Gold
+md_olympgldj,Olympic Gold (Jpn  Kor),1992 Sega
+md_olympgldu,Olympic Gold (USA),1992 U.S. Gold
+md_olympgldu1,Olympic Gold (USA  Alt),1992 U.S. Gold
 md_olympsum,Olympic Summer Games (Euro  USA),1996 Black Pearl
 omega,Omega,19?? bootleg?
 omni,Omni,19?? bootleg
@@ -2969,8 +2990,8 @@ opwolf3,Operation Wolf 3 (World),1994 Taito Corporation Japan
 orbitron,Orbitron,19?? Signatron USA
 orbs,Orbs (10/7/94 prototype?),1994 American Sammy
 tg_griffon,Order of the Griffon,1992 TTI
-pce_ordyne,Ordyne,1989 Namco
 tg_ordyne,Ordyne,1989 NEC
+pce_ordyne,Ordyne,1989 Namcot
 orlegend105k,Oriental Legend (V105  Korea),1997 IGS
 orlegend111c,Oriental Legend - Xi Yo Gi Shi Re Zuang (V111  China),1997 IGS
 orlegendca,Oriental Legend - Xi Yo Gi Shi Re Zuang (V112 alt  China),1997 IGS
@@ -3013,10 +3034,11 @@ ozon1,Ozon I,1983 Proma
 pce_p47,P-47 - The Freedom Fighter,1989 Aicom
 pgemeni,P-GeMeni (060123),2006 blastar@gmx.net
 pow,P.O.W. - Prisoners of War (US version 1),1988 SNK
-md_pacattck,Pac-Attack (USA),1993 Namco
+md_pto,P.T.O. - Pacific Theater of Operations (USA),1993 Koei
+md_pacattak,Pac-Attack (USA),1993 Namco
 pacgal,Pac-Gal,1981 hack
+pce_pacland,Pac-land,1989 Namcot
 tg_pacland,Pac-land,1990 NEC
-pce_pacland,Pac-land,1989 Namco
 paclandj,Pac-Land (Japan new),1984 Namco
 paclandjo,Pac-Land (Japan old),1984 Namco
 paclandjo2,Pac-Land (Japan older),1984 Namco
@@ -3033,7 +3055,6 @@ pacplus,Pac-Man Plus,1982 [Namco] (Midway license)
 md_pacmania,Pac-Mania (Euro  USA),1991 Tengen
 md_pachinko,Pachinko Kuunyan (Jpn),1992 Soft Vision International
 pce_pachikun,Pachio Kun - Juuban Shoubu,1992 Coconuts Japan
-md_pacific,Pacific Theater of Operations (USA),1993 Koei
 paddle2,Paddle 2 (bootleg on Block hardware),1986 bootleg
 md_paddlegnk,Paddle Fighter (Jpn  Game no Kandume MegaCD Rip),1991 Sega
 md_paddle,Paddle Fighter (Jpn  SegaNet),1991 Sega
@@ -3054,7 +3075,7 @@ tg_panzakb,Panza Kick Boxing,1990 NEC
 paprazzi,Paparazzi,1996 Yun Sung
 md_paperboy,Paperboy (Euro  USA),1991 Tengen
 md_paperboyj,Paperboy (Jpn),1992 Tengen
-md_paperby2,Paperboy 2 (Euro  USA),1992 Tengen
+md_paperbo2,Paperboy 2 (Euro  USA),1992 Tengen
 pce_paranoia,Paranoia,1990 Naxat
 tg_parasol,Parasol Stars - The Story of Bubble Bobble III,1991 Working Designs
 pce_parasol,Parasol Stars - The Story of Bubble Bobble III,1991 Taito
@@ -3138,8 +3159,8 @@ photoy2k104,Photo Y2K / Real and Fake (V104),1999 IGS
 photoy2k,Photo Y2K / Real and Fake (V105),1999 IGS
 md_pink,Pink Goes to Hollywood (Euro  USA),1993 TecMagik
 md_pinkp,Pink Goes to Hollywood (USA  Prototype),1993 TecMagik
-md_pinocc,Pinocchio (Euro),1995 Sega
-md_pinoccu,Pinocchio (USA),1996 THQ
+md_pinoc,Pinocchio (Euro),1995 Sega
+md_pinocu,Pinocchio (USA),1996 THQ
 whoopee,Pipi & Bibis / Whoopee!! (Teki Paki hardware),1991 Toaplan
 pipibibs,Pipi & Bibis / Whoopee!! (Z80 sound cpu  set 1),1991 Toaplan
 pipibibsa,Pipi & Bibis / Whoopee!! (Z80 sound cpu  set 2),1991 Toaplan
@@ -3148,10 +3169,10 @@ piranhah,Piranha (hack),1981 hack
 piranhao,Piranha (older),1981 GL (US Billiards License)
 higemaru,Pirate Ship Higemaru,1984 Capcom
 pirates,Pirates,1994 NIX
-md_pircarib,Pirates of the Caribbean (Rus),199? <unknown>
-md_pgold,Pirates! Gold (USA),1993 Microprose
-md_pgoldp,Pirates! Gold (USA  Prototype),1993 Microprose
-md_pircari2,Piraty Karibskogo Morya - Na Strannyh Beregah ~ Pirates of the Caribbean - On Stranger Tides (Rus),199? <unknown>
+md_pcarib,Pirates of the Caribbean (Rus),199? <unknown>
+md_pirates,Pirates! Gold (USA),1993 Microprose
+md_piratesp,Pirates! Gold (USA  Prototype),1993 Microprose
+md_pcarib2,Piraty Karibskogo Morya - Na Strannyh Beregah ~ Pirates of the Caribbean - On Stranger Tides (Rus),199? <unknown>
 pisces,Pisces,19?? Subelectro
 piscesb,Pisces (bootleg),19?? bootleg
 md_pitfight1,Pit-Fighter (World),1991 Tengen
@@ -3199,18 +3220,18 @@ pdriftj,Power Drift (Japan),1988 Sega
 pdrifta,Power Drift (World),1988 Sega
 pdrifte,Power Drift (World  Earlier),1988 Sega
 pdrift,Power Drift (World  Rev A),1988 Sega
-md_powerdrv,Power Drive (Euro),1994 U.S. Gold
+md_pdrive,Power Drive (Euro),1994 U.S. Gold
 pce_power11,Power Eleven,1991 Hudson
 pce_powergat,Power Gate,1991 Pack-In-Video
 tg_pgolf,Power Golf,1989 NEC
-pce_powerglf,Power Golf,1989 Hudson
+pce_pgolf,Power Golf,1989 Hudson
 powerins,Power Instinct (USA),1993 Atlus
 powerinsa,Power Instinct (USA  bootleg set 1),1993 Atlus
 powerinsb,Power Instinct (USA  bootleg set 2),1993 Atlus
 pwrinst2,Power Instinct 2 (USA  ver. 94/04/08),1994 Atlus
 pce_pleague,Power League,1988 Hudson
 pce_pleag93,Power League '93,1993 Hudson
-pce_pleagas,Power League (All Star Version),19?? Unknown
+pce_pleagas,Power League (All Star Version),19?? Hudson
 pce_pleag2,Power League II,1989 Hudson
 pce_pleag3,Power League III,1990 Hudson
 pce_pleag4,Power League IV,1991 Hudson
@@ -3252,12 +3273,12 @@ md_ppersia2,Prince of Persia 2 - The Shadow and the Flame (Euro  Prototype),199?
 md_par,Pro Action Replay (Euro),199? <unknown>
 md_par2,Pro Action Replay 2 (Euro),199? <unknown>
 md_par2a,Pro Action Replay 2 (Euro  Alt),199? <unknown>
-md_proquart,Pro Quarterback (USA),1992 Tradewest
+md_proqb,Pro Quarterback (USA),1992 Tradewest
 md_prostrfs,Pro Striker Final Stage (Jpn),1995 Sega
-pce_ptennwc,Pro Tennis World Court,1988 Namco
+pce_ptennwc,Pro Tennis World Court,1988 Namcot
 md_proyakyu,Pro Yakyuu Super League '91 (Jpn),1991 Sega
-pce_proyak,Pro Yakyuu World Stadium,1988 Namco
-pce_proyak91,Pro Yakyuu World Stadium '91,1991 Namco
+pce_proyak,Pro Yakyuu World Stadium,1988 Namcot
+pce_proyak91,Pro Yakyuu World Stadium '91,1991 Namcot
 md_probot,Probotector (Euro),1994 Konami
 progeara,Progear (010117 Asia),2001 Capcom / Cave
 progear,Progear (010117 USA),2001 Capcom / Cave
@@ -3294,10 +3315,11 @@ pushman,Pushman (Korea  set 1),1990 Comad
 pushmana,Pushman (Korea  set 2),1990 Comad
 md_puttergnk,Putter Golf (Jpn  Game no Kandume MegaCD Rip),1991 Sega
 md_putter,Putter Golf (Jpn  SegaNet),1991 Sega
-md_puyo,Puyo Puyo (Jpn),1992 Sega
-md_puyo2a,Puyo Puyo 2 (Jpn),1994 Compile
-md_puyo2,Puyo Puyo 2 (Jpn  v1.1),1994 Compile
-pzloop2j,Puzz Loop 2 (010205 Japan),2001 Mitchell, distritued by Capcom
+md_puyopuyo,Puyo Puyo (Jpn),1992 Sega
+md_puyopuy2a,Puyo Puyo 2 (Jpn),1994 Compile
+md_puyopuy2,Puyo Puyo 2 (Jpn  v1.1),1994 Compile
+pzloop2jr1,Puzz Loop 2 (010205 Japan),2001 Mitchell, distritued by Capcom
+pzloop2j,Puzz Loop 2 (010226 Japan),2001 Mitchell, distritued by Capcom
 pzloop2,Puzz Loop 2 (010302 Euro),2001 Mitchell, distritued by Capcom
 md_ichir,Puzzle & Action - Ichidant-R (Jpn),1995 Sega
 md_tantr,Puzzle & Action - Tant-R (Jpn),1994 Sega
@@ -3305,7 +3327,7 @@ pbobble,Puzzle Bobble (Japan  B-System),1994 Taito Corporation
 pbobblenb,Puzzle Bobble / Bust-A-Move (Neo-Geo) (bootleg),1994 Taito
 pbobblen,Puzzle Bobble / Bust-A-Move (Neo-Geo) (NGM-083),1994 Taito
 pbobbl2n,Puzzle Bobble 2 / Bust-A-Move Again (Neo-Geo),1999 Taito (SNK license)
-pce_puzzleb,Puzzle Boy,1991 Nippon Telenet
+pce_puzzlboy,Puzzle Boy,1991 Nippon Telenet
 pzlbreak,Puzzle Break,1997 SemiCom
 pclubys,Puzzle Club (Yun Sung  set 1),2000 Yun Sung
 pclubysa,Puzzle Club (Yun Sung  set 2),2000 Yun Sung
@@ -3356,7 +3378,7 @@ qzshowby,Quiz Sekai wa SHOW by shobai (Japan),1993 Taito Corporation
 qtono1,Quiz Tonosama no Yabou (Japan),1991 Capcom
 qtono2j,Quiz Tonosama no Yabou 2 Zenkoku-ban (tonosama 2 950123 Japan),1995 Capcom
 qtorimon,Quiz Torimonochou (Japan),1990 Taito Corporation
-pce_quizts,Quiz Toukou Shashin,19?? Unknown
+pce_quizts,Quiz Toukou Shashin,19?? Game Express
 tg_rtype,R-Type,1989 NEC
 rtypejp,R-Type (Japan prototype),1987 Irem
 rtypej,R-Type (Japan),1987 Irem
@@ -3370,17 +3392,17 @@ rtypeleoj,R-Type Leo (Japan),1992 Irem
 rtypeleo,R-Type Leo (World),1992 Irem
 pce_rtypep1,R-Type Part-1,1988 Hudson
 pce_rtypep2,R-Type Part-2,1988 Hudson
-md_rbi93,R.B.I. Baseball '93 (USA),1993 Tengen
-md_rbi94,R.B.I. Baseball '94 (Euro  USA),1994 Tengen
-md_rbi3,R.B.I. Baseball 3 (USA),1991 Tengen
-md_rbi4j,R.B.I. Baseball 4 (Jpn),1992 Tengen
-md_rbi4p,R.B.I. Baseball 4 (Prototype),1992 Tengen
-md_rbi4,R.B.I. Baseball 4 (USA),1992 Tengen
+md_rbibb93,R.B.I. Baseball '93 (USA),1993 Tengen
+md_rbibb94,R.B.I. Baseball '94 (Euro  USA),1994 Tengen
+md_rbibb3,R.B.I. Baseball 3 (USA),1991 Tengen
+md_rbibb4j,R.B.I. Baseball 4 (Jpn),1992 Tengen
+md_rbibb4p,R.B.I. Baseball 4 (Prototype),1992 Tengen
+md_rbibb4,R.B.I. Baseball 4 (USA),1992 Tengen
 rpunch,Rabbit Punch (US),1987 V-System Co. (Bally/Midway/Sente license)
 rabiolep,Rabio Lepus (Japan),1987 V-System Co.
 pce_rabiolep,Rabio Lepus Special,1990 Video System
 md_racedriv,Race Drivin' (USA),1993 Tengen
-pce_racingd,Racing Damashii,1991 Irem
+pce_racindam,Racing Damashii,1991 Irem
 rachero,Racing Hero (FD1094 317-0144),1989 Sega
 racknrol,Rack + Roll,1986 Status (Shinkai License)
 md_radicasf,Radica: Street Fighter Pack (Euro),2004 Radica Games ~ Capcom
@@ -3391,8 +3413,8 @@ raflesia,Rafflesia (315-5162),1986 Coreland / Sega
 rotd,Rage of the Dragons (NGM-264?),2002 Evoga / Playmore
 md_ragnacenk,Ragnacenty (Kor),1994 Sega
 ragnagrd,Ragnagard / Shin-Oh-Ken,1996 Saurus
-raiden,Raiden,1990 Seibu Kaihatsu
 pce_raiden,Raiden,1991 Hudson
+raiden,Raiden,1990 Seibu Kaihatsu
 tg_raiden,Raiden,1990 NEC
 raidena,Raiden (Alternate Hardware),1990 Seibu Kaihatsu
 raidenk,Raiden (Korea),1990 Seibu Kaihatsu (IBL Corporation license)
@@ -3405,7 +3427,7 @@ rchase,Rail Chase (World),1991 Sega
 rbislande,Rainbow Islands (Extra),1988 Taito Corporation
 rbisland,Rainbow Islands (new version),1987 Taito Corporation
 rbislando,Rainbow Islands (old version),1987 Taito Corporation
-md_rainbow,Rainbow Islands Extra (Jpn),1990 Taito
+md_rbisland,Rainbow Islands Extra (Jpn),1990 Taito
 rallybik,Rally Bike / Dash Yarou,1988 [Toaplan] Taito Corporation
 rallyxa,Rally X,1980 Namco
 rallyx,Rally X (32k Ver.?)),1980 Namco
@@ -3428,8 +3450,8 @@ rastsaga1,Rastan Saga (Japan Rev 1),1987 Taito Corporation
 rastsaga,Rastan Saga (Japan),1987 Taito Corporation
 rastsag2,Rastan Saga 2 (Japan),1988 Taito Corporation
 pce_rastan2,Rastan Saga II,1990 Taito
-md_rastans2j,Rastan Saga II (Jpn),1990 Taito
-md_rastans2,Rastan Saga II (USA),1990 Taito
+md_rastan2j,Rastan Saga II (Jpn),1990 Taito
+md_rastan2,Rastan Saga II (USA),1990 Taito
 photoy2k102,Real and Fake,1999 IGS
 rbff1a,Real Bout Fatal Fury / Real Bout Garou Densetsu (bug fix revision),1995 SNK
 rbff1,Real Bout Fatal Fury / Real Bout Garou Densetsu (NGM-095)(NGH-095),1995 SNK
@@ -3438,7 +3460,7 @@ rbff2h,Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the
 rbff2,Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (NGM-2400),1998 SNK
 rbffspec,Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special,1996 SNK
 rbffspeck,Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special (Korean release),1996 SNK
-redeartha,Red Earth / War-Zard (Euro 961023),1996 Capcom
+redearthr1,Red Earth / War-Zard (Euro 961023),1996 Capcom
 redearth,Red Earth / War-Zard (Euro 961121),1996 Capcom
 redhawke,Red Hawk (Excellent Co.  Ltd),1997 Afega (Excellent Co. license)
 redhawki,Red Hawk (Italy),1997 Afega (Hea Dong Corp license)
@@ -3477,7 +3499,7 @@ ringdest,Ring of Destruction - slammasters II (940902 Euro),1994 Capcom
 md_ringspow,Rings of Power (Euro  USA),1991 Electronic Arts
 riot,Riot,1992 NMK
 riotcity,Riot City (Japan),1991 Sega / Westone
-md_riserbot,Rise of the Robots (Euro),1994 Acclaim Entertainment
+md_riserobo,Rise of the Robots (Euro),1994 Acclaim Entertainment
 md_risk,Risk (USA),1994 Parker Brothers
 riskchal,Risky Challenge,1993 Irem
 md_riskyw,Risky Woods (Euro  USA),1992 Electronic Arts
@@ -3494,8 +3516,8 @@ md_roadrash,Road Rash (Euro  USA),1991 Electronic Arts
 md_rrash2a,Road Rash II (Euro  USA),1992 Electronic Arts
 md_rrash2,Road Rash II (Euro  USA  v1.2),1992 Electronic Arts
 md_rrash2j,Road Rash II (Jpn),1993 Electronic Arts Victor
-md_roadbj,RoadBlasters (Jpn),1992 Tengen
-md_roadb,RoadBlasters (USA),1991 Tengen
+md_roadblstj,RoadBlasters (Jpn),1992 Tengen
+md_roadblst,RoadBlasters (USA),1991 Tengen
 roboarmy,Robo Army,1991 SNK
 robocopi,Robocop (Intro demo),2009 Demo
 robocopj,Robocop (Japan),1988 Data East Corporation
@@ -3517,8 +3539,8 @@ md_robotb,Robot Battler (Jpn  SegaNet),1991 Sega
 md_robotw,Robot Wreckage (USA  Prototype),199? <unknown>
 rockclim,Rock Climber,1981 Taito
 rockduck,Rock Duck (prototype?),1983 Datel SAS
-md_rocknr,Rock n' Roll Racing (Euro),1994 Interplay
-md_rocknru,Rock n' Roll Racing (USA),1994 Interplay
+md_rnrracin,Rock n' Roll Racing (Euro),1994 Interplay
+md_rnrracinu,Rock n' Roll Racing (USA),1994 Interplay
 pce_rockon,Rock-on,1989 Big Club
 md_rocket,Rocket Knight Adventures (Euro),1993 Konami
 md_rocketj,Rocket Knight Adventures (Jpn),1993 Konami
@@ -3529,7 +3551,7 @@ md_rockman,Rockman Mega World (Jpn),1994 Capcom
 md_rockman1,Rockman Mega World (Jpn  Alt),1994 Capcom
 md_rockmnx3,Rockman X3,199? <unlicensed>
 rmancp2j,Rockman: The Power Battle (950922 Japan),1999 Capcom
-md_rogerc,Roger Clements MVP Baseball (USA),1992 Flying Edge
+md_mvpbb,Roger Clements MVP Baseball (USA),1992 Flying Edge
 rohga1,Rohga Armor Force (Asia/Europe v3.0 Set 1),1991 Data East Corporation
 rohga2,Rohga Armor Force (Asia/Europe v3.0 Set 2),1991 Data East Corporation
 rohga,Rohga Armor Force (Asia/Europe v5.0),1991 Data East Corporation
@@ -3542,9 +3564,9 @@ md_rthun2j,Rolling Thunder 2 (Jpn),1991 Namcot
 md_rthun2u,Rolling Thunder 2 (USA),1991 Namco
 md_rthun3,Rolling Thunder 3 (USA),1993 Namco
 md_rolo,Rolo to the Rescue (Euro  USA),1992 Electronic Arts
-md_r3k2,Romance of the Three Kingdoms II (USA),1991 Koei
-md_r3k3,Romance of the Three Kingdoms III - Dragon of Destiny (USA),1993 Koei
-md_ronald,Ronaldinho 98 (Pirate),199? <unlicensed>
+md_roman3k2,Romance of the Three Kingdoms II (USA),1991 Koei
+md_roman3k3,Romance of the Three Kingdoms III - Dragon of Destiny (USA),1993 Koei
+md_dinho98,Ronaldinho 98 (Pirate),199? <unlicensed>
 route16,Route 16,1981 Tehkan/Sun (Centuri license)
 route16b,Route 16 (bootleg),1981 bootleg
 route16a,Route 16 (set 2),1981 Tehkan/Sun (Centuri license)
@@ -3559,9 +3581,9 @@ rygar,Rygar (US set 1),1986 Tecmo
 rygar2,Rygar (US set 2),1986 Tecmo
 rygar3,Rygar (US set 3  old version),1986 Tecmo
 ryujin,Ryu Jin (Japan),1993 Taito Corporation
-pce_ryukyu,Ryukyu,1990 Face
 ryukyu,RyuKyu (Japan  FD1094 317-5023),1990 Success / Sega
-md_ryuuko,Ryuuko no Ken (Jpn),1994 Sega
+md_ryukoken,Ryuuko no Ken (Jpn),1994 Sega
+pce_ryukyu,Ryuukyuu,1990 Face
 spyu,S.P.Y. - Special Project Y (US ver. M),1989 Konami
 spy,S.P.Y. - Special Project Y (World ver. N),1989 Konami
 srdmissn,S.R.D. Mission,1986 Taito Corporation
@@ -3572,7 +3594,7 @@ sabotenba,Saboten Bombers (set 2),1992 NMK / Tecmo
 pce_sadaki7,Sadakichi 7 Series - Hideyoshi no Ougon,1988 Hudson
 md_sagaia,Sagaia (USA),1991 Taito
 nspiritj,Saigo no Nindou (Japan),1988 Irem
-pce_nspirit,Saigo no Nindou - Ninja Spirit,1990 Irem
+pce_saigonin,Saigo no Nindou - Ninja Spirit,1990 Irem
 md_sswordj,Saint Sword (Jpn),1991 Taito
 md_ssword,Saint Sword (USA),1991 Taito
 pce_salamand,Salamander,1991 Konami
@@ -3602,11 +3624,11 @@ md_sanguo5,San Guo Zhi V (Chi),199? <unlicensed>
 md_sansan,San San (Jpn),1994 San San Co.
 wofa,Sangokushi II (921005 Asia),1992 Capcom
 wofah,Sangokushi II (921005 Asia  bootleg set 2),1992 bootleg
-md_sangok2,Sangokushi II (Jpn),1991 Koei
+md_sangoku2,Sangokushi II (Jpn),1991 Koei
 wofhfh,Sangokushi II: Huo Fenghuang (Chinese bootleg),1992 bootleg
 wof3js,Sangokushi II: San Jian Sheng (Chinese bootleg),1992 bootleg
-md_sangok3,Sangokushi III (Jpn),1992 Koei
-md_sangokr,Sangokushi Retsuden - Ransei no Eiyuutachi (Jpn),1991 Sega
+md_sangoku3,Sangokushi III (Jpn),1992 Koei
+md_sangoret,Sangokushi Retsuden - Ransei no Eiyuutachi (Jpn),1991 Sega
 ssanchan,Sanrin San Chan (Japan),1984 Sega
 searcharj,SAR - Search And Rescue (Japan),1989 SNK
 searcharu,SAR - Search And Rescue (US),1989 SNK
@@ -3627,7 +3649,7 @@ md_msbp03,Scholastic's The Magic School Bus (Prototype  19950425),1995 Sega
 md_msbp02,Scholastic's The Magic School Bus (Prototype  19950428),1995 Sega
 md_msbp01,Scholastic's The Magic School Bus (Prototype  19950505),1995 Sega
 md_msb,Scholastic's The Magic School Bus (USA),1995 Sega
-md_scooby,Scooby Doo Mystery (USA),1995 Acclaim Entertainment
+md_scooby,Scooby-Doo Mystery (USA),1995 Acclaim Entertainment
 scotrsht,Scooter Shooter,1985 Konami
 scorpionmc,Scorpion (Moon Cresta hardware),19?? Dorneer
 scorpion,Scorpion (set 1),1982 Zaccaria
@@ -3652,7 +3674,7 @@ md_seaquest,SeaQuest DSV (Euro),1994 THQ
 md_seaquestu,SeaQuest DSV (USA),1994 Black Pearl
 searchey,Search Eye,1999 Yun Sung
 searchp2,Search Eye Plus V2.0,1999 Yun Sung
-md_second,Second Samurai (Euro),1994 Psygnosis
+md_seconds,Second Samurai (Euro),1994 Psygnosis
 secretag,Secret Agent (World),1989 Data East Corporation
 sectionz,Section Z (set 1),1985 Capcom
 sectionza,Section Z (set 2),1985 Capcom
@@ -3688,7 +3710,7 @@ md_shadow,Shadow Blasters (USA),1990 Sage's Creation
 shdancer1,Shadow Dancer (set 1),1989 Sega
 shdancerj,Shadow Dancer (set 2  Japan),1989 Sega
 shdancer,Shadow Dancer (set 3  US),1989 Sega
-md_shdanc,Shadow Dancer - The Secret of Shinobi (World),1990 Sega
+md_shdancer,Shadow Dancer - The Secret of Shinobi (World),1990 Sega
 shadfrcejv2,Shadow Force (Japan Version 2),1993 Technos Japan
 shadfrcej,Shadow Force (Japan Version 3),1993 Technos Japan
 shadfrce,Shadow Force (US Version 2),1993 Technos Japan
@@ -3706,9 +3728,9 @@ md_shadowrnp2,Shadowrun (Prototype  19940125-C),1994 Sega
 md_shadowrn,Shadowrun (USA),1994 Sega
 md_shanewar,Shane Warne Cricket (Aus),1997 Codemasters
 pce_shanghai,Shanghai,1987 Hudson
-md_shangha2,Shanghai II - Dragon's Eye (USA),1994 Activision
-md_shangha2p,Shanghai II - Dragon's Eye (USA  Prototype),1994 Activision
-md_shangha2p1,Shanghai II - Dragon's Eye (USA  Prototype  Alt),1994 Activision
+md_shangh2,Shanghai II - Dragon's Eye (USA),1994 Activision
+md_shangh2p,Shanghai II - Dragon's Eye (USA  Prototype),1994 Activision
+md_shangh2p1,Shanghai II - Dragon's Eye (USA  Prototype  Alt),1994 Activision
 md_shaqfu,Shaq Fu (Euro  USA),1994 Electronic Arts
 md_shijie,Shi Jie Zhi Bang Zheng Ba Zhan - World Pro Baseball 94 (Chi),1994 C&E
 md_labdeathgnk,Shi no Meikyuu - Labyrinth of Death (Jpn  Game no Kandume MegaCD Rip),1991 Sega
@@ -3716,7 +3738,7 @@ md_labdeath,Shi no Meikyuu - Labyrinth of Death (Jpn  SegaNet),1991 Sega
 md_lionkin3,Shi Zi Wang 3 - The Lion King 3,199? <unlicensed>
 md_lionkin2,Shi Zi Wang II - The Lion King II,199? <unlicensed>
 md_lionkin2a,Shi Zi Wang II - The Lion King II (Pirate),199? <unlicensed>
-md_soukoban,Shijou Saidai no Soukoban (Jpn),1990 NCS
+md_sokoban,Shijou Saidai no Soukoban (Jpn),1990 NCS
 md_shikinjo,Shikinjoh (Jpn),1991 Sunsoft
 md_ragnacen,Shin Souseiki Ragnacenty (Jpn),1994 Sega
 md_ragnacenp,Shin Souseiki Ragnacenty (Jpn  Prototype),1994 Sega
@@ -3744,7 +3766,7 @@ shinfz,Shinobi / FZ-2006 (Korean System 16 bootleg) (ISG Selection Master Type 2
 md_shinobi3,Shinobi III - Return of the Ninja Master (Euro),1993 Sega
 md_shinobi3u,Shinobi III - Return of the Ninja Master (USA),1993 Sega
 md_ship,Ship (Prototype),199? Technopop
-shippumd,Shippu Mahou Daisakusen - kingdom grandprix (Japan),1994 Raizing / 8ing
+shippumd,Shippu Mahou Daisakusen - kingdom grandprix,1994 Raizing / 8ing
 pce_shiryo,Shiryou Sensen,1989 Victor Interactive Software
 shisen2,Shisensho II,1993 Tamtex
 md_shiten,Shiten Myouou (Jpn),1990 Sigma
@@ -3765,20 +3787,22 @@ md_shrek2,Shrek 2 (Rus),199? <unknown>
 md_shuihu,Shui Hu - Feng Yun Zhuan (Chi),1999 Never Ending Soft Team
 md_shuihuzh,Shui Hu Zhuan (Chi),1996 Chuanpu Technologies
 md_shuramon,Shura no Mon (Jpn),1992 Sega
-sidepcktb,Side Pocket (bootleg),1986 bootleg
+sidepcktb,Side Pocket (bootleg set 1),1986 bootleg
+sidepcktb2,Side Pocket (bootleg set 2),1986 bootleg
 md_sidepock,Side Pocket (Euro),1992 Sega
 sidepcktj,Side Pocket (Japan),1986 Data East Corporation
 md_sidepockj,Side Pocket (Jpn),1992 Data East
 md_sidepocku,Side Pocket (USA),1992 Data East
 sidepckt,Side Pocket (World),1986 Data East Corporation
-pce_sidearms,Sidearms - Hyper Dyne,1989 NEC
 tg_sidearms,Sidearms - Hyper Dyne,1989 Radiance Software
-pce_silentd,Silent Debuggers,1991 Data East
+pce_sidearms,Sidearms - Hyper Dyne,1989 NEC
 tg_silentd,Silent Debuggers,1991 Hudson Soft
+pce_silentd,Silent Debuggers,1991 Data East
 silentdj,Silent Dragon (Japan),1992 Taito Corporation
 silentdu,Silent Dragon (US),1992 Taito America Corporation
 silentd,Silent Dragon (World),1992 Taito Corporation Japan
 silkworm,Silk Worm,1988 Tecmo
+silkwormb,Silk Worm (bootleg),1988 Tecmo
 silkwormj,Silk Worm (Japan),1988 Tecmo
 pce_sindibad,Sindibad Chitei no Dai Makyuu,1990 IGS
 tg_sinistrn,Sinistron,1991 NEC
@@ -3837,8 +3861,8 @@ pce_sokoban,Sokoban World,1990 Media Rings
 sokonuke,Sokonuke Taisen Game (Japan),1995 Sammy Industries
 soldivid,Sol Divide - The Sword Of Darkness,1997 Psikyo
 md_soldeace,Sol-Deace (USA),1992 Renovation
-pce_soldblad,Soldier Blade,1992 Hudson
 tg_soldblad,Soldier Blade,1992 TTI
+pce_soldblad,Soldier Blade,1992 Hudson
 pce_soldblas,Soldier Blade Special - Caravan Stage,19?? Hudson
 amazon,Soldier Girl Amazon,1986 Nichibutsu
 md_soldfort,Soldiers of Fortune (USA),1993 Spectrum Holobyte
@@ -3872,15 +3896,15 @@ md_sks2,Sonic & Knuckles + Sonic the Hedgehog 2 (World),199? <unknown>
 md_sks3,Sonic & Knuckles + Sonic the Hedgehog 3 (World),199? <unknown>
 md_sonic3c,Sonic 3C (Prototype 0408  19940408  17.29),199? <unknown>
 md_sonic3ca,Sonic 3C (Prototype 0517  19940517  17.08),199? <unknown>
-md_s3d,Sonic 3D - Flickies' Island (Euro) ~ Sonic 3D Blast (USA  Kor),1996 Sega
-md_s3dp8,Sonic 3D Blast (Prototype 73  19960703  13.58),1996 Sega
-md_s3dp7,Sonic 3D Blast (Prototype 814  19960815  07.55),1996 Sega
-md_s3dp6,Sonic 3D Blast (Prototype 819  19960819  19.49),1996 Sega
-md_s3dp5,Sonic 3D Blast (Prototype 825  19960826  15.46),1996 Sega
-md_s3dp4,Sonic 3D Blast (Prototype 830  19960831  08.19),1996 Sega
-md_s3dp3,Sonic 3D Blast (Prototype 831  19960903  10.07),1996 Sega
-md_s3dp2,Sonic 3D Blast (Prototype 94  19960904  12.01),1996 Sega
-md_s3dp1,Sonic 3D Blast (USA  Prototype),1996 Sega
+md_sonic3d,Sonic 3D - Flickies' Island (Euro) ~ Sonic 3D Blast (USA  Kor),1996 Sega
+md_sonic3dp8,Sonic 3D Blast (Prototype 73  19960703  13.58),1996 Sega
+md_sonic3dp7,Sonic 3D Blast (Prototype 814  19960815  07.55),1996 Sega
+md_sonic3dp6,Sonic 3D Blast (Prototype 819  19960819  19.49),1996 Sega
+md_sonic3dp5,Sonic 3D Blast (Prototype 825  19960826  15.46),1996 Sega
+md_sonic3dp4,Sonic 3D Blast (Prototype 830  19960831  08.19),1996 Sega
+md_sonic3dp3,Sonic 3D Blast (Prototype 831  19960903  10.07),1996 Sega
+md_sonic3dp2,Sonic 3D Blast (Prototype 94  19960904  12.01),1996 Sega
+md_sonic3dp1,Sonic 3D Blast (USA  Prototype),1996 Sega
 sbm,Sonic Blast Man (Japan),1990 Taito Corporation
 sonicbom,Sonic Boom (FD1094 317-0053),1987 Sega
 md_soniccmp,Sonic Compilation (Euro) ~ Sonic Classics (USA  Kor),1995 Sega
@@ -3921,11 +3945,12 @@ sstriker,Sorcer Striker (World),1993 Raizing
 sstrikera,Sorcer Striker (World  alt),1993 Raizing
 md_sorcerk1,Sorcerer's Kingdom (USA),1992 Treco
 md_sorcerk,Sorcerer's Kingdom (USA  v1.1),1992 Treco
-md_sorcern,Sorcerian (Jpn),1990 Sega
+md_sorcer,Sorcerian (Jpn),1990 Sega
 sotsugyo,Sotsugyo Shousho,1995 Mitchell (Atlus license)
 md_soulblad,Soul Blade,199? <unlicensed>
 md_soulblada,Soul Blade (Alt),199? <unlicensed>
-md_souledge,Soul Edge vs Samurai Spirits (Pirate  Cracked),199? <unlicensed>
+md_souledge,Soul Edge vs Samurai Spirits (Pirate),199? <unlicensed>
+md_souledgea,Soul Edge vs Samurai Spirits (Pirate  Cracked),199? <unlicensed>
 md_sndtool,Sound Tool v2.2?,1991 <unknown>
 spacbatt,Space Battle (bootleg set 1),1980 bootleg
 spacbat2,Space Battle (bootleg set 2),1980 bootleg
@@ -3936,15 +3961,15 @@ spcdrag,Space Dragon (Moon Cresta bootleg  set 1),1980 bootleg
 spcdraga,Space Dragon (Moon Cresta bootleg  set 2),1980 bootleg
 spacecho,Space Echo (bootleg),1980 bootleg
 spacempr,Space Empire (bootleg),1980 bootleg
-md_spacefb,Space Funky B.O.B. (Jpn),1993 Electronic Arts Victor
+md_spacebob,Space Funky B.O.B. (Jpn),1993 Electronic Arts Victor
 spacegun,Space Gun (World),1990 Taito Corporation Japan
-tg_sharrier,Space Harrier,1989 NEC
 pce_sharrier,Space Harrier,1988 NEC
+tg_sharrier,Space Harrier,1989 NEC
 sharrier1,Space Harrier (8751 315-5163),1985 Sega
 sharrier,Space Harrier (Rev A  8751 315-5163A),1985 Sega
-md_sharrj,Space Harrier II (Jpn  Launch Cart),1988 Sega
-md_sharr,Space Harrier II (World),1989 Sega
-pce_sinv,Space Invaders - Fukkatsu no Hi,1990 Taito
+md_sharrierj,Space Harrier II (Jpn  Launch Cart),1988 Sega
+md_sharrier,Space Harrier II (World),1989 Sega
+pce_spaceinv,Space Invaders - Fukkatsu no Hi,1990 Taito
 md_sinv90,Space Invaders 90 (Jpn),1990 Taito
 md_sinv91,Space Invaders 91 (USA),1991 Taito
 spacedxo,Space Invaders DX (Japan  v2.0),1994 Taito Corporation
@@ -3956,9 +3981,9 @@ sinvasn,Space Invasion (Europe),1985 Capcom
 spcpostn,Space Position (Japan),1986 Sega / Nasco
 sraider,Space Raider,1982 Universal
 spctbird,Space Thunderbird,1981? Fortrek
-md_sparks,Sparkster (Euro),1994 Konami
-md_sparksu,Sparkster (USA),1994 Konami
-md_sparksj,Sparkster - Rocket Knight Adventures 2 (Jpn),1994 Konami
+md_sparkstr,Sparkster (Euro),1994 Konami
+md_sparkstru,Sparkster (USA),1994 Konami
+md_sparkstrj,Sparkster - Rocket Knight Adventures 2 (Jpn),1994 Konami
 spartanx,Spartan X (Japan),1984 Irem
 spatter,Spatter,1984 Sega
 speakres,Speak & Rescue,1980 Sun Electronics
@@ -3982,22 +4007,22 @@ md_spidermn,Spider-Man (Euro  USA),1995 Acclaim Entertainment
 md_spidermnp1,Spider-Man (USA  Prototype),1995 Acclaim Entertainment
 md_spidermnp2,Spider-Man (USA  Prototype  Earlier),1995 Acclaim Entertainment
 md_spidxmen,Spider-Man and X-Men - Arcade's Revenge (Euro  USA),1994 Flying Edge
-md_spidvskp,Spider-Man vs. the Kingpin (World),1991 Sega
+md_spidking,Spider-Man vs. the Kingpin (World),1991 Sega
 spinmast,Spin Master / Miracle Adventure,1993 Data East Corporation
 pce_spinpair,Spin Pair,1990 Media Rings
 spinlbrkj,Spinal Breakers (Japan),1990 V-System Co.
 spinlbrku,Spinal Breakers (US),1990 V-System Co.
 spinlbrk,Spinal Breakers (World),1990 V-System Co.
 pce_spirwave,Spiral Wave,1991 Media Rings
-md_spirit,Spiritual Warfare (USA),1994 Wisdom Tree
+md_spiritwf,Spiritual Warfare (USA),1994 Wisdom Tree
 md_spirou,Spirou (Euro),1996 Infogrames
-pce_splatth,Splatterhouse,1990 Namco
 tg_splatth,Splatterhouse,1990 NEC
-md_splatt2,Splatterhouse 2 (Euro),1992 Sega
-md_splatt2u,Splatterhouse 2 (USA),1992 Namco
-md_splatt3,Splatterhouse 3 (USA),1993 Namco
-md_splatt2j,Splatterhouse Part 2 (Jpn),1992 Namcot
-md_splatt3j,Splatterhouse Part 3 (Jpn  Kor),1993 Namcot
+pce_splatth,Splatterhouse,1990 Namcot
+md_splatth2,Splatterhouse 2 (Euro),1992 Sega
+md_splatth2u,Splatterhouse 2 (USA),1992 Namco
+md_splatth3,Splatterhouse 3 (USA),1993 Namco
+md_splatth2j,Splatterhouse Part 2 (Jpn),1992 Namcot
+md_splatth3j,Splatterhouse Part 3 (Jpn  Kor),1993 Namcot
 md_sportg,Sport Games (Bra),199? <unknown>
 md_sporttbb,Sports Talk Baseball (USA),1992 Sega
 md_spotgo,Spot Goes to Hollywood (Euro),1996 Virgin Interactive
@@ -4034,7 +4059,7 @@ md_steeltal,Steel Talons (Euro  USA),1992 Tengen
 md_steeltalj,Steel Talons (Jpn  Kor),1993 Tengen
 md_steeltalp,Steel Talons (USA  Prototype),1992 Tengen
 stera,Steraranger (Moon Cresta bootleg),1980 bootleg
-md_stonepro,Stone Protectors (USA  Prototype),1994 Vic Tokai
+md_stonprot,Stone Protectors (USA  Prototype),1994 Vic Tokai
 stoneage,Stoneage (bootleg of Caveman Ninja),1991 bootleg
 md_strmlordj,Stormlord (Jpn),1990 Micro World
 md_strmlord,Stormlord (USA),1990 RazorSoft
@@ -4080,7 +4105,8 @@ sf2uc,Street Fighter II - the world warrior (910306 USA),1991 Capcom
 sf2ud,Street Fighter II - the world warrior (910318 USA),1991 Capcom
 sf2uf,Street Fighter II - the world warrior (910411 USA),1991 Capcom
 sf2,Street Fighter II - the world warrior (910522 etc),1991 Capcom
-sf2ui,Street Fighter II - the world warrior (910522 USA),1991 Capcom
+sf2ug,Street Fighter II - the world warrior (910522 USA  rev G),1991 Capcom
+sf2ui,Street Fighter II - the world warrior (910522 USA  rev I),1991 Capcom
 sf2uk,Street Fighter II - the world warrior (911101 USA),1991 Capcom
 sf2j,Street Fighter II - the world warrior (911210 Japan),1991 Capcom
 sf2qp1,Street Fighter II - the world warrior (bootleg  Quicken Pt-I),1991 bootleg
@@ -4113,9 +4139,11 @@ sf2yyc,Street Fighter II' - champion edition (bootleg  YYC),1992 Capcom
 sf2koryu,Street Fighter II' - champion edition (Chinese bootleg  Xiang Long),1992 Capcom
 sf2ceea,Street Fighter II' - champion edition (street fighter 2' 920313 etc),1992 Capcom
 sf2ceua,Street Fighter II' - champion edition (street fighter 2' 920313 USA),1992 Capcom
+sf2ceja,Street Fighter II' - champion edition (street fighter 2' 920322 Japan),1992 Capcom
 sf2ce,Street Fighter II' - champion edition (street fighter 2' 920513 etc),1992 Capcom
-sf2cej,Street Fighter II' - champion edition (street fighter 2' 920513 Japan),1992 Capcom
+sf2cejb,Street Fighter II' - champion edition (street fighter 2' 920513 Japan),1992 Capcom
 sf2ceub,Street Fighter II' - champion edition (street fighter 2' 920513 USA),1992 Capcom
+sf2cejc,Street Fighter II' - champion edition (street fighter 2' 920803 Japan),1992 Capcom
 sf2ceuc,Street Fighter II' - champion edition (street fighter 2' 920803 USA),1992 Capcom
 sf2hf,Street Fighter II' - hyper fighting (street fighter 2' T 921209 ETC),1992 Capcom
 sf2hfu,Street Fighter II' - hyper fighting (street fighter 2' T 921209 USA),1992 Capcom
@@ -4127,11 +4155,11 @@ sf2hfj,Street Fighter II' Turbo - hyper fighting (street fighter 2' T 921209 Jap
 sfiii2n,Street Fighter III 2nd Impact: Giant Attack (Asia 970930  NO CD),1997 Capcom
 sfiii2j,Street Fighter III 2nd Impact: Giant Attack (Japan 970930),1997 Capcom
 sfiii2,Street Fighter III 2nd Impact: Giant Attack (USA 970930),1997 Capcom
-sfiii3a,Street Fighter III 3rd Strike: Fight for the Future (Euro 990512),1999 Capcom
+sfiii3r1,Street Fighter III 3rd Strike: Fight for the Future (Euro 990512),1999 Capcom
 sfiii3,Street Fighter III 3rd Strike: Fight for the Future (Euro 990608),1999 Capcom
-sfiii3an,Street Fighter III 3rd Strike: Fight for the Future (Japan 990512  NO CD),1999 Capcom
+sfiii3nr1,Street Fighter III 3rd Strike: Fight for the Future (Japan 990512  NO CD),1999 Capcom
 sfiii3n,Street Fighter III 3rd Strike: Fight for the Future (Japan 990608  NO CD),1999 Capcom
-sfiii3au,Street Fighter III 3rd Strike: Fight for the Future (USA 990512),1999 Capcom
+sfiii3ur1,Street Fighter III 3rd Strike: Fight for the Future (USA 990512),1999 Capcom
 sfiii3u,Street Fighter III 3rd Strike: Fight for the Future (USA 990608),1999 Capcom
 sfiiin,Street Fighter III: New Generation (Asia 970204  NO CD),1997 Capcom
 sfiiih,Street Fighter III: New Generation (Hispanic 970204),1997 Capcom
@@ -4219,7 +4247,7 @@ s1945k,Strikers 1945 (Korea),1995 Psikyo
 s1945ii,Strikers 1945 II,1997 Psikyo
 s1945iii,Strikers 1945 III (World) / Strikers 1999 (Japan),1999 Psikyo
 s1945p,Strikers 1945 Plus,1999 Psikyo
-pce_stripf2,Strip Fighter II,19?? Unknown
+pce_stripf2,Strip Fighter II,19?? Game Express
 strongx,Strong X,1982 bootleg
 md_subterr,SubTerrania (Euro),1994 Sega
 md_subterrj,SubTerrania (Jpn),1994? Sega
@@ -4248,16 +4276,17 @@ md_s15in1,Super 15 in 1 (Pirate),199? <unknown>
 md_s19in1,Super 19 in 1 (Pirate),199? <unknown>
 md_superair,Super Airwolf (Jpn),1991 Kyugo Boueki
 superbar,Super Bar,1994 Promat
-md_sb2020,Super Baseball 2020 (Euro  USA),1994 Electronic Arts
+md_2020bb,Super Baseball 2020 (Euro  USA),1994 Electronic Arts
 md_sbship,Super Battleship (USA),1993 Mindscape
 sboblboa,Super Bobble Bobble (set 1),1986 bootleg
 sboblbob,Super Bobble Bobble (set 2),1986 bootleg
-md_supbub,Super Bubble Bobble (Chi),199? <unlicensed>
+md_suprbubl,Super Bubble Bobble (Chi),199? <unlicensed>
 supbtimej,Super Burger Time (Japan),1990 Data East Corporation
 supbtime,Super Burger Time (World  set 1),1990 Data East Corporation
 supbtimea,Super Burger Time (World  set 2),1990 Data East Corporation
 sbbros,Super Buster Bros. (US 901001),1990 Mitchell + Capcom
 sucasino,Super Casino,1984 Data Amusement
+superchsj,Super Chase - Criminal Termintation (Japan),1992 Taito Corporation
 superchs,Super Chase - Criminal Termintation (US),1992 Taito America Corporation
 scobra,Super Cobra,1981 Konami
 scobrab,Super Cobra (bootleg),1981 bootleg
@@ -4265,7 +4294,7 @@ scobrase,Super Cobra (Sega),1981 Konami (Sega license)
 scobras,Super Cobra (Stern),1981 Konami (Stern license)
 scontra,Super Contra,1988 Konami
 scontraj,Super Contra (Japan),1988 Konami
-md_suprdais,Super Daisenryaku (Jpn),1989 Sega
+md_supdaisn,Super Daisenryaku (Jpn),1989 Sega
 sdodgeb,Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu,1996 Technos
 md_sdkong99,Super Donkey Kong 99 (Protected),199? <unlicensed>
 md_sdkong99a,Super Donkey Kong 99 (Unprotected),199? <unlicensed>
@@ -4286,11 +4315,11 @@ shangon,Super Hang-On (sitdown/upright  unprotected),1987 Sega
 md_shangon1,Super Hang-On (World),1989 Sega
 md_shangon,Super Hang-On (World  Rev. A),1989 Sega
 suprheli,Super Heli (Super Cobra bootleg),1981 bootleg
-md_shi,Super High Impact (USA),1992 Arena
+md_shimpact,Super High Impact (USA),1992 Arena
 md_suphydl,Super Hydlide (Euro),1991 Sega
 md_suphydlj,Super Hydlide (Jpn),1989 Asmik Ace
 md_suphydlu,Super Hydlide (USA),1989 Seismic
-md_suprkick,Super Kick Off (Euro),1992 U.S. Gold
+md_skickoff,Super Kick Off (Euro),1992 U.S. Gold
 md_skkong99,Super King Kong 99,199? <unlicensed>
 md_suprleag,Super League (Euro),1990 Sega
 suprleag,Super League (FD1094 317-0045),1987 Sega
@@ -4306,14 +4335,13 @@ md_smwa,Super Mario World (Pirate),199? <unlicensed>
 marukin,Super Marukin-Ban (Japan 901017),1990 Yuga
 pce_smcrush,Super Metal Crusher,1991 Pack-In-Video
 supmodel,Super Model,1994 Comad / New Japan System
-pce_smomo,Super Momotaro Dentetsu,1989 Hudson
-pce_smomo2,Super Momotaro Dentetsu II,1991 Hudson
+pce_smomo,Super Momotarou Dentetsu,1989 Hudson
+pce_smomo2,Super Momotarou Dentetsu II,1991 Hudson
 md_smgpa,Super Monaco GP (Euro  Jpn),1990 Sega
 md_smgp,Super Monaco GP (Euro  Jpn  Rev. A),1990 Sega
 smgpja,Super Monaco GP (Japan  Rev A  FD1094 317-0124a),1989 Sega
 smgpj,Super Monaco GP (Japan  Rev B  FD1094 317-0124a),1989 Sega
 md_smgpj,Super Monaco GP (Jpn),1990 Sega
-smgpu3,Super Monaco GP (set 3  US  FD1094 317-0125a),1989 Sega
 smgpu2,Super Monaco GP (US  Rev A  FD1094 317-0125a),1989 Sega
 smgpu1,Super Monaco GP (US  Rev B  FD1094 317-0125a),1989 Sega
 smgpu,Super Monaco GP (US  Rev C  FD1094 317-0125a),1989 Sega
@@ -4371,6 +4399,7 @@ ssf2t,Super Street Fighter II Turbo (super street fighter 2 X 940223 etc),1994 C
 ssf2tur1,Super Street Fighter II Turbo (super street fighter 2 X 940223 USA),1994 Capcom
 ssf2tu,Super Street Fighter II Turbo (super street fighter 2 X 940323 USA),1994 Capcom
 ssf2xjd,Super Street Fighter II X - grand master challenge (super street fighter 2 X 940223 Japan Phoenix Edition),1994 bootleg
+ssf2xjr,Super Street Fighter II X - grand master challenge (super street fighter 2 X 940223 Japan rent version),1994 Capcom
 ssf2xj,Super Street Fighter II X - grand master challenge (super street fighter 2 X 940223 Japan),1994 Capcom
 md_stbladj,Super Thunder Blade (Jpn  Launch Cart),1988 Sega
 md_stblad,Super Thunder Blade (World),1989 Sega
@@ -4387,15 +4416,15 @@ svolleyu,Super Volleyball (US),1989 V-System Co. (Data East license)
 ssoldier,Superior Soldiers (US),1993 Irem America
 superman,Superman,1988 Taito Corporation
 supermanj,Superman (Japan),1988 Taito Corporation
-md_supmanu,Superman (USA),1992 Sunsoft
-md_supmanp,Superman (USA  Prototype),1992 Sunsoft
-md_supman,Superman - The Man of Steel (Euro),1993 Virgin Games
+md_supermanu,Superman (USA),1992 Sunsoft
+md_supermanp,Superman (USA  Prototype),1992 Sunsoft
+md_superman,Superman - The Man of Steel (Euro),1993 Virgin Games
 md_surging,Surging Aura (Jpn),1995 Sega
 suratka,Surprise Attack (Asia ver. L),1990 Konami
 suratkj,Surprise Attack (Japan ver. M),1990 Konami
 suratk,Surprise Attack (World ver. K),1990 Konami
 pce_susano,Susanoo Densetsu,1989 Hudson
-md_swamptng,Swamp Thing (USA  Prototype),1991 NuVision
+md_swamp,Swamp Thing (USA  Prototype),1991 NuVision
 swarm,Swarm (bootleg?),1979 Sebelectro
 swat,SWAT (315-5048),1984 Coreland / Sega
 swatpolc,SWAT Police,2001 ESD
@@ -4405,16 +4434,16 @@ md_vermil,Sword of Vermilion (Euro  USA),1990 Sega
 md_sydvalis,Syd of Valis (USA),1992 Renovation
 md_sylvestr,Sylvester & Tweety in Cagey Capers (Euro),1994 Time Warner Interactive
 md_sylvestru,Sylvester and Tweety in Cagey Capers (USA),1993 Time Warner Interactive
-md_syndic,Syndicate (Euro  USA),1994 Electronic Arts
+md_syndicat,Syndicate (Euro  USA),1994 Electronic Arts
 mosyougi,Syougi No Tatsujin - Master of Syougi,1995 ADK / SNK
-md_t2term,T2 - Terminator 2 - Judgment Day (Euro  USA),1991 Flying Edge
+md_term2,T2 - Terminator 2 - Judgment Day (Euro  USA),1991 Flying Edge
 md_t2ag,T2 - The Arcade Game (Euro  USA),1992 Acclaim Entertainment
 md_t2agj,T2 - The Arcade Game (Jpn),1994 Acclaim Japan
 md_t2agp,T2 - The Arcade Game (USA  Prototype),1992 Acclaim Entertainment
 md_t3ag,T3 - The Arcade Game (Rus),199? <unknown>
 md_cars,Tachki (Rus),199? <unknown>
 md_cars2,Tachki 2 (Rus),199? <unknown>
-md_taikou,Taikou Risshiden (Jpn),1993 Koei
+md_taikoris,Taikou Risshiden (Jpn),1993 Koei
 hotgmck,Taisen Hot Gimmick (Japan),1997 Psikyo
 hotgmck3,Taisen Hot Gimmick 3 Digital Surfing (Japan),1999 Psikyo
 hotgm4ev,Taisen Hot Gimmick 4 Ever (Japan),2000 Psikyo
@@ -4423,8 +4452,8 @@ tg_chasehq,Taito Chase H.Q.,1992 TTI
 pce_chasehq,Taito Chase H.Q.,1990 Taito
 md_taiwan,Taiwan Daheng (Chi),1994 C&E
 pce_takameib,Takahashi Meijin no Shin Boukenjima,1992 Hudson
-pce_takeda,Takeda Shingen,1989 Aicom
-pce_takeda1,Takeda Shingen (Alt),1989 Aicom
+pce_shingen,Takeda Shingen,1989 Aicom
+pce_shingen1,Takeda Shingen (Alt),1989 Aicom
 tg_taknhoop,Takin' It to the Hoop,1989 NEC
 tg_talespin,TaleSpin,1991 NEC
 md_talespin,TaleSpin (Euro  USA),1992 Sega
@@ -4440,22 +4469,22 @@ md_taskfhexj,Task Force Harrier EX (Jpn),1991 Treco
 md_taskfhex,Task Force Harrier EX (USA),1991 Treco
 joemac,Tatakae Genshizin Joe & Mac (Japan ver 1),1991 Data East Corporation
 trojanj,Tatakai no Banka (Japan),1986 Capcom
+pce_tatsunok,Tatsu No Ko Fighter,1989 Tonkin House
 pce_tatsujin,Tatsujin,1992 Taito
 pce_tatsujinp,Tatsujin (Prototype),1992 Taito
-pce_tatsunok,Tatsunoko Fighter,1989 Tonkin House
-md_tazem,Taz in Escape from Mars (Euro),1994 Sega
-md_tazemp11,Taz in Escape from Mars (Prototype  19940309),1994 Sega
-md_tazemp10,Taz in Escape from Mars (Prototype  19940418),1994 Sega
-md_tazemp09,Taz in Escape from Mars (Prototype  19940509),1994 Sega
-md_tazemp08,Taz in Escape from Mars (Prototype  19940518),1994 Sega
-md_tazemp07,Taz in Escape from Mars (Prototype  19940523),1994 Sega
-md_tazemp06,Taz in Escape from Mars (Prototype  19940602),1994 Sega
-md_tazemp05,Taz in Escape from Mars (Prototype  19940607),1994 Sega
-md_tazemp04,Taz in Escape from Mars (Prototype  19940610),1994 Sega
-md_tazemp03,Taz in Escape from Mars (Prototype  19940614),1994 Sega
-md_tazemp02,Taz in Escape from Mars (Prototype  19940618-A),1994 Sega
-md_tazemp01,Taz in Escape from Mars (Prototype  19940620),1994 Sega
-md_tazemu,Taz in Escape from Mars (USA),1994 Sega
+md_tazmars,Taz in Escape from Mars (Euro),1994 Sega
+md_tazmarsp11,Taz in Escape from Mars (Prototype  19940309),1994 Sega
+md_tazmarsp10,Taz in Escape from Mars (Prototype  19940418),1994 Sega
+md_tazmarsp09,Taz in Escape from Mars (Prototype  19940509),1994 Sega
+md_tazmarsp08,Taz in Escape from Mars (Prototype  19940518),1994 Sega
+md_tazmarsp07,Taz in Escape from Mars (Prototype  19940523),1994 Sega
+md_tazmarsp06,Taz in Escape from Mars (Prototype  19940602),1994 Sega
+md_tazmarsp05,Taz in Escape from Mars (Prototype  19940607),1994 Sega
+md_tazmarsp04,Taz in Escape from Mars (Prototype  19940610),1994 Sega
+md_tazmarsp03,Taz in Escape from Mars (Prototype  19940614),1994 Sega
+md_tazmarsp02,Taz in Escape from Mars (Prototype  19940618-A),1994 Sega
+md_tazmarsp01,Taz in Escape from Mars (Prototype  19940620),1994 Sega
+md_tazmarsu,Taz in Escape from Mars (USA),1994 Sega
 md_tazmania,Taz-Mania (World),1992 Sega
 tazzmang,Tazz-Mania (Galaxian hardware),1982 bootleg
 tazmania,Tazz-Mania (set 1),1982 Stern
@@ -4466,12 +4495,12 @@ md_tcop,Technocop (USA),1990 Razorsoft
 md_tecmocup,Tecmo Cup (Jpn  Prototype?),199? <unknown>
 tknight,Tecmo Knight,1989 Tecmo
 md_tecmobb,Tecmo Super Baseball (USA),1994 Tecmo
-md_tecmobwlj,Tecmo Super Bowl (Jpn),1993 Tecmo
-md_tecmobwla,Tecmo Super Bowl (USA  199309),1993 Tecmo
-md_tecmobwl,Tecmo Super Bowl (USA  199310),1993 Tecmo
-md_tecmobw2,Tecmo Super Bowl II (USA),1994 Tecmo
-md_tecmobw2j,Tecmo Super Bowl II - Special Edition (Jpn),1994 Tecmo
-md_tecmobw3,Tecmo Super Bowl III - Final Edition (USA),1995 Tecmo
+md_tecmosbwj,Tecmo Super Bowl (Jpn),1993 Tecmo
+md_tecmosbwa,Tecmo Super Bowl (USA  199309),1993 Tecmo
+md_tecmosbw,Tecmo Super Bowl (USA  199310),1993 Tecmo
+md_tecmosb2,Tecmo Super Bowl II (USA),1994 Tecmo
+md_tecmosb2j,Tecmo Super Bowl II - Special Edition (Jpn),1994 Tecmo
+md_tecmosb3,Tecmo Super Bowl III - Final Edition (USA),1995 Tecmo
 md_tecmohck,Tecmo Super Hockey (USA),1994 Tecmo
 md_tecmonbaj,Tecmo Super NBA Basketball (Jpn),1994 Tecmo
 md_tecmonba,Tecmo Super NBA Basketball (USA),1993 Tecmo
@@ -4502,7 +4531,7 @@ md_tmnttfu,Teenage Mutant Ninja Turtles - Tournament Fighters (USA),1993 Konami
 tmnt22pu,Teenage Mutant Ninja Turtles - Turtles in Time (2 Players ver. UDA),1991 Konami
 tmnt2a,Teenage Mutant Ninja Turtles - Turtles in Time (4 Players ver. ADA),1991 Konami
 tmnt2,Teenage Mutant Ninja Turtles - Turtles in Time (4 Players ver. UAA),1991 Konami
-md_teitoku,Teitoku no Ketsudan (Jpn),1992 Koei
+md_teiketsu,Teitoku no Ketsudan (Jpn),1992 Koei
 tekipaki,Teki Paki,1991 Toaplan
 md_tekkn3sp,Tekken 3 Special,199? <unlicensed>
 md_telmah,Tel-Tel Mahjong (Jpn),1990 Sunsoft
@@ -4520,12 +4549,12 @@ terracren,Terra Cresta (YM2203),1985 Nichibutsu
 terracre,Terra Cresta (YM3526 set 1),1985 Nichibutsu
 terracreo,Terra Cresta (YM3526 set 2),1985 Nichibutsu
 terracrea,Terra Cresta (YM3526 set 3),1985 Nichibutsu
-pce_tcresta2,Terra Cresta II - Mandoraa no Gyakushuu,1992 Nihon Bussan
+pce_terracr2,Terra Cresta II - Mandoraa no Gyakushuu,1992 Nihon Bussan
 terrafb,Terra Force (bootleg),1987 Nichibutsu
 terrafjb,Terra Force (Japan bootleg with additional Z80),1987 bootleg
 terrafu,Terra Force (US),1987 Nichibutsu USA
 terraf,Terra Force,1987 Nichibutsu
-md_testdrv2,Test Drive II - The Duel (Euro  USA),1992 Ballistic
+md_td2,Test Drive II - The Duel (Euro  USA),1992 Ballistic
 tetrisbl,Tetris (bootleg),1988 bootleg
 tetrsark,Tetris (D.R. Korea),198? D.R. Korea
 tetrista,Tetris (Japan  B-System  YM2203),1989 Sega
@@ -4561,7 +4590,7 @@ md_mightmaxu,The Adventures of Mighty Max (USA),1994 Ocean
 md_rockybw,The Adventures of Rocky and Bullwinkle and Friends (USA),1993 Absolute Entertainment
 mrflea,The Amazing Adventures of Mr. F. Lea,1982 Pacific Novelty
 anteateruk,The Anteater (UK),1983 Free Enterprise Games
-md_aquaticg,The Aquatic Games Starring James Pond and the Aquabats (Euro  USA),1992 Electronic Arts
+md_aquagame,The Aquatic Games Starring James Pond and the Aquabats (Euro  USA),1992 Electronic Arts
 md_redcliff,The Battle of Red Cliffs - Romance of the Three Kingdoms,199? <unlicensed>
 md_redcliffa,The Battle of Red Cliffs - Romance of the Three Kingdoms (Fixed?),199? <unlicensed>
 battroad,The Battle-Road,1984 Irem
@@ -4613,22 +4642,23 @@ flstoryj,The FairyLand Story (Japan),1985 Taito
 froundl,The Final Round (ver. L),1988 Konami
 fround,The Final Round (ver. M),1988 Konami
 md_flint,The Flintstones (Euro),1993 Taito
+md_flintj,The Flintstones (Jpn),1993 Taito
 md_flintu,The Flintstones (USA),1993 Taito
 theglob,The Glob,1983 Epos Corporation
 theglob2,The Glob (earlier),1983 Epos Corporation
 theglobp,The Glob (Pac-Man hardware),1983 Epos Corporation
 theglob3,The Glob (set 3),1983 Epos Corporation
-md_greatcir,The Great Circus Mystery Starring Mickey & Minnie (USA),1994 Capcom
+md_mickeycm,The Great Circus Mystery Starring Mickey & Minnie (USA),1994 Capcom
 ragtimea,The Great Ragtime Show (Japan v1.3  92.11.26),1992 Data East Corporation
 ragtime,The Great Ragtime Show (Japan v1.5  92.12.07),1992 Data East Corporation
-md_greatws,The Great Waldo Search (USA),1992 THQ
+md_waldo,The Great Waldo Search (USA),1992 THQ
 md_humans,The Humans (USA),1992 GameTek
 md_hybridf,The Hybrid Front (Jpn),1994 Sega
 md_hybridfp,The Hybrid Front (Jpn  Prototype),1994 Sega
 md_immortal,The Immortal (Euro  USA),1993 Electronic Arts
 md_crashdum,The Incredible Crash Dummies (Euro  USA),1993 Flying Edge
 md_crashdump,The Incredible Crash Dummies (USA  Prototype),1993 Flying Edge
-md_incrhulk,The Incredible Hulk (Euro  USA),1994 U.S. Gold
+md_hulk,The Incredible Hulk (Euro  USA),1994 U.S. Gold
 md_incredib,The Incredibles (Rus),199? Glorysun
 skingame,The Irem Skins Game (US set 1),1992 Irem America
 skingame2,The Irem Skins Game (US set 2),1992 Irem America
@@ -4639,6 +4669,7 @@ killbld104,The Killing Blade (V104),1998 IGS
 killbld,The Killing Blade (V109  China),1998 IGS
 md_killshow,The Killing Game Show (Jpn),1993 Electronic Arts Victor
 kodr1,The King of Dragons (910711 etc),1991 Capcom
+kodda,The King of Dragons (910731 etc Phoenix?),1991 Capcom
 kod,The King of Dragons (910805 etc),1991 Capcom
 kodh,The King of Dragons (bootleg set 2),1991 Capcom
 kodja,The King of Dragons (Japan 910805  B-Board 89625B-1),1991 Capcom
@@ -4672,9 +4703,9 @@ kof99k,The King of Fighters '99 - Millennium Battle (Korean release),1999 SNK
 kof99p,The King of Fighters '99 - Millennium Battle (prototype),1999 SNK
 kof99,The King of Fighters '99 - Millennium Battle (set 1),1999 SNK
 kof99h,The King of Fighters '99 - Millennium Battle (set 2),1999 SNK
-kof10th,The King of Fighters 10th Anniversary (The King of Fighters 2002 bootleg),2002 bootleg
-kf2k5uni,The King of Fighters 10th Anniversary 2005 Unique (The King of Fighters 2002 bootleg),2004 bootleg
-kf10thep,The King of Fighters 10th Anniversary Extra Plus (The King of Fighters 2002 bootleg),2005 bootleg
+kof10th,The King of Fighters 10th Anniversary (bootleg),2002 bootleg
+kf2k5uni,The King of Fighters 10th Anniversary 2005 Unique (bootleg),2004 bootleg
+kf10thep,The King of Fighters 10th Anniversary Extra Plus (bootleg),2005 bootleg
 kof2000,The King of Fighters 2000 (NGM-2570) (NGH-2570),2000 SNK
 kof2000n,The King of Fighters 2000 (not encrypted),2000 SNK
 kof2001h,The King of Fighters 2001 (NGH-2621),2001 SNK / Eolith
@@ -4695,11 +4726,11 @@ kf2k3bla,The King of Fighters 2003 (bootleg set 2),2003 bootleg
 kof2003h,The King of Fighters 2003 (NGH-2710),2003 SNK Playmore
 kof2003,The King of Fighters 2003 (NGM-2710),2003 SNK Playmore
 kf2k3pcb,The King of Fighters 2003,2003 Playmore / Capcom
-kf2k3pl,The King of Fighters 2004 Plus / Hero (The King of Fighters 2003 bootleg),2003 bootleg
-kf2k3upl,The King of Fighters 2004 Ultra Plus (The King of Fighters 2003 bootleg),2003 bootleg
+kf2k3pl,The King of Fighters 2004 Plus / Hero (bootleg),2003 bootleg
+kf2k3upl,The King of Fighters 2004 Ultra Plus (bootleg),2003 bootleg
 md_kof99,The King of Fighters 99,199? <unlicensed>
-kof2k4se,The King of Fighters Special Edition 2004 (The King of Fighters 2002 bootleg),2004 bootleg
-kf2k4pls,The King of Fighters Special Edition 2004 Plus (The King of Fighters 2002 bootleg),2004 bootleg
+kof2k4se,The King of Fighters Special Edition 2004 (bootleg),2004 bootleg
+kf2k4pls,The King of Fighters Special Edition 2004 Plus (bootleg),2004 bootleg
 pce_kungfu,The Kung Fu,1987 Hudson
 lastbladh,The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGH-2340),1997 SNK
 lastblad,The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340),1997 SNK
@@ -4730,7 +4761,7 @@ md_msbp07,The Magic School Bus (Prototype  19950327),1995 Sega
 mainevt2p,The Main Event (2 Players ver. X),1988 Konami
 mainevto,The Main Event (4 Players ver. F),1988 Konami
 mainevt,The Main Event (4 Players ver. Y),1988 Konami
-md_mpiano,The Miracle Piano Teaching System (USA),1992 Software Toolworks
+md_miraclep,The Miracle Piano Teaching System (USA),1992 Software Toolworks
 pce_tnzs,The New Zealand Story,1990 Taito
 md_tnzs,The New Zealand Story (Jpn),1990 Taito
 tnzsj,The NewZealand Story (Japan  new version  newer PCB),1988 Taito Corporation
@@ -4754,13 +4785,13 @@ md_oozep07,The Ooze (Prototype  19950615),1995 Sega
 md_oozep06,The Ooze (Prototype  19950619),1995 Sega
 md_oozep02,The Ooze (Prototype  19950629),1995 Sega
 md_oozep03,The Ooze (Prototype  19950629-B),1995 Sega
-md_ottifa,The Ottifants (Euro),1993 Sega
-md_ottifag,The Ottifants (Ger  Prototype),1993 Sega
-md_pagemast,The Pagemaster (Euro),1994 Fox Interactive
-md_pagemastu,The Pagemaster (USA),1994 Fox Interactive
-md_pagemastup,The Pagemaster (USA  Prototype),1994 Fox Interactive
-md_pirate1,The Pirates of Dark Water (Euro  USA  May 1994),1994 Sunsoft
-md_pirate,The Pirates of Dark Water (USA  January 1994),1994 Sunsoft
+md_ottifant,The Ottifants (Euro),1993 Sega
+md_ottifantg,The Ottifants (Ger  Prototype),1993 Sega
+md_pagemstr,The Pagemaster (Euro),1994 Fox Interactive
+md_pagemstru,The Pagemaster (USA),1994 Fox Interactive
+md_pagemstrup,The Pagemaster (USA  Prototype),1994 Fox Interactive
+md_piratedw1,The Pirates of Dark Water (Euro  USA  May 1994),1994 Sunsoft
+md_piratedw,The Pirates of Dark Water (USA  January 1994),1994 Sunsoft
 thepitm,The Pit (bootleg on Moon Quasar hardware),198? bootleg (KZH)
 punisher,The Punisher (930422 etc),1993 Capcom
 punisherj,The Punisher (930422 Japan),1993 Capcom
@@ -4783,9 +4814,9 @@ simpsons,The Simpsons (4 Players World  set 1),1991 Konami
 simpsons4pa,The Simpsons (4 Players World  set 2),1991 Konami
 md_bartvssm1,The Simpsons - Bart Vs The Space Mutants (Euro  USA),1992 Flying Edge
 md_bartvssm,The Simpsons - Bart Vs The Space Mutants (Euro  USA  Rev. A),1992 Flying Edge
-md_bartnigt,The Simpsons - Bart's Nightmare (Euro  USA),1993 Flying Edge
+md_bartnigh,The Simpsons - Bart's Nightmare (Euro  USA),1993 Flying Edge
 md_smurfs,The Smurfs (Euro  Rev. A),1995 Infogrames
-md_smurfs2,The Smurfs Travel the World (Euro),1996 Infogrames
+md_smurfstw,The Smurfs Travel the World (Euro),1996 Infogrames
 srumbler,The Speed Rumbler (set 1),1986 Capcom
 srumbler2,The Speed Rumbler (set 2),1986 Capcom
 md_thor,The Story of Thor (Euro),1995 Sega
@@ -4807,7 +4838,7 @@ md_termintr,The Terminator (Euro),1991 Virgin Games
 md_termintru,The Terminator (USA),1991 Virgin Games
 md_tick,The Tick (USA),1994 Fox Interactive
 thetogyu,The Togyu (315-5065  Japan),1984 Coreland / Sega
-pce_druaga,The Tower of Druaga,19?? Unknown
+pce_druaga,The Tower of Druaga,1992 Namcot
 ssideki4,The Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero,1996 SNK
 wintbob,The Winter Bobble (bootleg),1990 bootleg
 md_youngind,The Young Indiana Jones Chronicles (USA  Prototype),199? <unknown>
@@ -4866,12 +4897,12 @@ timescan,Time Scanner (set 2  System 16B),1987 Sega
 tg_timeball,Timeball,1990 NEC
 md_tinhead,TinHead (USA),1993 Ballistic
 md_tintin,Tintin au Tibet (Euro),1995 Infogrames
-md_ttoonbblk,Tiny Toon Adventures (Kor),1993 Konami
+md_ttoonbhtk,Tiny Toon Adventures (Kor),1993 Konami
 md_ttacme,Tiny Toon Adventures - Acme All-Stars (Euro),1994 Konami
 md_ttacmeu,Tiny Toon Adventures - Acme All-Stars (USA  Kor),1994 Konami
-md_ttoonbbl,Tiny Toon Adventures - Buster's Hidden Treasure (Euro),1993 Konami
-md_ttoonbblu,Tiny Toon Adventures - Buster's Hidden Treasure (USA),1993 Konami
-md_ttoon3,Tiny Toon Adventures 3 (Tw),199? Gamtec?
+md_ttoonbht,Tiny Toon Adventures - Buster's Hidden Treasure (Euro),1993 Konami
+md_ttoonbhtu,Tiny Toon Adventures - Buster's Hidden Treasure (USA),1993 Konami
+md_ttoon3,Tiny Toon Adventures 3 (Tw  Cracked),199? Gamtec?
 pce_titan,Titan,1991 Naxat
 md_tnnbass,TNN Bass Tournament of Champions (USA),1993 American Softworks
 md_tnnout,TNN Outdoors Bass Tournament '96 (USA),1996 American Softworks
@@ -4933,11 +4964,13 @@ tripoola,Tri-Pool (Costal Games),1981 Noma (Costal Games license)
 pce_tricky,Tricky,1991 IGS
 tg_tricky,Tricky Kick,1990 NEC
 trigon,Trigon (Japan),1990 Konami
+triothepj,Trio The Punch - Never Forget Me... (Japan),1989 Data East Corporation
+triothep,Trio The Punch - Never Forget Me... (World),1989 Data East Corporation
 tdpgal,Triple Draw Poker,1983 Design Labs / Thomas Automatics
 triplfun,Triple Fun,1993 bootleg
-md_triple96,Triple Play '96 (USA),1995 Electronic Arts
-md_tpgold,Triple Play Gold (USA),1996 Electronic Arts
-md_tpgolda,Triple Play Gold (USA  Alt),1995 Electronic Arts
+md_tplay96,Triple Play '96 (USA),1995 Electronic Arts
+md_tplaygld,Triple Play Gold (USA),1996 Electronic Arts
+md_tplayglda,Triple Play Gold (USA  Alt),1995 Electronic Arts
 triplep,Triple Punch,1982 KKI
 trojanr,Trojan (Romstar),1986 Capcom (Romstar license)
 trojan,Trojan (US),1986 Capcom
@@ -4949,7 +4982,7 @@ md_truelies,True Lies (World),1995 Acclaim Entertainment
 md_truxton,Truxton (Euro  USA) ~ Tatsujin (Jpn),1989 Sega
 truxton2,Truxton II,1992 Toaplan
 truxton,Truxton,1988 [Toaplan] Taito Corporation
-pce_tsupozum,Tsuppari Oozumou - Heisei Ban,19?? Naxat
+pce_tsuppari,Tsuppari Oozumou - Heisei Ban,1993 Naxat
 pce_baibai,Tsuru Teruhito no Jissen Kabushiki Bai Bai Game,1989 Intec
 tumbleb,Tumble Pop (bootleg set 1),1991 Data East Corporation
 tumbleb2,Tumble Pop (bootleg set 2),1991 Data East Corporation
@@ -4960,21 +4993,21 @@ md_tunshi,Tun Shi Tian Di III (China  Simple Chinese),199? <unlicensed>
 turbofrc,Turbo Force,1991 Video System Co.
 toutrun1,Turbo Out Run (deluxe cockpit  FD1094 317-0109),1989 Sega
 toutrun,Turbo Out Run (Out Run upgrade  FD1094 317-0118),1989 Sega
-toutrun3,Turbo Out Run (upright  FD1094 317-unknown),1989 Sega
+toutrun3,Turbo Out Run (upright  FD1094 317-0107),1989 Sega
 md_turboout,Turbo OutRun (Euro  Jpn),1992 Sega
 turkhunt,Turkey Hunting USA V1.0,2001 Sammy USA Corporation
-md_turmad,Turma da Mônica na Terra dos Monstros (Bra),1996 Tec Toy
+md_turmamon,Turma da Mônica na Terra dos Monstros (Bra),1996 Tec Toy
 turpin,Turpin,1981 Konami (Sega license)
 turpins,Turpin (bootleg on Scramble hardware),1981 bootleg
 tg_turrican,Turrican,1991 Ballistic
 md_turrican,Turrican (Euro  USA),1991 Ballistic
 turtles,Turtles,1981 Konami (Stern license)
-pce_tvbasket,TV Sports Basketball,1993 Victor Interactive Software
 tg_tvbasket,TV Sports Basketball,1991 NEC
-pce_tvfootbl,TV Sports Football,1991 Victor Interactive Software
+pce_tvbasket,TV Sports Basketball,1993 Victor Interactive Software
 tg_tvfootbl,TV Sports Football,1990 NEC
-tg_tvhockey,TV Sports Hockey,1991 NEC
+pce_tvfootbl,TV Sports Football,1991 Victor Interactive Software
 pce_tvhockey,TV Sports Hockey,1993 Victor Interactive Software
+tg_tvhockey,TV Sports Hockey,1991 NEC
 twinactn,Twin Action,1995 Afega
 twinadvk,Twin Adventure (Korea),1995 Barko Corp
 twinadv,Twin Adventure (World),1995 Barko Corp
@@ -5014,14 +5047,14 @@ uccopsar,Undercover Cops (Alpha Renewal Version),1992 Irem
 uccopsj,Undercover Cops (Japan),1992 Irem
 uccopsu,Undercover Cops (US),1992 Irem
 uccops,Undercover Cops (World),1992 Irem
-md_universs,Universal Soldier (Euro  USA),1992 Ballistic
+md_univsold,Universal Soldier (Euro  USA),1992 Ballistic
 uniwars,UniWar S,1980 Irem
 md_unknown2,Unknown Game 2 (Rockman-related?),199? <unknown>
 unkpacg,unknown Pac-Man gambling game,199? unknown
 md_unnecess,Unnecessary Roughness 95 (USA),1994 Accolade
 upndown,Up'n Down (315-5030),1983 Sega
 upndownu,Up'n Down (not encrypted),1983 Sega
-md_urbanstr,Urban Strike (Euro  USA),1994 Electronic Arts
+md_ustrike,Urban Strike (Euro  USA),1994 Electronic Arts
 mustangs,US AAF Mustang (25th May. 1990 / Seoul Trading),1990 UPL (Seoul Trading license)
 mustang,US AAF Mustang (25th May. 1990),1990 UPL
 mustangb,US AAF Mustang (bootleg),1990 bootleg
@@ -5041,6 +5074,7 @@ vampjr1,Vampire - the night warriors (940630 Japan),1994 Capcom
 vampj,Vampire - the night warriors (940705 Japan),1994 Capcom
 vampja,Vampire - the night warriors (940705 Japan  alt),1994 Capcom
 vhuntjr2,Vampire Hunter - darkstalkers' revenge (950302 Japan),1995 Capcom
+vhuntjr1s,Vampire Hunter - darkstalkers' revenge (950307 Japan stop version),1995 Capcom
 vhuntjr1,Vampire Hunter - darkstalkers' revenge (950307 Japan),1995 Capcom
 vhuntj,Vampire Hunter - darkstalkers' revenge (950316 Japan),1995 Capcom
 vhunt2d,Vampire Hunter 2 - darkstalkers revenge (970913 Japan Phoenix Edition),1997 bootleg
@@ -5093,16 +5127,16 @@ md_venom,Venom & Spider-Man - Separation Anxiety (Euro  USA),1995 Acclaim Entert
 venus,Venus,1983 bootleg
 md_vermilj,Vermilion (Jpn),1989 Sega
 md_verytex,Verytex (Jpn),1991 Asmik Ace
-pce_victoryr,Victory Run,1987 Hudson
 tg_victoryr,Victory Run,1989 NEC
+pce_victoryr,Victory Run,1987 Hudson
 hustler,Video Hustler,1981 Konami
 hustlerb,Video Hustler (bootleg),1981 bootleg
 vpool,Video Pool (bootleg on Moon Cresta hardware),1980 bootleg
 viewpoin,Viewpoint,1992 Sammy / Aicom
-md_viewp,Viewpoint (USA),1994 American Sammy
-md_viewpp,Viewpoint (USA  Prototype),1994 American Sammy
-tg_vigilant,Vigilante,1989 NEC
+md_viewpoin,Viewpoint (USA),1994 American Sammy
+md_viewpoinp,Viewpoint (USA  Prototype),1994 American Sammy
 pce_vigilant,Vigilante,1989 Irem
+tg_vigilant,Vigilante,1989 NEC
 vigilantj,Vigilante (Japan),1988 Irem
 vigilantu,Vigilante (US),1988 Irem (Data East USA License)
 vigilantu2,Vigilante (US  rev G),1988 Irem (Data East USA License)
@@ -5125,7 +5159,7 @@ md_vf2p2,Virtua Fighter 2 (Prototype  19960920),1996 Sega
 md_vf2p1,Virtua Fighter 2 (Prototype  19960927),1996 Sega
 md_vf2tek,Virtua Fighter 2 vs Tekken 2,199? <unlicensed>
 md_vbart,Virtual Bart (World),1994 Acclaim Entertainment
-md_virtpb,Virtual Pinball (Euro  USA),1993 Electronic Arts
+md_vpinball,Virtual Pinball (Euro  USA),1993 Electronic Arts
 md_vixen357,Vixen 357 (Jpn),1992 NCS
 md_virak,Voina Irak (Pirate),199? <unknown>
 pce_volfied,Volfied,1989 Taito
@@ -5143,7 +5177,7 @@ vulgusj,Vulgus (Japan?),1984 Capcom
 vulgus,Vulgus (set 1),1984 Capcom
 vulgusa,Vulgus (set 2),1984 Capcom
 pce_wring,W-ring - The Double Rings,1990 Naxat
-md_wackyr,Wacky Races (USA  Prototype),199? <unknown>
+md_wackyrac,Wacky Races (USA  Prototype),199? <unknown>
 md_wworldsp3,Wacky Worlds (Prototype  19940808),1994 Sega
 md_wworldsp2,Wacky Worlds (Prototype  19940817),1994 Sega
 md_wworldsp1,Wacky Worlds (Prototype  19940819),1994 Sega
@@ -5151,7 +5185,7 @@ md_wworlds,Wacky Worlds (USA),1994 Sega
 pce_waiwaimj,Wai Wai Mahjong - Yukaina Janyuu Tachi,1989 Video System
 mj4simai,Wakakusamonogatari Mahjong Yonshimai (Japan),1996 Maboroshi Ware
 wakuwak7,Waku Waku 7,1996 Sunsoft
-pce_valkyrie,Walkuere no Densetsu,1990 Namco
+pce_valkyrie,Walkuere no Densetsu,1990 Namcot
 wallc,Wall Crash (set 1),1984 Midcoin
 wallca,Wall Crash (set 2),1984 Midcoin
 pce_wallaby,Wallaby!! - Usagi no Kuni no Kangaroo Race,1990 Masiya
@@ -5160,7 +5194,7 @@ wwallyj,Wally wo Sagase! (rev B  Japan  FD1094 317-0197B),1992 Sega
 md_waniwani,Wani Wani World (Jpn),1992 Kaneko
 wrofaero,War of Aero - Project MEIOU,1993 Yang Cheng
 warofbug,War of the Bugs or Monsterous Manouvers in a Mushroom Maze,1981 Armenia
-warzarda,War-Zard / Red Earth (Japan 961023),1996 Capcom
+warzardr1,War-Zard / Red Earth (Japan 961023),1996 Capcom
 warzard,War-Zard / Red Earth (Japan 961121),1996 Capcom
 md_wardner,Wardner (USA),1991 Mentrix Software
 md_wardnerj,Wardner no Mori Special (Jpn),1991 Visco
@@ -5180,14 +5214,14 @@ wmatch,Water Match (315-5064),1984 Sega
 md_waterwld,WaterWorld (Euro  Prototype),1995? Ocean
 md_wayneg,Wayne Gretzky and the NHLPA All-Stars (Euro  USA),1995 Time Warner Interactive
 md_waynewld,Wayne's World (USA),1993 THQ
-md_weapnlrd,Weaponlord (USA),1995 Namco
+md_weaponld,Weaponlord (USA),1995 Namco
 welltrisj,Welltris - Alexey Pajitnov's (Japan  2 players),1991 Video System Co.
 welltris,Welltris - Alexey Pajitnov's (World?  2 players),1991 Video System Co.
 md_whacacri,Whac-a-Critter (USA),1993 Realtec
 md_wheelfor,Wheel of Fortune (USA),1992 GameTek
-md_wworldbr,Where in the World Is Carmen Sandiego? (Bra),199? Tec Toy
+md_wworldb,Where in the World Is Carmen Sandiego? (Bra),199? Tec Toy
 md_wworld,Where in the World Is Carmen Sandiego? (Euro  USA),1992 Electronic Arts
-md_wtimebr,Where in Time Is Carmen Sandiego? (Bra),199? Tec Toy
+md_wtimeb,Where in Time Is Carmen Sandiego? (Bra),199? Tec Toy
 md_wtime,Where in Time Is Carmen Sandiego? (Euro  USA),1992 Electronic Arts
 md_whiprush,Whip Rush (USA),1990 Renovation
 md_whiprushj,Whip Rush - Wakusei Voltegas no Nazo (Jpn),1990 Sega
@@ -5239,12 +5273,12 @@ wb32,Wonder Boy III - Monster Lair (set 2  Japan  System 16B  FD1094 317-0085),1
 wb33,Wonder Boy III - Monster Lair (set 3  World  System 16B  FD1094 317-0089),1988 Sega / Westone
 wb34,Wonder Boy III - Monster Lair (set 4  Japan  System 16B  FD1094 317-0087),1988 Sega / Westone
 wb3,Wonder Boy III - Monster Lair (set 5  World  System 16B  8751 317-0098),1988 Sega / Westone
-md_wbmw,Wonder Boy in Monster World (Euro  USA),1992 Sega
+md_wboymw,Wonder Boy in Monster World (Euro  USA),1992 Sega
 md_wboy5,Wonder Boy V - Monster World III (Jpn  Kor),1991 Sega
 wondl96,Wonder League '96 (Korea),1995 SemiCom
 wlstar,Wonder League Star - Sok-Magicball Fighting (Korea),1995 Mijin
 md_wondlib,Wonder Library (Jpn),199? <unknown>
-pce_wonderm,Wonder Momo,1989 Namco
+pce_wonderm,Wonder Momo,1989 Namcot
 wndrplnt,Wonder Planet (Japan),1987 Data East Corporation
 wondstck,Wonder Stick,???? Yun Sung
 woodpeck,Woodpecker (set 1),1981 Amenip (Palcom Queen River)
@@ -5274,7 +5308,7 @@ md_wcs2p04,World Championship Soccer II (Prototype  19940329-B),1994 Sega
 md_wcs2p02,World Championship Soccer II (Prototype  19940330),1994 Sega
 md_wcs2u,World Championship Soccer II (USA),1994 Sega
 md_wcs2up,World Championship Soccer II (USA  Prototype),1994 Sega
-pce_wcircuit,World Circuit,1991 Namco
+pce_wcircuit,World Circuit,1991 Namcot
 tg_wcbasebl,World Class Baseball,1989 NEC
 md_wclead,World Class Leaderboard Golf (Euro),1992 U.S. Gold
 md_wcleadu,World Class Leaderboard Golf (USA),1992 U.S. Gold
@@ -5284,7 +5318,7 @@ wc90a,World Cup '90 (Euro set 1),1989 Tecmo
 wc90b,World Cup '90 (Euro set 2),1989 Tecmo
 wc90t,World Cup '90 (trackball),1989 Tecmo
 wc90,World Cup '90 (World),1989 Tecmo
-md_wc90,World Cup Italia '90 (Euro),1990 Sega
+md_wcup90,World Cup Italia '90 (Euro),1990 Sega
 md_wcup94,World Cup USA 94 (Euro  USA  Kor),1994 U.S. Gold
 wh1h,World Heroes (ALH-005,1992 Alpha Denshi Co.
 wh1,World Heroes (ALM-005),1992 Alpha Denshi Co.
@@ -5312,7 +5346,7 @@ md_whp03,World Heroes (USA  Prototype  19940330),1994 Sega
 wh2,World Heroes 2 (ALM-006)(ALH-006),1993 ADK
 wh2j,World Heroes 2 Jet (ADM-007)(ADH-007),1994 ADK / SNK
 whp,World Heroes Perfect,1995 ADK / SNK
-pce_wjockey,World Jockey,1991 Namco
+pce_wjockey,World Jockey,1991 Namcot
 md_worldillj,World of Illusion - Fushigi na Magic Box (Jpn),1992 Sega
 md_worldilljp,World of Illusion - Fushigi na Magic Box (Jpn  Prototype),1992 Sega
 md_worldill,World of Illusion Starring Mickey Mouse and Donald Duck (Euro),1992 Sega
@@ -5368,7 +5402,7 @@ md_wrstball,Wrestleball (Jpn),1991 Namcot
 md_wukong,Wu Kong Wai Zhuan (Chi),1996 Ming
 md_wwfraw,WWF Raw (World),1994 Acclaim Entertainment
 md_wwfroyal,WWF Royal Rumble (World),1994 Flying Edge
-md_swmania,WWF Super WrestleMania (Euro  USA),1992 Flying Edge
+md_wwfsup,WWF Super WrestleMania (Euro  USA),1992 Flying Edge
 wwfsstar,WWF Superstars (Europe),1989 Technos Japan
 wwfsstaru,WWF Superstars (US),1989 Technos Japan
 wwfsstara,WWF Superstars (US  Newer),1989 Technos Japan
@@ -5383,6 +5417,7 @@ xmultipl,X Multiply (World  M81),1989 Irem
 xmen2pa,X-Men (2 Players ver AAA),1992 Konami
 xmen2pe,X-Men (2 Players ver EAA),1992 Konami
 xmen2pj,X-Men (2 Players ver JAA),1992 Konami
+xmena,X-Men (4 Players ver ADA),1992 Konami
 xmene,X-Men (4 Players ver EBA),1992 Konami
 xmenj,X-Men (4 Players ver JBA),1992 Konami
 xmen,X-Men (4 Players ver UBB),1992 Konami
@@ -5436,9 +5471,9 @@ xmvsfu,X-Men vs Street Fighter (961023 USA),1996 Capcom
 md_xpertp,X-perts (Prototype),1996 Sega
 md_xpert,X-perts (USA),1996 Sega
 md_xdrxda,XDR - X Dazedly Ray (Jpn),1990 Unipac
-md_xenon2m,Xenon 2 Megablast (Euro),1992 Virgin Games
+md_xenon2,Xenon 2 - Megablast (Euro),1992 Virgin Games
 3in1semi,XESS - The New Revolution (SemiCom 3-in-1),1997 SemiCom
-pce_xevious,Xevious - Fardraut Densetsu,1990 Namco
+pce_xevious,Xevious - Fardraut Densetsu,1990 Namcot
 md_xiaomo,Xiao Monv - Magic Girl (Chi),199? <unlicensed>
 md_xinqig,Xin Qi Gai Wang Zi (Chi),1996 C&E
 md_xinqig1,Xin Qi Gai Wang Zi (Chi  Alt),1996 C&E
@@ -5450,12 +5485,12 @@ yesnoj,Yes/No Sinri Tokimeki Chart,1992 Taito Corporation
 tg_yobro,Yo  Bro,1991 NEC
 md_yogibear,Yogi Bear's Cartoon Capers (Euro),1994 Empire Interactive
 youjyudn,Youjyuden (Japan),1986 Irem
-pce_yukaido,Youkai Douchuuki,1988 Namco
+pce_youkaid,Youkai Douchuuki,1988 Namcot
 md_ys3j,Ys - Wanderers from Ys (Jpn),1991 Reno
 md_ys3,Ys III (USA),1991 Renovation
-md_yuusf,Yuu Yuu Hakusho - Makyou Toitsusen (Jpn),1994 Sega
-md_yuusfbr,Yuu Yuu Hakusho - Sunset Fighters (Bra),199? Tec Toy
-md_yuugai,Yuu Yuu Hakusho Gaiden (Jpn),1994 Sega
+md_yuyusf,Yu Yu Hakusho - Makyou Toitsusen (Jpn),1994 Sega
+md_yuyusfb,Yu Yu Hakusho - Sunset Fighters (Bra),199? Tec Toy
+md_yuyug,Yu Yu Hakusho Gaiden (Jpn),1994 Sega
 pce_yuyu,Yuu Yuu Jinsei - Victory Life,1988 Hudson
 yuyugogo,Yuuyu no Quiz de GO!GO! (Japan),1990 Taito Corporation
 md_zanyasha,Zan Yasha Enbukyoku (Jpn),1991 Wolf Team
@@ -5467,8 +5502,8 @@ pce_zero4c,Zero 4 Champ (v1.5),1991 Media Rings
 zeropnt,Zero Point (set 1),1998 Unico
 zeropnta,Zero Point (set 2),1998 Unico
 zeropnt2,Zero Point 2,1999 Unico
-md_zerokami,Zero the Kamikaze Squirrel (Euro),1994 SunSoft
-md_zerokamiu,Zero the Kamikaze Squirrel (USA),1994 SunSoft
+md_zero,Zero the Kamikaze Squirrel (Euro),1994 SunSoft
+md_zerou,Zero the Kamikaze Squirrel (USA),1994 SunSoft
 zerotime,Zero Time,1979 Petaco S.A
 md_zerotol,Zero Tolerance (Euro  USA),1994 Accolade
 zerowing,Zero Wing,1989 Toaplan
