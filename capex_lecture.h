@@ -274,7 +274,7 @@ char lecture_zipname(void)
 				data.etat[data.nb_list[0]] +=9 ;
 				++data.nb_cache;
 			}*/
-			nitoa((int)data.nb_list[0]+1,buffer,10);
+			nitoa((int)data.nb_list[0]+1,&buffer[0],10);
             strcpy(prog,"READING GAME LIST: ");
             strcat(prog,buffer);
             SDL_FillRect(screen,&progrect,0);

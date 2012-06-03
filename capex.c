@@ -53,6 +53,7 @@ unsigned long fbdev;
 int vb;
 
 int ErrorQuit;
+int fastscroll=0;
 
 SDL_Event event;
 
@@ -395,7 +396,7 @@ void nitoa (
             xtoa((unsigned long)val, buf, radix, 1);
         else
             xtoa((unsigned long)(unsigned int)val, buf, radix, 0);
-        return buf;
+//        return buf;
 }
 
 
@@ -409,7 +410,7 @@ void redraw_screen(void)
 		fps_count = SDL_GetTicks();
 	}else {
 	    SDL_Flip(screen);
-	    ioctl(fbdev,FBIO_WAITFORVSYNC,&vb);
+	    if (fastscroll==0) ioctl(fbdev,FBIO_WAITFORVSYNC,&vb);
 	}
 }
 
@@ -2056,6 +2057,12 @@ int main(int argc, char *argv[])
             selector.y = START_Y-1;
         }
     }
+    else{
+        selector.y = START_Y-1;
+            selector.crt_x=0;
+            selector.num = 0;
+            selector.offset_num = 0;
+    }
 	}
     else
     {
@@ -2204,6 +2211,67 @@ int main(int argc, char *argv[])
 							}
 						}
 					}
+					}else if (event.key.keysym.sym==SDLK_RSHIFT){
+					if ( selector.num==0 && compteur==0 ){
+						selector.num = data.nb_list[capex.list] - 13 ;
+						if (data.nb_list[capex.list] < 14){
+						//	selector.y = START_Y -1 + ( ( data.nb_list[capex.list] - 1 ) *9 ) ;
+							//selector.offset_num = 0;
+						}else{
+							selector.y = START_Y-1;// -1 + (12*9) ;
+							selector.offset_num = data.nb_list[capex.list] - 13;
+						}
+					}else{
+
+							if (selector.offset_num>13){
+								//selector.y-=(13*9);
+								selector.num-=13;
+								selector.offset_num-=13;
+								if (compteur==0){
+									load_preview(selector.num);
+									load_cf();
+								}
+							}
+							else{
+								selector.y = START_Y-1;
+                                selector.num = 0;
+                                selector.offset_num = 0;
+								if (compteur==0){
+									load_preview(selector.num);
+									load_cf();
+								}
+							}
+
+					}
+                }else if (event.key.keysym.sym==SDLK_RCTRL){
+					if ( selector.num >= (data.nb_list[capex.list]-13) && compteur==0 ){
+						selector.y = START_Y-1;
+						selector.num = 0;
+						selector.offset_num = 0;
+					}else{
+
+							if (selector.offset_num<data.nb_list[capex.list]-26){
+								//selector.y-=(13*9);
+								selector.num+=13;
+								selector.offset_num+=13;
+								//if (selector.offset_num>data.nb_list[capex.list]-13) selector.offset_num=data.nb_list[capex.list]-13;
+								//if (selector.num>data.nb_list[capex.list]-1) selector.num=data.nb_list[capex.list]-1;
+								if (compteur==0){
+									load_preview(selector.num);
+									load_cf();
+								}
+							}
+							else{
+								selector.y=START_Y-1;
+								selector.num=data.nb_list[capex.list]-13;
+								selector.offset_num=data.nb_list[capex.list]-13;
+								if (compteur==0){
+									load_preview(selector.num);
+									load_cf();
+								}
+							}
+
+					}
 				}else if (event.key.keysym.sym==SDLK_LEFT && selector.crt_x>0){
 					--selector.crt_x;
 				}else if (event.key.keysym.sym==SDLK_RIGHT && selector.crt_x<data.long_max-53 ){
@@ -2212,6 +2280,8 @@ int main(int argc, char *argv[])
 					if ( ss_prg_credit() ) Quit = 1;
                 }else if (event.key.keysym.sym==SDLK_0){
 					if ( ss_prg_credit() ) Quit = 1;
+                }else if (event.key.keysym.sym==SDLK_END ){
+                    fastscroll=1;
 				}else if (event.key.keysym.sym==SDLK_HOME ){
 					// executer l'emu
 					//if ( data.etat[listing_tri[capex.list][selector.num]] == VERT || data.etat[listing_tri[capex.list][selector.num]] == BLEU ){
@@ -2234,6 +2304,7 @@ int main(int argc, char *argv[])
 			}
 			++compteur;
 		}else if (event.type==SDL_KEYUP){
+		    if( event.key.keysym.sym == SDLK_END ) fastscroll=0;
 			if (compteur){
 				load_preview(selector.num);
 				load_cf();
